@@ -18,7 +18,11 @@ class Tokenizer {
 		int lineNumber = 0;
 		String lastLineWord = "";
 		boolean firstWordNeedsJoining = false;
+		int numberRunningUpCaseWords = 0;
 		boolean lastWordWasStartingUpper = false;
+		boolean dontAddToken = false;
+		boolean hyphenatedWordAdded = false;
+		boolean isUpperCaseWord = false;
 		String runningUpperCaseWords = "";
 		Iterator<String> it = lines.iterator();
 		while (it.hasNext())
@@ -30,22 +34,65 @@ class Tokenizer {
 			int numbWords = words.length;
 			for (String word : words)
 			{
+				word = word.trim();
+				if (Character.isUpperCase(word.charAt(0)))
+				{
+					isUpperCaseWord = true;
+				} else {
+					isUpperCaseWord = false;
+				}
 				/////////////
 				// CAPITAL LETTER CHAINS
 				////////////
-				if (!(i == 1 && (firstWordNeedsJoining || word.startsWith("-"))))
-				{
-					if (Character.isUpperCase(word.charAt(0)))
+			 	if ((i == 1) && firstWordNeedsJoining) { 
+					if (numberRunningUpCaseWords > 0)
 					{
-						lastWordWasStartingUpper = true;
-						runningUpperCaseWords = runningUpperCaseWords+" "+word;
-					} else if (lastWordWasStartingUpper) {
-						tokens.add(runningUpperCaseWords);
-						runningUpperCaseWords = "";
-						lastWordWasStartingUpper = false;
+						runningUpperCaseWords = runningUpperCaseWords.substring(0,runningUpperCaseWords.length()-1)+word;
+						if (isUpperCaseWord)
+						{
+							numberRunningUpCaseWords--;
+						}
 					} else {
-						lastWordWasStartingUpper = false;
+						tokens.add(lastLineWord.substring(0,lastLineWord.length()-1)+word);
 					}
+					
+					firstWordNeedsJoining = false;
+					dontAddToken = true;
+					hyphenatedWordAdded = true;	
+				}
+				if (isUpperCaseWord)
+				{
+					System.out.println(numberRunningUpCaseWords);
+					System.out.println(word);
+					lastWordWasStartingUpper = true;
+					numberRunningUpCaseWords++;
+					System.out.println(numberRunningUpCaseWords+"\n");
+					if ((numberRunningUpCaseWords > 1) && !firstWordNeedsJoining)
+					{
+						System.out.println("in here");
+						runningUpperCaseWords = runningUpperCaseWords+" "+word;
+					} else {
+						runningUpperCaseWords = word;
+					}
+					System.out.println(runningUpperCaseWords);
+					dontAddToken = true;
+				} else if (lastWordWasStartingUpper) {
+					
+					if (numberRunningUpCaseWords > 0 && !(hyphenatedWordAdded && numberRunningUpCaseWords == 1))
+					{
+						tokens.add(runningUpperCaseWords);
+					} 
+					else if ((!hyphenatedWordAdded && numberRunningUpCaseWords != 1)) 
+					{
+						tokens.add(runningUpperCaseWords);
+					}
+					numberRunningUpCaseWords = 0;
+					runningUpperCaseWords = "";
+					lastWordWasStartingUpper = false;
+					dontAddToken = false;
+				} else {
+					lastWordWasStartingUpper = false;
+					dontAddToken = false;
 				}
 				/////////////
 				// CAPITAL LETTER CHAINS
@@ -55,28 +102,23 @@ class Tokenizer {
 				// HYPHENS
 				////////////
 				//Store last word for hyphen check of first word in next line
-				if (i == numbWords)
+				if ((i == numbWords) && word.endsWith("-"))
 				{
 					lastLineWord = word;
-					if (word.endsWith("-"))
-					{
-						firstWordNeedsJoining = true;
-					}
+					firstWordNeedsJoining = true;
+					dontAddToken = true;
 				}
+				
 				//if first word of line contains hyphen join to last word of last line
-				if (lineNumber != 1 && i == 1)
+				if ((i == 1) && firstWordNeedsJoining && numberRunningUpCaseWords == 0)
 				{
-					if (word.startsWith("-") || firstWordNeedsJoining)
-					{
-						if (!lastWordWasStartingUpper)
-						{
-							tokens.add(lastLineWord+word.substring(0,word.length()));
-							firstWordNeedsJoining = false;
-						} else {
-							runningUpperCaseWords = runningUpperCaseWords+" "+word;
-							lastWordWasStartingUpper = true;
-						}
-					}
+					System.out.println(lastLineWord.substring(0,lastLineWord.length()-1)+word);
+					tokens.add(lastLineWord.substring(0,lastLineWord.length()-1)+word);
+					firstWordNeedsJoining = false;
+					dontAddToken = true;
+					hyphenatedWordAdded = true; 
+				} else {
+					hyphenatedWordAdded = false; 
 				}
 				/////////////
 				// END HYPHENS
@@ -90,7 +132,12 @@ class Tokenizer {
 				// END EMAIL ADDRESSES
 				////////////
 				
+				if (!dontAddToken)
+				{
+					tokens.add(word);
+				}
 				
+				dontAddToken = false;
 				
 				i++;
 			}

@@ -93,7 +93,21 @@ class Indexer {
 			if (fileLines.size() > 0)
 			{
 				numbDocuments += 1;
+				System.out.println("=====BEFORE TOKENIZING=====");
+				
+				for (String line : fileLines)
+				{
+					System.out.println(line);
+				}
+				
 				ArrayList<String> tokens = tokenizer1.tokenize(fileLines);
+				System.out.println("=====AFTER TOKENIZING=====");
+				for (String token : tokens)
+				{
+					System.out.print(token+"-");
+				}
+				System.out.print("\n");
+				System.out.print("\n");
 			}
 		}
 	}
