@@ -48,10 +48,15 @@ class Tokenizer {
 					if (numberRunningUpCaseWords > 0)
 					{
 						runningUpperCaseWords = runningUpperCaseWords.substring(0,runningUpperCaseWords.length()-1)+word;
+						System.out.println("=====");
+						System.out.println(runningUpperCaseWords);
+						
 						if (isUpperCaseWord)
 						{
 							numberRunningUpCaseWords--;
 						}
+						System.out.println(numberRunningUpCaseWords);
+						System.out.println("=====");
 					} else {
 						tokens.add(lastLineWord.substring(0,lastLineWord.length()-1)+word);
 					}
@@ -76,7 +81,7 @@ class Tokenizer {
 					}
 					System.out.println(runningUpperCaseWords);
 					dontAddToken = true;
-				} else if (lastWordWasStartingUpper) {
+				} else if (lastWordWasStartingUpper && !hyphenatedWordAdded) {
 					
 					if (numberRunningUpCaseWords > 0 && !(hyphenatedWordAdded && numberRunningUpCaseWords == 1))
 					{
@@ -90,6 +95,9 @@ class Tokenizer {
 					runningUpperCaseWords = "";
 					lastWordWasStartingUpper = false;
 					dontAddToken = false;
+				} else if (lastWordWasStartingUpper && hyphenatedWordAdded) { 
+					lastWordWasStartingUpper = true;
+					dontAddToken = true;
 				} else {
 					lastWordWasStartingUpper = false;
 					dontAddToken = false;
