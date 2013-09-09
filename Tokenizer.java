@@ -1,6 +1,9 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Iterator;
 import java.util.Map;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import java.io.*;
 
 class Tokenizer {
@@ -28,13 +31,21 @@ class Tokenizer {
 		while (it.hasNext())
 		{
 			lineNumber++; //for debug
-			String line = it.next();
-			String[] words = line.trim().split(" ");
-			int i = 1;
+			String line = it.next(); //get the next line
+			
+			// split the words on any of the characters within the square brackets (can appear one or more times together)
+			String[] words = line.trim().split("[ {.,:;\"\'()?!}]+");
+			System.out.println("=====");
+			System.out.println(Arrays.toString(words));
+			System.out.println("=====");
+			int i = 1; // word count in the line
 			int numbWords = words.length;
 			for (String word : words)
 			{
+				// make sure word has no surrounding white space
 				word = word.trim();
+				
+				// determine once if word is an uppercase word
 				if (Character.isUpperCase(word.charAt(0)))
 				{
 					isUpperCaseWord = true;
@@ -108,7 +119,7 @@ class Tokenizer {
 				
 				/////////////
 				// HYPHENS
-				////////////
+				/////////////
 				//Store last word for hyphen check of first word in next line
 				if ((i == numbWords) && word.endsWith("-"))
 				{
