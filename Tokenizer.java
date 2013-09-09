@@ -18,6 +18,7 @@ class Tokenizer {
 	{
 		ArrayList<String> tokens = new ArrayList<String>();
 		
+		// regex for email addresses
 		String r = "(?:[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*|\"(?:[\\x01-\\x08\\x0b\\x0c\\x0e-\\x1f\\x21\\x23-\\x5b\\x5d-\\x7f]|\\\\[\\x01-\\x09\\x0b\\x0c\\x0e-\\x7f])*\")@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\\[(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[a-z0-9-]*[a-z0-9]:(?:[\\x01-\\x08\\x0b\\x0c\\x0e-\\x1f\\x21-\\x5a\\x53-\\x7f]|\\\\[\\x01-\\x09\\x0b\\x0c\\x0e-\\x7f])+)\\])";
 		Pattern p = Pattern.compile(r);
 		
@@ -30,6 +31,7 @@ class Tokenizer {
 		boolean hyphenatedWordAdded = false;
 		boolean isUpperCaseWord = false;
 		String runningUpperCaseWords = "";
+		String wordToBeAdded = "";
 		Iterator<String> it = lines.iterator();
 		while (it.hasNext())
 		{
@@ -57,6 +59,8 @@ class Tokenizer {
 				// make sure word has no surrounding white space
 				word = word.trim();
 				
+				wordToBeAdded = word;
+				
 				// determine once if word is an uppercase word
 				if (Character.isUpperCase(word.charAt(0)))
 				{
@@ -71,38 +75,34 @@ class Tokenizer {
 					if (numberRunningUpCaseWords > 0)
 					{
 						runningUpperCaseWords = runningUpperCaseWords.substring(0,runningUpperCaseWords.length()-1)+word;
-						System.out.println("=====");
-						System.out.println(runningUpperCaseWords);
-						
+
 						if (isUpperCaseWord)
 						{
 							numberRunningUpCaseWords--;
 						}
-						System.out.println(numberRunningUpCaseWords);
-						System.out.println("=====");
+
 					} else {
-						tokens.add(lastLineWord.substring(0,lastLineWord.length()-1)+word);
+						//tokens.add(lastLineWord.substring(0,lastLineWord.length()-1)+word);
+						wordToBeAdded = lastLineWord.substring(0,lastLineWord.length()-1)+word;
 					}
 					
 					firstWordNeedsJoining = false;
-					dontAddToken = true;
+					dontAddToken = false;
 					hyphenatedWordAdded = true;	
 				}
 				if (isUpperCaseWord)
 				{
-					System.out.println(numberRunningUpCaseWords);
-					System.out.println(word);
+
 					lastWordWasStartingUpper = true;
 					numberRunningUpCaseWords++;
-					System.out.println(numberRunningUpCaseWords+"\n");
+
 					if ((numberRunningUpCaseWords > 1) && !firstWordNeedsJoining)
 					{
-						System.out.println("in here");
 						runningUpperCaseWords = runningUpperCaseWords+" "+word;
 					} else {
 						runningUpperCaseWords = word;
 					}
-					System.out.println(runningUpperCaseWords);
+
 					dontAddToken = true;
 				} else if (lastWordWasStartingUpper && !hyphenatedWordAdded) {
 					
@@ -114,6 +114,12 @@ class Tokenizer {
 					{
 						tokens.add(runningUpperCaseWords);
 					}
+					
+					Stemmer porterStemmer = new Stemmer();
+					porterStemmer.add(runningUpperCaseWords.toCharArray(), runningUpperCaseWords.length());
+					porterStemmer.stem();
+					tokens.add(porterStemmer.toString());
+					
 					numberRunningUpCaseWords = 0;
 					runningUpperCaseWords = "";
 					lastWordWasStartingUpper = false;
@@ -143,10 +149,10 @@ class Tokenizer {
 				//if first word of line contains hyphen join to last word of last line
 				if ((i == 1) && firstWordNeedsJoining && numberRunningUpCaseWords == 0)
 				{
-					System.out.println(lastLineWord.substring(0,lastLineWord.length()-1)+word);
-					tokens.add(lastLineWord.substring(0,lastLineWord.length()-1)+word);
+					//tokens.add(lastLineWord.substring(0,lastLineWord.length()-1)+word);
+					wordToBeAdded = lastLineWord.substring(0,lastLineWord.length()-1)+word;
 					firstWordNeedsJoining = false;
-					dontAddToken = true;
+					dontAddToken = false;
 					hyphenatedWordAdded = true; 
 				} else {
 					hyphenatedWordAdded = false; 
@@ -155,17 +161,12 @@ class Tokenizer {
 				// END HYPHENS
 				/////////////
 				
-				/////////////
-				// EMAIL ADDRESSES
-				////////////
-				
-				/////////////
-				// END EMAIL ADDRESSES
-				////////////
-				
 				if (!dontAddToken)
 				{
-					tokens.add(word);
+					Stemmer porterStemmer = new Stemmer();
+					porterStemmer.add(wordToBeAdded.toCharArray(), wordToBeAdded.length());
+					porterStemmer.stem();
+					tokens.add(porterStemmer.toString());
 				}
 				
 				dontAddToken = false;
