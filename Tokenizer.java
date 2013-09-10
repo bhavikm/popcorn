@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.Map;
+import java.util.HashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.io.*;
@@ -14,9 +15,10 @@ class Tokenizer {
 	}
 		
 
-	public ArrayList<String> tokenize(ArrayList<String> lines)
+	public HashMap<String,Integer> tokenize(ArrayList<String> lines)
 	{
 		ArrayList<String> tokens = new ArrayList<String>();
+		HashMap<String, Integer> tokenFreqs = new HashMap<String, Integer>();
 		
 		// regex for email addresses
 		String r = "(?:[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*|\"(?:[\\x01-\\x08\\x0b\\x0c\\x0e-\\x1f\\x21\\x23-\\x5b\\x5d-\\x7f]|\\\\[\\x01-\\x09\\x0b\\x0c\\x0e-\\x7f])*\")@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\\[(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[a-z0-9-]*[a-z0-9]:(?:[\\x01-\\x08\\x0b\\x0c\\x0e-\\x1f\\x21-\\x5a\\x53-\\x7f]|\\\\[\\x01-\\x09\\x0b\\x0c\\x0e-\\x7f])+)\\])";
@@ -108,17 +110,25 @@ class Tokenizer {
 					
 					if (numberRunningUpCaseWords > 0 && !(hyphenatedWordAdded && numberRunningUpCaseWords == 1))
 					{
-						tokens.add(runningUpperCaseWords);
+						//tokens.add(runningUpperCaseWords);
 					} 
 					else if ((!hyphenatedWordAdded && numberRunningUpCaseWords != 1)) 
 					{
-						tokens.add(runningUpperCaseWords);
+						//tokens.add(runningUpperCaseWords);
 					}
 					
 					Stemmer porterStemmer = new Stemmer();
 					porterStemmer.add(runningUpperCaseWords.toCharArray(), runningUpperCaseWords.length());
 					porterStemmer.stem();
-					tokens.add(porterStemmer.toString());
+					//tokens.add(porterStemmer.toString());
+					String stemmedToken = porterStemmer.toString();
+					
+					if (tokenFreqs.containsKey(stemmedToken))
+					{
+						tokenFreqs.put(stemmedToken, tokenFreqs.get(stemmedToken)+1);
+					} else {
+						tokenFreqs.put(stemmedToken, 1);
+					}
 					
 					numberRunningUpCaseWords = 0;
 					runningUpperCaseWords = "";
@@ -166,7 +176,16 @@ class Tokenizer {
 					Stemmer porterStemmer = new Stemmer();
 					porterStemmer.add(wordToBeAdded.toCharArray(), wordToBeAdded.length());
 					porterStemmer.stem();
-					tokens.add(porterStemmer.toString());
+					//tokens.add(porterStemmer.toString());
+					String stemmedToken = porterStemmer.toString();
+					
+					if (tokenFreqs.containsKey(stemmedToken))
+					{
+						tokenFreqs.put(stemmedToken, tokenFreqs.get(stemmedToken) + 1);
+					} else {
+						tokenFreqs.put(stemmedToken, 1);
+					}
+					
 				}
 				
 				dontAddToken = false;
@@ -175,7 +194,7 @@ class Tokenizer {
 			}
 		}
 		
-		return tokens;
+		return tokenFreqs;
 	}
 
 

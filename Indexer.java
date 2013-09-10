@@ -4,6 +4,7 @@ import java.io.*;
 import java.util.Scanner;
 import java.util.Map;
 import java.util.HashMap;
+import java.lang.Math;
 
 class Indexer {
 
@@ -79,11 +80,90 @@ class Indexer {
 		return textFiles;
 	}
 	
+	private void writeIndexToFile(String index_dir, int numberCorpusDocs, 
+								  ArrayList<HashMap<String,Integer>> docTokenFrequencies, 
+								  ArrayList<File> corpusFiles)
+	{
+		String indexFileName = "index.txt";
+		// document frequencies for all corpus terms, that is for a given term in corpus how many documents is it in
+		HashMap<String,Integer> termDocFreqs = new HashMap<String,Integer>();
+		// will be of form "term" -> "fileName1,termFreq,fileName2,termFreq...."
+		HashMap<String,String> termFreqs = new HashMap<String,String>();
+		
+		int i = 0;
+		Iterator<HashMap<String,Integer>> it = docTokenFrequencies.iterator();
+		while (it.hasNext())
+		{
+			HashMap<String,Integer> termFreqsForDoc = it.next();
+			//Get filename for this document
+			String fileName = corpusFiles.get(i).getName();
+			
+			// iterate through all the tokens in this document
+			for (Map.Entry<String, Integer> entry : termFreqsForDoc.entrySet())
+			{
+				String term = entry.getKey();
+				int termFreq = entry.getValue();
+				
+				//add to hashmap of term document frequencies
+				if (termDocFreqs.containsKey(term))
+				{
+					termDocFreqs.put(term, termDocFreqs.get(term) + 1);
+				} else {
+					termDocFreqs.put(term, 1);
+				}
+				
+				//add to term frequencies list hashmap
+				if (termFreqs.containsKey(term))
+				{
+					termFreqs.put(term, termFreqs.get(term)+","+fileName+","+Integer.toString(termFreq));
+				} else {
+					termFreqs.put(term, ","+fileName+","+Integer.toString(termFreq));
+				}
+			}
+			
+			i += 1;
+		}
+		// finish building collections from corpus
+		
+		
+		// now write inverted index out to file with appended IDF values at the end
+		try 
+        {
+			PrintWriter writer = new PrintWriter(index_dir+"/"+indexFileName);
+		
+			// iterate through all corpus tokens to write out:
+			for (Map.Entry<String, String> entry : termFreqs.entrySet())
+			{
+				String term = entry.getKey();
+				String docNameTermFreqs = entry.getValue();
+				
+				int docFrequency = termDocFreqs.get(term);
+				//calculate IDF
+				double idf = Math.log(numberCorpusDocs/(docFrequency + 1));
+				//round idf
+				idf = (double)Math.round(idf * 1000) / 1000;
+				
+				//build final string to write to file
+				String indexLineForOutput = term+docNameTermFreqs+","+String.valueOf(idf);
+				
+				//write to file
+				writer.write(indexLineForOutput+"\n");
+			}
+			
+			writer.close();
+		} 
+        catch (IOException e)
+        {
+            System.out.print("Unexpected I/O exception\n");
+        }	
+	}
+	
 	public void makeIndex(String collection_dir, String index_dir)
 	{
 		ArrayList<File> corpusTextFiles = textFilesInDirectory(collection_dir);
 		Tokenizer tokenizer1 = new Tokenizer();
-		int numbDocuments = 0;
+		int numbDocuments = 0;	
+		ArrayList<HashMap<String,Integer>> docTokenFreqs = new ArrayList<HashMap<String,Integer>>();
 		
 		Iterator<File> it = corpusTextFiles.iterator();
 		while (it.hasNext())
@@ -100,16 +180,25 @@ class Indexer {
 					System.out.println(line);
 				}
 				
-				ArrayList<String> tokens = tokenizer1.tokenize(fileLines);
+				//ArrayList<String> tokens = tokenizer1.tokenize(fileLines);
+				HashMap<String, Integer> tokens = tokenizer1.tokenize(fileLines);
 				System.out.println("=====AFTER TOKENIZING=====");
-				for (String token : tokens)
+				//for (String token : tokens)
+				//{
+				//	System.out.print(token+"-");
+				//}
+				for (Map.Entry entry : tokens.entrySet())
 				{
-					System.out.print(token+"-");
+					System.out.print(entry.getKey()+"("+entry.getValue()+")-");
 				}
 				System.out.print("\n");
 				System.out.print("\n");
+				
+				docTokenFreqs.add(tokens);
 			}
 		}
+		
+		writeIndexToFile(index_dir, numbDocuments, docTokenFreqs, corpusTextFiles);
 	}
   
 }
