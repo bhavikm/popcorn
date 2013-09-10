@@ -200,5 +200,6 @@ class Indexer {
 		
 		writeIndexToFile(index_dir, numbDocuments, docTokenFreqs, corpusTextFiles);
 	}
+	
   
 }

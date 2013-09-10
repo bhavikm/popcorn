@@ -20,7 +20,8 @@ class popcorn {
 		} else {
 			if (args.length >= 4)
 			{
-				//valid index
+				//valid search
+				
 			} else {
 				System.out.println("Invalid number of arguments, need to provide index_dir, num_docs and at least 1 keyword"); 
 			}
@@ -28,7 +29,7 @@ class popcorn {
 		
 	} else {
 		System.out.println("to index use: popcorn index collection_dir index_dir [stopwords.txt]\n");
-	System.out.println("to search use: popcorn search num_docs keyword1 [keyword2 keyword3 ...]\n");
+		System.out.println("to search use: popcorn search index_dir num_docs keyword1 [keyword2 keyword3 ...]\n");
 	}
   }
   
