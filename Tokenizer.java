@@ -63,134 +63,139 @@ class Tokenizer {
 				
 				wordToBeAdded = word;
 				
-				// determine once if word is an uppercase word
-				if (Character.isUpperCase(word.charAt(0)))
+				if (word.length() > 0)
 				{
-					isUpperCaseWord = true;
-				} else {
-					isUpperCaseWord = false;
-				}
-				/////////////
-				// CAPITAL LETTER CHAINS
-				////////////
-			 	if ((i == 1) && firstWordNeedsJoining) { 
-					if (numberRunningUpCaseWords > 0)
+				
+					// determine once if word is an uppercase word
+					if (Character.isUpperCase(word.charAt(0)))
 					{
-						runningUpperCaseWords = runningUpperCaseWords.substring(0,runningUpperCaseWords.length()-1)+word;
-
-						if (isUpperCaseWord)
+						isUpperCaseWord = true;
+					} else {
+						isUpperCaseWord = false;
+					}
+					/////////////
+					// CAPITAL LETTER CHAINS
+					////////////
+				 	if ((i == 1) && firstWordNeedsJoining) { 
+						if (numberRunningUpCaseWords > 0)
 						{
-							numberRunningUpCaseWords--;
+							runningUpperCaseWords = runningUpperCaseWords.substring(0,runningUpperCaseWords.length()-1)+word;
+
+							if (isUpperCaseWord)
+							{
+								numberRunningUpCaseWords--;
+							}
+
+						} else {
+							//tokens.add(lastLineWord.substring(0,lastLineWord.length()-1)+word);
+							wordToBeAdded = lastLineWord.substring(0,lastLineWord.length()-1)+word;
+						}
+					
+						firstWordNeedsJoining = false;
+						dontAddToken = false;
+						hyphenatedWordAdded = true;	
+					}
+					if (isUpperCaseWord)
+					{
+
+						lastWordWasStartingUpper = true;
+						numberRunningUpCaseWords++;
+
+						if ((numberRunningUpCaseWords > 1) && !firstWordNeedsJoining)
+						{
+							runningUpperCaseWords = runningUpperCaseWords+" "+word;
+						} else {
+							runningUpperCaseWords = word;
 						}
 
+						dontAddToken = true;
+					} else if (lastWordWasStartingUpper && !hyphenatedWordAdded) {
+					
+						if (numberRunningUpCaseWords > 0 && !(hyphenatedWordAdded && numberRunningUpCaseWords == 1))
+						{
+							//tokens.add(runningUpperCaseWords);
+						} 
+						else if ((!hyphenatedWordAdded && numberRunningUpCaseWords != 1)) 
+						{
+							//tokens.add(runningUpperCaseWords);
+						}
+					
+						Stemmer porterStemmer = new Stemmer();
+						porterStemmer.add(runningUpperCaseWords.toCharArray(), runningUpperCaseWords.length());
+						porterStemmer.stem();
+						//tokens.add(porterStemmer.toString());
+						String stemmedToken = porterStemmer.toString();
+					
+						if (tokenFreqs.containsKey(stemmedToken))
+						{
+							tokenFreqs.put(stemmedToken, tokenFreqs.get(stemmedToken)+1);
+						} else {
+							tokenFreqs.put(stemmedToken, 1);
+						}
+					
+						numberRunningUpCaseWords = 0;
+						runningUpperCaseWords = "";
+						lastWordWasStartingUpper = false;
+						dontAddToken = false;
+					} else if (lastWordWasStartingUpper && hyphenatedWordAdded) { 
+						lastWordWasStartingUpper = true;
+						dontAddToken = true;
 					} else {
+						lastWordWasStartingUpper = false;
+						dontAddToken = false;
+					}
+					/////////////
+					// CAPITAL LETTER CHAINS
+					////////////
+				
+					/////////////
+					// HYPHENS
+					/////////////
+					//Store last word for hyphen check of first word in next line
+					if ((i == numbWords) && word.endsWith("-"))
+					{
+						lastLineWord = word;
+						firstWordNeedsJoining = true;
+						dontAddToken = true;
+					}
+				
+					//if first word of line contains hyphen join to last word of last line
+					if ((i == 1) && firstWordNeedsJoining && numberRunningUpCaseWords == 0)
+					{
 						//tokens.add(lastLineWord.substring(0,lastLineWord.length()-1)+word);
 						wordToBeAdded = lastLineWord.substring(0,lastLineWord.length()-1)+word;
-					}
-					
-					firstWordNeedsJoining = false;
-					dontAddToken = false;
-					hyphenatedWordAdded = true;	
-				}
-				if (isUpperCaseWord)
-				{
-
-					lastWordWasStartingUpper = true;
-					numberRunningUpCaseWords++;
-
-					if ((numberRunningUpCaseWords > 1) && !firstWordNeedsJoining)
-					{
-						runningUpperCaseWords = runningUpperCaseWords+" "+word;
+						firstWordNeedsJoining = false;
+						dontAddToken = false;
+						hyphenatedWordAdded = true; 
 					} else {
-						runningUpperCaseWords = word;
+						hyphenatedWordAdded = false; 
 					}
-
-					dontAddToken = true;
-				} else if (lastWordWasStartingUpper && !hyphenatedWordAdded) {
+					/////////////
+					// END HYPHENS
+					/////////////
+				
+					if (!dontAddToken)
+					{
+						Stemmer porterStemmer = new Stemmer();
+						porterStemmer.add(wordToBeAdded.toCharArray(), wordToBeAdded.length());
+						porterStemmer.stem();
+						//tokens.add(porterStemmer.toString());
+						String stemmedToken = porterStemmer.toString();
 					
-					if (numberRunningUpCaseWords > 0 && !(hyphenatedWordAdded && numberRunningUpCaseWords == 1))
-					{
-						//tokens.add(runningUpperCaseWords);
-					} 
-					else if ((!hyphenatedWordAdded && numberRunningUpCaseWords != 1)) 
-					{
-						//tokens.add(runningUpperCaseWords);
+						if (tokenFreqs.containsKey(stemmedToken))
+						{
+							tokenFreqs.put(stemmedToken, tokenFreqs.get(stemmedToken) + 1);
+						} else {
+							tokenFreqs.put(stemmedToken, 1);
+						}
+					
 					}
-					
-					Stemmer porterStemmer = new Stemmer();
-					porterStemmer.add(runningUpperCaseWords.toCharArray(), runningUpperCaseWords.length());
-					porterStemmer.stem();
-					//tokens.add(porterStemmer.toString());
-					String stemmedToken = porterStemmer.toString();
-					
-					if (tokenFreqs.containsKey(stemmedToken))
-					{
-						tokenFreqs.put(stemmedToken, tokenFreqs.get(stemmedToken)+1);
-					} else {
-						tokenFreqs.put(stemmedToken, 1);
-					}
-					
-					numberRunningUpCaseWords = 0;
-					runningUpperCaseWords = "";
-					lastWordWasStartingUpper = false;
+				
 					dontAddToken = false;
-				} else if (lastWordWasStartingUpper && hyphenatedWordAdded) { 
-					lastWordWasStartingUpper = true;
-					dontAddToken = true;
-				} else {
-					lastWordWasStartingUpper = false;
-					dontAddToken = false;
+				
+					i++;
+				
 				}
-				/////////////
-				// CAPITAL LETTER CHAINS
-				////////////
-				
-				/////////////
-				// HYPHENS
-				/////////////
-				//Store last word for hyphen check of first word in next line
-				if ((i == numbWords) && word.endsWith("-"))
-				{
-					lastLineWord = word;
-					firstWordNeedsJoining = true;
-					dontAddToken = true;
-				}
-				
-				//if first word of line contains hyphen join to last word of last line
-				if ((i == 1) && firstWordNeedsJoining && numberRunningUpCaseWords == 0)
-				{
-					//tokens.add(lastLineWord.substring(0,lastLineWord.length()-1)+word);
-					wordToBeAdded = lastLineWord.substring(0,lastLineWord.length()-1)+word;
-					firstWordNeedsJoining = false;
-					dontAddToken = false;
-					hyphenatedWordAdded = true; 
-				} else {
-					hyphenatedWordAdded = false; 
-				}
-				/////////////
-				// END HYPHENS
-				/////////////
-				
-				if (!dontAddToken)
-				{
-					Stemmer porterStemmer = new Stemmer();
-					porterStemmer.add(wordToBeAdded.toCharArray(), wordToBeAdded.length());
-					porterStemmer.stem();
-					//tokens.add(porterStemmer.toString());
-					String stemmedToken = porterStemmer.toString();
-					
-					if (tokenFreqs.containsKey(stemmedToken))
-					{
-						tokenFreqs.put(stemmedToken, tokenFreqs.get(stemmedToken) + 1);
-					} else {
-						tokenFreqs.put(stemmedToken, 1);
-					}
-					
-				}
-				
-				dontAddToken = false;
-				
-				i++;
 			}
 		}
 		
