@@ -173,30 +173,9 @@ class Indexer {
 			if (fileLines.size() > 0)
 			{
 				numbDocuments += 1;
-				/*
-				System.out.println("=====BEFORE TOKENIZING=====");
-				
-				for (String line : fileLines)
-				{
-					System.out.println(line);
-				}
-				
-				//ArrayList<String> tokens = tokenizer1.tokenize(fileLines);
-				*/
+
 				HashMap<String, Integer> tokens = tokenizer1.tokenize(fileLines);
-				/*
-				System.out.println("=====AFTER TOKENIZING=====");
-				//for (String token : tokens)
-				//{
-				//	System.out.print(token+"-");
-				//}
-				for (Map.Entry entry : tokens.entrySet())
-				{
-					System.out.print(entry.getKey()+"("+entry.getValue()+")-");
-				}
-				System.out.print("\n");
-				System.out.print("\n");
-				*/
+
 				docTokenFreqs.add(tokens);
 			}
 		}
