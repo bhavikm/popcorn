@@ -1,5 +1,7 @@
 import java.util.Map;
 import java.util.HashMap;
+import java.io.*;
+import java.util.Scanner;
 
 class InvertedIndex {
 
@@ -8,7 +10,8 @@ class InvertedIndex {
 	// term -> inverse-document-frequency value
 	public HashMap<String, Double> termIDFs;
 	// docName -> vectorNorm value (pre-computed to use in cosine similarity calculations)
-	public HashMap<String, Double> docVectorNorms;
+	// Note !!! this will be pre-computed without taking the square-root (thus its the Norm Squared)
+	public HashMap<String, Double> docVectorNormsSquared;
 	
 	private static String indexFileName = "index.txt";
   	
@@ -16,7 +19,7 @@ class InvertedIndex {
 	{
 		invertedIndexTFs = new HashMap<String, HashMap<String, Integer>>();
 		termIDFs = new HashMap<String, Double>();
-		docVectorNorms =  new HashMap<String, Double>();
+		docVectorNormsSquared =  new HashMap<String, Double>();
 	}
 	
 	// Expects file with structure:
@@ -31,11 +34,15 @@ class InvertedIndex {
 	 *     - pre-computed document vector norms:
 	 *          (sum the squares of all tf-idf values for all terms in a doc and take the square root)
 	 */
-	public constructInvertedIndexFromFile(String indexDirectory)
+	public void constructInvertedIndexFromFile(String indexDirectory)
 	{
 		try 
         {
-            FileReader fr = new FileReader(file);
+			if (!indexDirectory.substring(indexDirectory.length() - 1).equals("/"))
+			{
+				indexDirectory = indexDirectory+"/";
+			}
+            FileReader fr = new FileReader(indexDirectory+indexFileName);
             
             try 
             {
@@ -47,9 +54,34 @@ class InvertedIndex {
                 {
                     lineNumber++; //for debug
                     String line = scan.nextLine();    // Read one line of the text file into a string
-                    fileLines.add(line.trim());
-                    //String[] parts = line.split(" ");  // Split the line by space into a String array
-                    //System.out.println(parts[1]+" "+parts[2]);
+                    String[] parts = line.trim().split(",");  // Split the line by space into a String array
+					if (parts.length > 0)
+					{
+						String token = parts[0];
+						// Take last part off, its the IDF 
+						String idfStr = parts[parts.length - 1];
+						double idf = Double.parseDouble(idfStr);
+						termIDFs.put(token, idf);
+						
+						// now get all the doc,term-frequency pairs
+						// NOTE!! the for loop variable increments by 2 each iteration
+						HashMap<String, Integer> docTFs = new HashMap<String, Integer>();
+						for (int i = 1; i < parts.length - 1; i += 2)
+						{
+							int termFreq = Integer.parseInt(parts[i+1]);
+							docTFs.put(parts[i],termFreq);	
+							
+							//add to document vector norm calculation
+							double tfIDFSquared = (termFreq*idf)*(termFreq*idf);
+							if (docVectorNormsSquared.containsKey(parts[i]))
+							{
+								docVectorNormsSquared.put(parts[i], docVectorNormsSquared.get(parts[i]) + tfIDFSquared);
+							} else {
+								docVectorNormsSquared.put(parts[i], tfIDFSquared);
+							}
+						}
+						invertedIndexTFs.put(token, docTFs);
+					}
                 }
             }
             finally

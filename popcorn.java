@@ -24,12 +24,13 @@ class popcorn {
 				String index_dir = args[1];
 				int num_docs = Integer.parseInt(args[2].trim());
 				String[] query_terms = new String[args.length - 3];
-				for (i = 3; i < args.length; i++)
+				for (int i = 3; i < args.length; i++)
 				{
 					query_terms[i-3] = args[i].trim();
 				}
 				
-				
+				InvertedIndex invIndex = new InvertedIndex();
+				invIndex.constructInvertedIndexFromFile(index_dir);
 				
 			} else {
 				System.out.println("Invalid number of arguments, need to provide index_dir, num_docs and at least 1 keyword"); 
