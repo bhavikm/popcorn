@@ -32,6 +32,9 @@ class popcorn {
 				InvertedIndex invIndex = new InvertedIndex();
 				invIndex.constructInvertedIndexFromFile(index_dir);
 				
+				Searcher search = new Searcher(invIndex, num_docs);
+				search.searchByCosineSim(query_terms);
+				
 			} else {
 				System.out.println("Invalid number of arguments, need to provide index_dir, num_docs and at least 1 keyword"); 
 			}
