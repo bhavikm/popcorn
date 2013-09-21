@@ -6,15 +6,24 @@ import java.util.HashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.io.*;
+import java.util.HashSet;
+
 
 class Tokenizer {
 
+	private HashSet<String> stopwords;
+
 	public Tokenizer()
-	{
-	
+	{	
+		stopwords = new HashSet<String>();
 	}
 		
-
+	public void setStopwordList(HashSet<String> stopwordsSet)
+	{
+		stopwords.addAll(stopwordsSet);
+	}
+		
+	// returns HashMap of {token -> frequency}
 	public HashMap<String,Integer> tokenize(ArrayList<String> lines)
 	{
 		ArrayList<String> tokens = new ArrayList<String>();
@@ -59,10 +68,9 @@ class Tokenizer {
 			{
 				// make sure word has no surrounding white space
 				word = word.trim();
-				
 				wordToBeAdded = word;
 				
-				if (word.length() > 0)
+				if (word.length() > 0 && !stopwords.contains(word))
 				{
 				
 					// determine once if word is an uppercase word

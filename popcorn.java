@@ -7,15 +7,20 @@ class popcorn {
 	{
 		if (args[0].equals("index"))
 		{
-			if ((args.length == 2) || (args.length == 3))
+			if ((args.length >= 2) || (args.length <= 4))
 			{
 				String collection_dir = args[1];
 				String index_dir = args[2];
+				String stopwords_file = null;
+				if (args.length == 4)
+				{
+					stopwords_file = args[3];
+				}
 				Indexer index = new Indexer();
-				index.makeIndex(collection_dir, index_dir);
+				index.makeIndex(collection_dir, index_dir, stopwords_file);
 				
 			} else {
-				System.out.println("Invalid number of arguments, need to provide collection_dir, index_dir and optionally a stopwords.txt"); 
+				System.out.println("Invalid number of arguments, need to provide collection_dir, index_dir and optionally a stopwords text file."); 
 			}
 		} else {
 			if (args.length >= 4)

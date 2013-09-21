@@ -5,6 +5,7 @@ import java.util.Scanner;
 import java.util.Map;
 import java.util.HashMap;
 import java.lang.Math;
+import java.util.HashSet;
 
 class Indexer {
 
@@ -156,14 +157,67 @@ class Indexer {
         {
             System.out.print("Unexpected I/O exception\n");
         }	
+		
 	}
 	
-	public void makeIndex(String collection_dir, String index_dir)
+	private HashSet<String> readStopwordFile(String stopwordFilePath)
+	{
+		HashSet<String> stopwords = new HashSet<String>();
+		
+		try 
+        {
+            FileReader fr = new FileReader(stopwordFilePath);
+            
+            try 
+            {
+                Scanner scan = new Scanner(fr);
+				
+                int lineNumber = 0; //for debug
+        
+                while (scan.hasNextLine()) 
+                {
+					//for debug
+                    lineNumber++; 
+					// Read one line of the text file into a string (each line contains one stopword)
+                    String word = scan.nextLine().trim();
+					if (word.length() > 0)
+					{
+						stopwords.add(word.trim());
+					}
+				}
+            }
+            finally
+            {
+               fr.close();
+            }
+            
+        } 
+        catch (FileNotFoundException e) 
+        {
+            System.out.print("Stopwords file not found\n");
+        }
+        catch (IOException e)
+        {
+            System.out.print("Unexpected I/O in stopwords file\n");
+        }
+		
+		return stopwords;
+	}
+	
+	public void makeIndex(String collection_dir, String index_dir, String stopwords_file)
 	{
 		ArrayList<File> corpusTextFiles = textFilesInDirectory(collection_dir);
-		Tokenizer tokenizer1 = new Tokenizer();
 		int numbDocuments = 0;	
 		ArrayList<HashMap<String,Integer>> docTokenFreqs = new ArrayList<HashMap<String,Integer>>();
+		Tokenizer tokenizer1 = new Tokenizer();
+		if (stopwords_file != null)
+		{
+			HashSet<String> stopwords = new HashSet<String>();
+			stopwords.addAll(readStopwordFile(stopwords_file));
+			tokenizer1.setStopwordList(stopwords);
+		}
+		
+		
 		
 		Iterator<File> it = corpusTextFiles.iterator();
 		while (it.hasNext())

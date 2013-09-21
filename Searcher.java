@@ -21,10 +21,29 @@ class Searcher {
 	
 	public void searchByCosineSim(String[] queryTerms)
 	{
+		//Tokenize the raw query
+		String queryAsLine = "";
+		for (String query : queryTerms)
+		{
+			queryAsLine = queryAsLine + " " + query;
+		}
+		ArrayList<String> lineForTokenizer = new ArrayList<String>();
+		lineForTokenizer.add(queryAsLine);
+		Tokenizer tokenizer = new Tokenizer();
+		HashMap<String, Integer> queryTFs = tokenizer.tokenize(lineForTokenizer);
+		ArrayList<String> tokenizedQuery = new ArrayList<String>();
+		for (Map.Entry<String, Integer> entry : queryTFs.entrySet())
+		{
+			String token = entry.getKey();
+			int termFreq = entry.getValue();
+			
+			tokenizedQuery.add(token);
+		}
+		
 		// First check if the query terms are in the inverted list to begin with,
 		// if its not in the corpus no results will be found and can just stop
 		boolean queryInIndex = false;
-		for (String query : queryTerms)
+		for (String query : tokenizedQuery)
 		{
 			if (invIndex.termIDFs.containsKey(query))
 			{
@@ -42,13 +61,16 @@ class Searcher {
 			// Now calculate all the cosine similarities for all documents that contain at least one query term
 			// We can build up the dot-product query term by query term and then divide through by vector norms
 			HashMap<String, Double> queryDocumentDotProducts = new HashMap<String, Double>();
-			for (String query : queryTerms)
+			for (String query : tokenizedQuery)
 			{
+				int queryTF = queryTFs.get(query);
+				
 				//Get all the documents and their term frequencies for this query term
 				if (invIndex.invertedIndexTFs.containsKey(query))
 				{
 					HashMap<String, Integer> docTFs = invIndex.invertedIndexTFs.get(query);
 					double idf = invIndex.termIDFs.get(query);
+					double queryTfIdf = 1.0*queryTF*idf;
 					
 					//iterate through each document, make tf-idf, take dot product 
 					//and add to previous value for document or initialise the dotProducts HashMap
@@ -56,11 +78,9 @@ class Searcher {
 					{
 					    
 						String docName = entry.getKey();
-						
 						int termFreq = entry.getValue();
-						double tfIDF = termFreq*idf;
 						
-						double queryTfIdf = 1.0*idf;
+						double tfIDF = termFreq*idf;
 						
 						double termDotProduct = tfIDF * queryTfIdf;
 						
@@ -73,19 +93,17 @@ class Searcher {
 					}
 					
 					//add to query vector norm
-					queryVectorNorm += idf*idf;
+					queryVectorNorm += queryTfIdf*queryTfIdf;
 					
 				} else {
-					queryVectorNorm += Math.log(numberCorpusDocs)*Math.log(numberCorpusDocs);
+					
+					queryVectorNorm += Math.log(numberCorpusDocs)*queryTF*Math.log(numberCorpusDocs)*queryTF;
 				}
 			}
 			
 			// Now build up the cosine similarity scores for each document
 			// Use a PriorityQueue to automatically store documents in max order
 			PriorityQueue<String> queryDocCosineSimSorted = new PriorityQueue<String>(queryDocumentDotProducts.size(), new DoubleInStringComparator());
-			
-			HashMap<String, Double> queryDocumentCosineSim = new HashMap<String, Double>();
-			
 			for (Map.Entry<String, Double> entry : queryDocumentDotProducts.entrySet())
 			{
 				String docName = entry.getKey();
@@ -94,16 +112,13 @@ class Searcher {
 				
 				String outputString = docName+","+cosineSimilarity;
 				
-				queryDocumentCosineSim.put(docName, cosineSimilarity);
 				queryDocCosineSimSorted.add(outputString);
 			}
-			
 			//Print out all the documents in order of cosine similarity
 			for (int i = 0; i < queryDocumentDotProducts.size() && i < numbSearchResults; i++)
 			{
 				System.out.println(queryDocCosineSimSorted.poll());
 			}
-			//System.out.println(queryDocumentCosineSim);
 		
 		} else {
 			System.out.println("Your search produced no results!");
