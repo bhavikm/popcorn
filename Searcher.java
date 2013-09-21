@@ -4,23 +4,9 @@ import java.util.TreeMap;
 import java.io.*;
 import java.util.Scanner;
 import java.util.*;
+import java.util.Comparator;
+import java.util.PriorityQueue;
 
-class ValueComparator implements Comparator<String> {
-
-    Map<String, Double> base;
-    public ValueComparator(Map<String, Double> base) {
-        this.base = base;
-    }
-
-    // Note: this comparator imposes orderings that are inconsistent with equals.    
-    public int compare(String a, String b) {
-        if (base.get(a) >= base.get(b)) {
-            return -1;
-        } else {
-            return 1;
-        } // returning 0 would merge keys
-    }
-}
 
 class Searcher {
 
@@ -94,25 +80,30 @@ class Searcher {
 				}
 			}
 			
+			// Now build up the cosine similarity scores for each document
+			// Use a PriorityQueue to automatically store documents in max order
+			PriorityQueue<String> queryDocCosineSimSorted = new PriorityQueue<String>(queryDocumentDotProducts.size(), new DoubleInStringComparator());
+			
 			HashMap<String, Double> queryDocumentCosineSim = new HashMap<String, Double>();
 			
 			for (Map.Entry<String, Double> entry : queryDocumentDotProducts.entrySet())
 			{
 				String docName = entry.getKey();
 				double dotProduct = entry.getValue();	
-				
 				double cosineSimilarity = dotProduct / (Math.sqrt(invIndex.docVectorNormsSquared.get(docName))*Math.sqrt(queryVectorNorm));
 				
+				String outputString = docName+","+cosineSimilarity;
+				
 				queryDocumentCosineSim.put(docName, cosineSimilarity);
+				queryDocCosineSimSorted.add(outputString);
 			}
 			
-			System.out.println(queryDocumentCosineSim);
-			
-			//Sort descending cosine sim
-			ValueComparator bvc =  new ValueComparator(queryDocumentCosineSim);
-			TreeMap<String,Double> sorted_map = new TreeMap<String,Double>(bvc);
-			//sorted_map.putAll(queryDocumentCosineSim);
-			System.out.println(sorted_map);
+			//Print out all the documents in order of cosine similarity
+			for (int i = 0; i < queryDocumentDotProducts.size() && i < numbSearchResults; i++)
+			{
+				System.out.println(queryDocCosineSimSorted.poll());
+			}
+			//System.out.println(queryDocumentCosineSim);
 		
 		} else {
 			System.out.println("Your search produced no results!");
@@ -120,3 +111,4 @@ class Searcher {
 		
 	}
 }
+

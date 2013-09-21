@@ -40,7 +40,6 @@ class Tokenizer {
 			lineNumber++; //for debug
 			String line = it.next(); //get the next line
 			
-			
 			//remove email addresses from line first
 			Matcher m = p.matcher(line);
 			while (m.find()) 

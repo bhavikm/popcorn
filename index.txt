@@ -19,7 +19,6 @@ GDP,doc14.txt,20,doc6.txt,1,1.792
 pre-exist,doc2.txt,1,2.303
 event,doc14.txt,2,doc17.txt,1,doc3.txt,1,doc4.txt,2,doc5.txt,4,doc6.txt,9,doc8.txt,1,0.693
 1820,doc14.txt,1,doc6.txt,1,1.792
-While Lloyd’,doc12.txt,1,2.303
 1824,doc14.txt,1,2.303
 1829,doc14.txt,1,2.303
 jet,doc11.txt,15,2.303
@@ -136,7 +135,6 @@ g,doc1.txt,1,doc11.txt,3,doc13.txt,6,doc14.txt,2,doc2.txt,3,doc3.txt,6,doc4.txt,
 Statistics Melbourn,doc5.txt,1,2.303
 d,doc2.txt,1,doc8.txt,1,1.792
 e,doc1.txt,1,doc11.txt,3,doc13.txt,8,doc2.txt,3,doc3.txt,1,doc4.txt,12,doc5.txt,3,doc9.txt,1,0.693
-5–10,doc3.txt,1,2.303
 b,doc2.txt,1,2.303
 censorship,doc8.txt,1,2.303
 c,doc2.txt,1,2.303
@@ -157,6 +155,7 @@ i,doc1.txt,2,doc13.txt,2,doc14.txt,1,doc2.txt,1,doc3.txt,1,doc4.txt,9,doc5.txt,2
 Preston Broadmeadows Newport,doc5.txt,1,2.303
 automaton,doc4.txt,1,2.303
 w,doc2.txt,1,2.303
+“flat”,doc12.txt,1,2.303
 1830,doc14.txt,2,doc6.txt,2,1.792
 522,doc14.txt,1,2.303
 1831,doc6.txt,1,2.303
@@ -202,6 +201,7 @@ A Direct North General View,doc6.txt,1,2.303
 pass-through,doc13.txt,1,2.303
 North Shor,doc6.txt,1,2.303
 Virginia Common,doc20.txt,1,2.303
+-bərn/[3],doc5.txt,1,2.303
 basic,doc11.txt,2,doc13.txt,2,doc14.txt,1,doc4.txt,6,doc6.txt,1,1.099
 civilian,doc14.txt,1,2.303
 Kingdom,doc14.txt,1,2.303
@@ -225,8 +225,10 @@ minimalist,doc10.txt,1,2.303
 brash,doc5.txt,1,2.303
 much,doc1.txt,3,doc13.txt,2,doc14.txt,9,doc17.txt,5,doc20.txt,1,doc3.txt,3,doc4.txt,14,doc5.txt,1,doc6.txt,2,doc8.txt,1,0.0
 mislead,doc4.txt,1,2.303
+2008–2009,doc5.txt,1,2.303
 Romant,doc4.txt,1,2.303
 entitl,doc14.txt,1,doc8.txt,1,1.792
+Martin Waldseemül,doc14.txt,1,2.303
 entiti,doc1.txt,1,doc13.txt,1,doc14.txt,1,doc5.txt,1,1.386
 z/VM,doc10.txt,1,2.303
 port-fac,doc11.txt,1,2.303
@@ -236,6 +238,7 @@ fewer,doc11.txt,2,doc14.txt,2,doc5.txt,1,1.609
 character-mask,doc4.txt,1,2.303
 empennag,doc11.txt,1,2.303
 Endpoint,doc13.txt,1,2.303
+While Lloyd’,doc12.txt,1,2.303
 span,doc11.txt,1,doc5.txt,3,doc6.txt,1,1.609
 writ,doc14.txt,1,2.303
 Deepak Chopra,doc4.txt,1,2.303
@@ -244,9 +247,11 @@ Deepak Chopra,doc4.txt,1,2.303
 German Charaktermask,doc4.txt,1,2.303
 African,doc14.txt,5,doc4.txt,1,1.792
 55%,doc6.txt,1,2.303
+°C,doc3.txt,2,doc5.txt,6,doc6.txt,15,1.609
 hunter-gather,doc5.txt,1,2.303
 Nazi Germani,doc14.txt,1,2.303
 Coast Guard,doc16.txt,1,2.303
+°F,doc3.txt,2,doc5.txt,6,doc6.txt,15,1.609
 1808,doc14.txt,1,2.303
 jurisdict,doc14.txt,2,doc5.txt,1,1.792
 Complet,doc11.txt,1,2.303
@@ -257,7 +262,6 @@ declar,doc14.txt,6,doc5.txt,5,doc6.txt,1,doc8.txt,3,1.386
 1800,doc14.txt,1,doc3.txt,1,doc6.txt,1,1.609
 bushland,doc5.txt,2,doc6.txt,2,1.792
 fuel,doc11.txt,18,doc14.txt,4,1.792
-1985–1993,doc1.txt,1,2.303
 planter,doc14.txt,2,2.303
 Tear,doc14.txt,1,2.303
 550,doc11.txt,1,2.303
@@ -281,6 +285,7 @@ termin,doc10.txt,1,doc11.txt,1,doc5.txt,1,1.609
 Surry Hil,doc6.txt,1,2.303
 wooden,doc4.txt,1,2.303
 which,doc1.txt,7,doc10.txt,6,doc11.txt,20,doc12.txt,14,doc13.txt,19,doc14.txt,37,doc16.txt,2,doc17.txt,2,doc18.txt,2,doc19.txt,1,doc2.txt,1,doc20.txt,8,doc3.txt,10,doc4.txt,155,doc5.txt,64,doc6.txt,31,doc7.txt,3,doc8.txt,12,doc9.txt,1,0.0
+Midwest The Mississippi–Missouri Riv,doc14.txt,1,2.303
 Its Consequences Th,doc4.txt,1,2.303
 brown,doc20.txt,1,doc8.txt,2,1.792
 567,doc14.txt,1,2.303
@@ -291,11 +296,11 @@ subsidi,doc14.txt,1,2.303
 authoris,doc6.txt,3,2.303
 psychoanalysis[edit,doc4.txt,1,2.303
 hot-plugg,doc13.txt,1,2.303
+“the,doc12.txt,2,2.303
 overse,doc5.txt,1,2.303
 predat,doc14.txt,1,doc4.txt,1,1.792
 rock,doc12.txt,2,doc14.txt,1,doc20.txt,2,doc6.txt,6,doc8.txt,1,1.099
 Northern,doc14.txt,1,doc6.txt,1,1.792
-°F In,doc6.txt,1,2.303
 Historical[edit,doc4.txt,1,2.303
 Similarly Bicentennial Park,doc6.txt,1,2.303
 Australian Catholic University Deakin Univers,doc5.txt,1,2.303
@@ -327,7 +332,6 @@ publicli,doc14.txt,2,doc8.txt,1,1.792
 08h	Interface	Mass,doc13.txt,1,2.303
 explicitli,doc14.txt,1,doc4.txt,5,1.792
 In Mai,doc5.txt,1,2.303
-don’t,doc12.txt,1,2.303
 Endeavour Energi,doc6.txt,1,2.303
 Internet Engineering Task Force IETF,doc2.txt,1,2.303
 Sun Labs Project Pulsar,doc10.txt,1,2.303
@@ -368,7 +372,6 @@ Anal Prob,doc8.txt,1,2.303
 full-tim,doc5.txt,1,2.303
 Defens,doc1.txt,1,doc14.txt,4,1.792
 postmodern,doc14.txt,1,doc4.txt,3,1.792
-niq�?b,doc4.txt,1,2.303
 exampl,doc1.txt,6,doc10.txt,1,doc11.txt,1,doc13.txt,3,doc14.txt,2,doc2.txt,25,doc3.txt,2,doc4.txt,8,doc6.txt,4,doc8.txt,1,0.0
 Sydney Ice Dogs Th,doc6.txt,1,2.303
 alien,doc14.txt,1,doc4.txt,10,doc8.txt,1,1.609
@@ -408,7 +411,6 @@ screenshot,doc10.txt,1,2.303
 Cycl,doc5.txt,2,2.303
 contract,doc10.txt,4,doc14.txt,1,doc4.txt,1,doc6.txt,1,1.386
 needed],doc10.txt,1,doc13.txt,7,doc14.txt,3,doc20.txt,4,doc3.txt,1,doc5.txt,3,doc6.txt,3,0.693
-30′,doc20.txt,1,2.303
 1851,doc14.txt,1,doc4.txt,1,doc5.txt,5,doc6.txt,1,1.386
 Height,doc5.txt,1,2.303
 1850,doc14.txt,1,doc5.txt,3,doc6.txt,3,1.609
@@ -439,11 +441,13 @@ higher-expans,doc3.txt,1,2.303
 Black,doc20.txt,1,2.303
 Sydney Six,doc6.txt,1,2.303
 1889,doc5.txt,3,doc6.txt,1,1.792
+Heinrich Theodor Rötsch,doc4.txt,1,2.303
 Western Australia,doc5.txt,1,2.303
 Open Mobile Terminal Platform OMTP,doc13.txt,1,2.303
 1885,doc14.txt,1,doc3.txt,1,doc5.txt,2,1.609
 1888,doc5.txt,2,doc6.txt,1,1.792
 Luci,doc17.txt,40,2.303
+Washington—took,doc14.txt,1,2.303
 1887,doc5.txt,1,2.303
 U S Navi,doc16.txt,1,2.303
 Red Fox,doc5.txt,1,2.303
@@ -454,7 +458,6 @@ Melbourne Neuropsychiatry Centre Oth,doc5.txt,1,2.303
 1883,doc5.txt,1,2.303
 while,doc11.txt,7,doc12.txt,4,doc13.txt,10,doc14.txt,18,doc16.txt,1,doc17.txt,8,doc20.txt,3,doc3.txt,3,doc4.txt,13,doc5.txt,4,doc6.txt,3,doc8.txt,7,doc9.txt,1,0.0
 elsewher,doc14.txt,2,doc4.txt,1,doc9.txt,1,1.609
-so—but,doc8.txt,1,2.303
 1890,doc1.txt,2,doc14.txt,1,doc17.txt,1,doc4.txt,1,doc5.txt,3,1.099
 Malcolm X,doc14.txt,1,2.303
 1891,doc4.txt,1,doc5.txt,3,doc6.txt,1,1.609
@@ -501,6 +504,7 @@ slander,doc8.txt,1,2.303
 sugar,doc14.txt,3,doc3.txt,4,1.792
 thirteen,doc14.txt,1,2.303
 replenish,doc16.txt,3,2.303
+Drácula Siglo XXI,doc17.txt,1,2.303
 Fitzroy Gardens Melbourn,doc5.txt,1,2.303
 furi,doc5.txt,1,2.303
 appear,doc1.txt,3,doc12.txt,1,doc13.txt,2,doc14.txt,1,doc17.txt,3,doc4.txt,21,doc8.txt,9,doc9.txt,3,0.693
@@ -554,11 +558,9 @@ Sea Bondi Beach A,doc6.txt,1,2.303
 hardwood,doc20.txt,1,2.303
 press,doc13.txt,1,2.303
 sort,doc1.txt,1,doc4.txt,2,doc5.txt,1,1.609
-Melbourne’,doc5.txt,1,2.303
 minimun,doc16.txt,1,2.303
 minimum,doc14.txt,1,doc6.txt,1,1.792
 identif,doc4.txt,1,2.303
-–22%,doc14.txt,1,2.303
 geograph,doc14.txt,1,doc20.txt,1,1.792
 met],doc8.txt,1,2.303
 rat-rac,doc4.txt,1,2.303
@@ -582,9 +584,10 @@ Cyril W Cleverdon,doc1.txt,1,2.303
 dissip,doc13.txt,1,2.303
 West Berlin,doc14.txt,1,2.303
 [462],doc14.txt,1,2.303
+36°,doc20.txt,1,2.303
 Victorian Parliament Hous,doc5.txt,1,2.303
-unit—,doc14.txt,1,2.303
 1956/57,doc4.txt,1,2.303
+Étienn,doc4.txt,1,2.303
 Althusserian,doc4.txt,1,2.303
 dissid,doc4.txt,1,2.303
 medium,doc1.txt,1,doc13.txt,1,doc14.txt,1,doc4.txt,1,1.386
@@ -615,7 +618,6 @@ card,doc1.txt,3,doc13.txt,5,doc4.txt,1,doc5.txt,1,doc8.txt,1,1.099
 amidst,doc4.txt,1,2.303
 epigrammat,doc12.txt,1,2.303
 Eve,doc4.txt,1,doc6.txt,1,1.792
-big-boned—cartooni,doc8.txt,1,2.303
 Jerome Robbin,doc14.txt,1,2.303
 Internat,doc11.txt,1,2.303
 Pakistan,doc14.txt,1,2.303
@@ -641,6 +643,8 @@ Buckingham Palac,doc17.txt,1,2.303
 cash,doc14.txt,3,doc4.txt,1,1.792
 coincid,doc11.txt,1,doc4.txt,2,1.792
 case,doc1.txt,1,doc13.txt,1,doc14.txt,2,doc17.txt,1,doc2.txt,3,doc3.txt,1,doc4.txt,14,doc5.txt,1,doc8.txt,2,doc9.txt,1,0.0
+TV Guide’,doc8.txt,1,2.303
+sweet—sh,doc8.txt,1,2.303
 Surry Hills Sydnei,doc6.txt,1,2.303
 oldest,doc14.txt,1,doc3.txt,1,doc4.txt,2,doc5.txt,3,doc6.txt,7,1.099
 vari,doc1.txt,1,doc14.txt,2,doc20.txt,1,doc5.txt,1,doc6.txt,2,1.099
@@ -662,6 +666,7 @@ vast,doc14.txt,2,doc19.txt,1,doc5.txt,2,1.609
 drill,doc14.txt,1,2.303
 Scott,doc8.txt,3,2.303
 beneath,doc3.txt,1,doc5.txt,1,1.792
+”[22],doc12.txt,1,2.303
 snowsho,doc20.txt,1,2.303
 Earth,doc19.txt,1,2.303
 Henry Ford,doc14.txt,1,2.303
@@ -700,7 +705,6 @@ camp,doc14.txt,1,doc5.txt,1,1.792
 appearance[edit,doc13.txt,1,2.303
 solo,doc12.txt,3,2.303
 Carolinian,doc14.txt,1,2.303
-35–54,doc6.txt,1,2.303
 drive,doc12.txt,1,doc13.txt,20,doc14.txt,2,doc3.txt,1,doc5.txt,1,doc6.txt,1,0.693
 St Andrew,doc6.txt,1,2.303
 Anchor Tag,doc2.txt,1,2.303
@@ -757,6 +761,7 @@ pastor,doc5.txt,1,2.303
 citywid,doc6.txt,3,2.303
 [310],doc14.txt,1,2.303
 migrat,doc13.txt,1,doc14.txt,5,doc5.txt,4,1.609
+25–54,doc6.txt,1,2.303
 594,doc5.txt,1,2.303
 Stalinist,doc4.txt,1,2.303
 Capital Th,doc4.txt,1,2.303
@@ -776,7 +781,6 @@ double-neck,doc12.txt,1,2.303
 remind,doc8.txt,1,2.303
 verbal,doc2.txt,1,2.303
 59%,doc14.txt,1,2.303
-—after,doc14.txt,1,2.303
 Maribyrnong Riv,doc5.txt,1,2.303
 unimport,doc4.txt,2,2.303
 [167],doc4.txt,1,doc5.txt,1,1.792
@@ -787,7 +791,6 @@ OTG On The Go,doc13.txt,1,2.303
 591,doc14.txt,1,2.303
 Tullamarine Airport Merri Creek Darebin Creek,doc5.txt,1,2.303
 Le Pouvoir Demasque Pow,doc4.txt,1,2.303
-sweet—sh,doc8.txt,1,2.303
 k=1,doc1.txt,2,2.303
 trumpet,doc12.txt,1,2.303
 Much,doc14.txt,3,doc4.txt,2,doc5.txt,2,1.609
@@ -796,6 +799,7 @@ Franz Schandl,doc4.txt,1,2.303
 contrast,doc14.txt,2,doc4.txt,6,doc6.txt,1,doc8.txt,1,doc9.txt,2,1.099
 traffick,doc11.txt,1,2.303
 grievanc,doc14.txt,1,2.303
+18	Tampa–St,doc14.txt,1,2.303
 funk,doc14.txt,1,2.303
 [162],doc11.txt,1,doc14.txt,1,doc4.txt,1,doc5.txt,1,1.386
 Fertil,doc14.txt,1,2.303
@@ -806,7 +810,6 @@ fund,doc1.txt,1,doc14.txt,2,doc5.txt,3,doc6.txt,1,1.386
 surf,doc14.txt,1,doc5.txt,1,doc6.txt,1,1.609
 #66,doc20.txt,1,2.303
 drew,doc12.txt,1,doc8.txt,1,1.792
-Heinrich Theodor Rötsch,doc4.txt,1,2.303
 #63,doc20.txt,1,2.303
 #64,doc20.txt,1,2.303
 sure,doc17.txt,2,2.303
@@ -851,7 +854,6 @@ paper,doc1.txt,3,doc14.txt,1,doc5.txt,1,doc6.txt,1,doc7.txt,1,doc8.txt,1,0.693
 Columbia,doc14.txt,2,2.303
 P T Barnum,doc14.txt,1,2.303
 self-report,doc14.txt,1,2.303
-St Joseph’,doc6.txt,1,2.303
 [81],doc11.txt,1,doc14.txt,1,doc4.txt,1,doc5.txt,1,doc6.txt,1,doc8.txt,1,0.693
 Moby-Dick,doc14.txt,1,2.303
 revenu,doc11.txt,2,doc14.txt,3,doc5.txt,2,doc6.txt,2,1.386
@@ -916,6 +918,7 @@ black,doc13.txt,1,doc14.txt,5,doc20.txt,8,doc3.txt,1,1.386
 [172],doc14.txt,1,doc4.txt,1,doc5.txt,1,1.609
 #2,doc6.txt,1,2.303
 40%,doc14.txt,4,doc20.txt,1,doc5.txt,1,1.609
+MA–NH MSA	Northeast,doc14.txt,1,2.303
 short-liv,doc12.txt,2,2.303
 $69,doc14.txt,1,2.303
 HID,doc13.txt,2,2.303
@@ -924,6 +927,7 @@ discoveri,doc14.txt,1,doc4.txt,2,doc5.txt,1,1.609
 meteoroid,doc20.txt,1,2.303
 further,doc1.txt,1,doc11.txt,2,doc12.txt,1,doc13.txt,1,doc14.txt,2,doc17.txt,1,doc20.txt,1,doc3.txt,1,doc4.txt,2,doc5.txt,3,doc6.txt,1,0.0
 Williamsburg Virginia,doc14.txt,1,2.303
+Melbourne’,doc5.txt,1,2.303
 408,doc14.txt,1,2.303
 dramaturgi,doc4.txt,1,2.303
 404,doc2.txt,1,2.303
@@ -953,6 +957,7 @@ suffrag,doc14.txt,3,2.303
 self-determin,doc4.txt,1,2.303
 415,doc3.txt,1,2.303
 wage,doc14.txt,2,doc4.txt,1,1.792
+–8X,doc11.txt,1,2.303
 derefer,doc2.txt,1,2.303
 Planform,doc11.txt,1,2.303
 1700,doc14.txt,1,2.303
@@ -960,6 +965,7 @@ deist,doc14.txt,1,2.303
 412,doc11.txt,1,2.303
 2nd,doc16.txt,3,doc5.txt,2,1.792
 Flying Circu,doc8.txt,1,2.303
+platform”,doc12.txt,1,2.303
 Supposedli,doc4.txt,2,2.303
 [170],doc14.txt,1,doc4.txt,1,doc5.txt,1,1.609
 The Sydney Region,doc6.txt,1,2.303
@@ -970,10 +976,8 @@ represent,doc1.txt,4,doc14.txt,1,doc4.txt,4,1.609
 42%,doc14.txt,1,2.303
 antitrust,doc14.txt,1,2.303
 President Thomas Jefferson,doc14.txt,1,2.303
-express—through,doc8.txt,1,2.303
 peripheral-onli,doc13.txt,1,2.303
 cession,doc14.txt,1,2.303
-1837–39,doc4.txt,1,2.303
 embassi,doc14.txt,1,2.303
 mid-siz,doc11.txt,1,2.303
 encount,doc12.txt,1,2.303
@@ -984,6 +988,7 @@ Mina Murrai,doc17.txt,3,2.303
 State Library Supreme Court University General Post Office Government House Customs Hous,doc5.txt,1,2.303
 421,doc11.txt,1,2.303
 Senator Joseph McCarthi,doc14.txt,1,2.303
+so—but,doc8.txt,1,2.303
 420,doc6.txt,1,2.303
 construct,doc11.txt,1,doc12.txt,1,doc13.txt,1,doc14.txt,2,doc4.txt,2,doc5.txt,8,doc6.txt,3,doc8.txt,1,0.693
 422,doc6.txt,1,2.303
@@ -1013,6 +1018,7 @@ self-interest,doc4.txt,4,2.303
 Exhibition Build,doc5.txt,1,2.303
 [26][27],doc11.txt,1,doc5.txt,1,1.792
 unrestrict,doc5.txt,1,2.303
+densities”,doc12.txt,1,2.303
 titular,doc8.txt,1,2.303
 name/valu,doc2.txt,1,2.303
 437,doc14.txt,1,2.303
@@ -1023,6 +1029,7 @@ Doncaster Melbourn,doc5.txt,1,2.303
 coup,doc14.txt,1,2.303
 Hawkesbury River Bi,doc6.txt,1,2.303
 United Nations Chart,doc14.txt,1,2.303
+Köppen,doc5.txt,1,2.303
 moisture-s,doc3.txt,1,2.303
 Oracle Solaris Oracle Enterprise Linux,doc10.txt,1,2.303
 eager,doc14.txt,1,2.303
@@ -1047,6 +1054,7 @@ wall,doc3.txt,1,2.303
 constitution,doc14.txt,2,2.303
 out-of-product,doc11.txt,1,2.303
 ultim,doc1.txt,1,doc14.txt,4,doc4.txt,8,doc5.txt,1,doc8.txt,1,1.099
+1994–1995,doc6.txt,1,2.303
 monarch,doc14.txt,1,2.303
 bogi,doc11.txt,1,2.303
 Social Secur,doc14.txt,2,2.303
@@ -1057,7 +1065,6 @@ $3,doc14.txt,2,doc5.txt,2,1.792
 $2,doc14.txt,3,doc20.txt,1,doc5.txt,1,1.609
 $4,doc14.txt,1,2.303
 Davisville Rhode Island Aft,doc16.txt,1,2.303
-thinker�?,doc12.txt,1,2.303
 451,doc11.txt,1,2.303
 McFerrin Quintero,doc12.txt,1,2.303
 452,doc11.txt,1,2.303
@@ -1069,6 +1076,7 @@ Aircraft,doc11.txt,12,2.303
 Cathay Pacif,doc11.txt,4,2.303
 B773,doc11.txt,1,2.303
 wake,doc14.txt,1,2.303
+states—,doc14.txt,1,2.303
 societi,doc14.txt,4,doc4.txt,48,doc5.txt,2,doc8.txt,1,1.386
 B772,doc11.txt,1,2.303
 Medical Research Australian Stem Cell Centr,doc5.txt,1,2.303
@@ -1100,6 +1108,7 @@ Otherwis,doc13.txt,1,2.303
 fell,doc14.txt,2,2.303
 nine,doc11.txt,2,doc14.txt,6,doc5.txt,1,doc6.txt,4,doc8.txt,1,1.099
 GE9X,doc11.txt,2,2.303
+832	Detroit–Warren–Livonia,doc14.txt,1,2.303
 Commonwealth,doc20.txt,1,2.303
 underpow,doc11.txt,1,2.303
 Broken Hil,doc6.txt,1,2.303
@@ -1115,7 +1124,6 @@ lesson,doc13.txt,1,doc8.txt,2,1.792
 ordinarili,doc4.txt,1,2.303
 wherea,doc17.txt,1,2.303
 Capita Centr,doc6.txt,1,2.303
-2	D−	White,doc13.txt,1,2.303
 carniv,doc4.txt,1,2.303
 Highli,doc14.txt,1,2.303
 Industrial,doc1.txt,1,doc14.txt,1,doc9.txt,1,1.609
@@ -1167,6 +1175,7 @@ Big Bash Leagu,doc5.txt,1,2.303
 Friedrich Engel,doc4.txt,2,2.303
 Superman,doc14.txt,1,2.303
 5	9,doc5.txt,1,2.303
+Marxism–Lenin,doc4.txt,3,2.303
 per-capita,doc14.txt,2,2.303
 Mad Max,doc5.txt,1,2.303
 Seward Bram Stok,doc1.txt,1,2.303
@@ -1191,7 +1200,6 @@ Mini-USB,doc13.txt,1,2.303
 Mechanized Documentation Sever,doc1.txt,1,2.303
 [445],doc14.txt,1,2.303
 15th,doc4.txt,1,doc6.txt,1,doc8.txt,1,1.609
-1920–1924,doc4.txt,1,2.303
 1780,doc14.txt,2,2.303
 C Wright Mil,doc4.txt,1,2.303
 airfram,doc11.txt,2,2.303
@@ -1230,9 +1238,11 @@ everyth,doc4.txt,2,2.303
 such,doc1.txt,3,doc10.txt,2,doc11.txt,3,doc12.txt,2,doc13.txt,11,doc14.txt,32,doc18.txt,1,doc2.txt,3,doc20.txt,4,doc3.txt,3,doc4.txt,19,doc5.txt,17,doc6.txt,24,doc8.txt,2,doc9.txt,4,0.0
 doubt,doc17.txt,1,2.303
 Democrat Barack Obama,doc14.txt,1,2.303
+–9X,doc11.txt,2,2.303
 rental,doc5.txt,1,2.303
 senat,doc14.txt,1,2.303
 Fuzzi,doc1.txt,1,2.303
+026	Seattle–Tacoma–Bellevu,doc14.txt,1,2.303
 Vermont,doc14.txt,1,2.303
 transcendentalist,doc14.txt,1,2.303
 A-devic,doc13.txt,1,2.303
@@ -1251,7 +1261,6 @@ Dell Hewlett-Packard,doc10.txt,1,2.303
 In October,doc10.txt,1,2.303
 Brumaire[edit,doc4.txt,1,2.303
 1740,doc14.txt,1,2.303
-2001—encompass,doc14.txt,1,2.303
 km2,doc14.txt,7,doc20.txt,3,doc5.txt,1,doc6.txt,2,1.386
 Nixon,doc14.txt,1,2.303
 subarct,doc14.txt,1,2.303
@@ -1295,7 +1304,6 @@ Sydney Convent,doc6.txt,1,2.303
 2],doc2.txt,1,2.303
 John Scofield Cont,doc12.txt,1,2.303
 Special,doc3.txt,1,2.303
-country—I,doc8.txt,1,2.303
 [203][204][205],doc11.txt,1,2.303
 EU Smartphone Power Supply Standard,doc13.txt,1,2.303
 fight,doc14.txt,1,doc4.txt,3,1.792
@@ -1317,6 +1325,7 @@ Fur,doc14.txt,1,2.303
 President John F Kennedi,doc14.txt,1,2.303
 //usernam,doc2.txt,1,2.303
 43,doc19.txt,1,doc5.txt,2,1.792
+1985–1993,doc1.txt,1,2.303
 42,doc11.txt,1,doc20.txt,1,doc5.txt,1,doc6.txt,3,1.386
 41,doc5.txt,2,doc6.txt,2,1.792
 snow,doc20.txt,1,doc6.txt,2,doc9.txt,1,1.609
@@ -1348,7 +1357,6 @@ Facebook,doc8.txt,1,2.303
 27,doc11.txt,1,doc14.txt,4,doc5.txt,3,1.609
 28,doc10.txt,1,doc14.txt,3,doc16.txt,2,doc5.txt,5,doc7.txt,1,1.099
 29,doc11.txt,4,doc14.txt,2,doc3.txt,1,doc6.txt,1,1.386
-−200ER,doc11.txt,16,2.303
 afraid,doc4.txt,2,2.303
 30,doc11.txt,1,doc13.txt,2,doc14.txt,6,doc16.txt,1,doc18.txt,1,doc20.txt,1,doc4.txt,2,doc5.txt,5,doc6.txt,5,0.693
 32,doc11.txt,1,doc13.txt,1,doc14.txt,2,doc5.txt,1,1.386
@@ -1369,7 +1377,6 @@ panhandl,doc20.txt,1,2.303
 Higher,doc14.txt,1,2.303
 Cambridg,doc1.txt,1,2.303
 17,doc10.txt,1,doc11.txt,8,doc13.txt,2,doc14.txt,5,doc16.txt,1,doc20.txt,1,doc5.txt,3,doc6.txt,4,0.693
-device—chosen,doc13.txt,1,2.303
 compuls,doc4.txt,1,2.303
 18,doc1.txt,1,doc11.txt,1,doc13.txt,1,doc14.txt,4,doc16.txt,1,doc6.txt,7,0.693
 Technology NIST,doc1.txt,1,2.303
@@ -1397,7 +1404,6 @@ Native Hawaiian,doc14.txt,3,2.303
 Nominal GDP	15,doc14.txt,1,2.303
 seduct,doc17.txt,1,2.303
 Household,doc14.txt,1,2.303
-Michael Perelman János Kornai,doc4.txt,1,2.303
 Amerigo Vespucci,doc14.txt,1,2.303
 tupl,doc1.txt,1,doc13.txt,1,1.792
 erect,doc5.txt,1,2.303
@@ -1410,7 +1416,6 @@ seller,doc3.txt,1,doc4.txt,5,1.792
 01,doc13.txt,2,2.303
 10,doc10.txt,11,doc11.txt,9,doc13.txt,9,doc14.txt,6,doc2.txt,1,doc3.txt,1,doc4.txt,7,doc5.txt,8,doc6.txt,7,doc8.txt,2,0.0
 revis,doc11.txt,1,doc13.txt,1,doc4.txt,1,doc6.txt,1,1.386
-°F An,doc6.txt,1,2.303
 mudston,doc5.txt,1,2.303
 nondestruct,doc11.txt,1,2.303
 succumb,doc8.txt,1,2.303
@@ -1434,7 +1439,6 @@ facilit,doc13.txt,1,doc14.txt,1,doc4.txt,2,1.609
 candidli,doc4.txt,1,2.303
 [455],doc14.txt,1,2.303
 Tyndal,doc9.txt,1,2.303
-°F The,doc3.txt,1,2.303
 8%,doc14.txt,9,doc5.txt,1,doc6.txt,2,1.609
 confer,doc1.txt,3,doc14.txt,2,doc4.txt,1,doc5.txt,2,1.386
 misogynist,doc8.txt,1,2.303
@@ -1530,12 +1534,12 @@ crucial,doc4.txt,1,2.303
 44,doc5.txt,2,doc6.txt,2,1.792
 47,doc11.txt,3,doc14.txt,3,doc5.txt,4,doc6.txt,1,1.386
 46,doc11.txt,1,doc14.txt,2,doc5.txt,4,doc6.txt,2,1.386
+Diego–Carlsbad–San Marcos CA MSA	West,doc14.txt,1,2.303
 feet,doc11.txt,2,doc14.txt,3,doc20.txt,1,doc3.txt,1,1.386
 [452],doc14.txt,1,2.303
 descent,doc14.txt,1,2.303
 Australian Open,doc5.txt,1,2.303
 climat,doc14.txt,7,doc20.txt,3,doc4.txt,1,doc5.txt,6,doc6.txt,1,1.099
-°F,doc3.txt,1,doc5.txt,2,doc6.txt,8,1.609
 distort,doc4.txt,6,2.303
 5%,doc14.txt,6,doc20.txt,1,doc5.txt,1,1.609
 City Centr,doc5.txt,1,2.303
@@ -1553,7 +1557,6 @@ descend,doc14.txt,1,2.303
 54,doc14.txt,1,doc6.txt,1,1.792
 tight,doc12.txt,1,2.303
 neighbourhood,doc5.txt,2,2.303
-°C,doc3.txt,2,doc5.txt,2,doc6.txt,11,1.609
 50,doc14.txt,5,doc5.txt,4,doc6.txt,1,doc8.txt,1,1.386
 co-found,doc7.txt,1,2.303
 [73],doc11.txt,3,doc4.txt,1,doc5.txt,1,doc6.txt,1,doc8.txt,1,1.099
@@ -1562,13 +1565,13 @@ Sourc,doc10.txt,1,doc4.txt,2,doc6.txt,1,doc9.txt,1,1.386
 New Direct,doc12.txt,1,2.303
 accept,doc13.txt,8,doc17.txt,1,doc3.txt,1,doc4.txt,6,doc8.txt,1,1.099
 standpoint,doc4.txt,1,doc8.txt,1,1.792
-8–9,doc11.txt,1,2.303
 487,doc5.txt,1,2.303
 AFL Grand Final Th,doc5.txt,1,2.303
 486,doc14.txt,1,2.303
 53%	1,doc14.txt,1,2.303
 484,doc14.txt,1,2.303
 sailor,doc16.txt,2,2.303
+1793–95,doc4.txt,1,2.303
 micro-A,doc13.txt,1,2.303
 [464][465],doc14.txt,1,2.303
 micro-B,doc13.txt,1,2.303
@@ -1576,11 +1579,11 @@ ancient,doc14.txt,1,doc4.txt,2,1.792
 Dulles International Airport,doc11.txt,1,2.303
 480,doc11.txt,1,doc13.txt,2,1.792
 In Carolina Native American,doc14.txt,1,2.303
-Washington—took,doc14.txt,1,2.303
 48%,doc6.txt,1,2.303
 crispi,doc3.txt,1,2.303
 emboss,doc13.txt,1,2.303
 Imaginationland,doc8.txt,1,2.303
+hub—built,doc13.txt,1,2.303
 [74],doc11.txt,3,doc4.txt,1,doc5.txt,1,doc6.txt,1,doc8.txt,1,1.099
 Tagalog	0,doc14.txt,1,2.303
 Categor,doc1.txt,1,2.303
@@ -1633,6 +1636,7 @@ confid,doc14.txt,2,doc4.txt,2,doc5.txt,1,1.609
 93,doc5.txt,1,doc6.txt,1,1.792
 [72],doc4.txt,1,doc5.txt,1,doc6.txt,4,doc8.txt,1,1.386
 Congress,doc14.txt,5,2.303
+1945–1964,doc6.txt,1,2.303
 91,doc14.txt,1,2.303
 90,doc10.txt,1,doc11.txt,1,doc14.txt,1,doc6.txt,1,1.386
 access,doc1.txt,1,doc10.txt,2,doc11.txt,1,doc13.txt,2,doc14.txt,2,doc2.txt,1,doc4.txt,4,doc5.txt,1,doc6.txt,2,0.693
@@ -1649,7 +1653,6 @@ Barrot-Falloux Ministri,doc4.txt,1,2.303
 brand,doc10.txt,1,doc14.txt,1,doc4.txt,1,doc5.txt,1,doc6.txt,1,1.099
 stuf,doc17.txt,1,2.303
 [177],doc11.txt,1,doc14.txt,1,doc4.txt,1,doc5.txt,1,1.386
-14–15%,doc3.txt,1,2.303
 88,doc11.txt,2,doc5.txt,2,doc6.txt,1,1.609
 crise,doc4.txt,1,2.303
 steam,doc16.txt,3,doc3.txt,8,doc9.txt,1,1.609
@@ -1665,6 +1668,7 @@ Information Retriev,doc1.txt,1,doc7.txt,1,1.792
 doctrin,doc14.txt,1,2.303
 equival,doc1.txt,1,doc11.txt,1,doc14.txt,1,doc3.txt,1,doc4.txt,1,1.099
 dubiou,doc4.txt,1,2.303
+cycles—significantli,doc13.txt,1,2.303
 [176],doc11.txt,1,doc14.txt,1,doc4.txt,1,doc5.txt,1,1.386
 offici,doc10.txt,2,doc13.txt,2,doc14.txt,13,doc3.txt,1,doc4.txt,11,doc5.txt,3,doc6.txt,2,doc8.txt,1,0.693
 custom,doc10.txt,1,doc11.txt,20,1.792
@@ -1694,7 +1698,6 @@ swallow-tail,doc20.txt,1,2.303
 warn,doc17.txt,1,2.303
 stop,doc10.txt,1,doc12.txt,2,doc16.txt,2,doc17.txt,2,doc5.txt,3,doc8.txt,1,0.693
 warm,doc14.txt,1,doc3.txt,1,doc6.txt,1,1.609
-−200LR,doc11.txt,12,2.303
 regulatori,doc14.txt,1,2.303
 bulli,doc8.txt,1,2.303
 harbour,doc6.txt,7,2.303
@@ -1715,7 +1718,6 @@ Eric,doc8.txt,1,2.303
 meat,doc14.txt,1,doc6.txt,1,1.792
 wash,doc6.txt,1,2.303
 Burk,doc5.txt,2,2.303
-North–South Pipeline Wat,doc5.txt,1,2.303
 habea,doc14.txt,1,2.303
 mean,doc1.txt,3,doc14.txt,4,doc2.txt,1,doc4.txt,41,doc5.txt,1,doc6.txt,1,doc8.txt,3,0.693
 rhythm,doc12.txt,2,doc14.txt,1,1.792
@@ -1726,7 +1728,9 @@ envelop,doc11.txt,1,2.303
 [174],doc14.txt,1,doc4.txt,1,doc5.txt,2,1.609
 brake,doc11.txt,1,2.303
 Luv Shack,doc8.txt,1,2.303
+Balibar Althuss,doc4.txt,1,2.303
 In Mexico,doc3.txt,1,2.303
+power–,doc11.txt,1,2.303
 hierarch,doc1.txt,1,2.303
 boot,doc10.txt,1,doc13.txt,3,1.792
 cultur,doc14.txt,16,doc4.txt,15,doc5.txt,13,doc6.txt,7,doc8.txt,1,1.099
@@ -1785,7 +1789,6 @@ ignor,doc13.txt,1,doc17.txt,1,doc2.txt,1,doc4.txt,1,doc8.txt,1,1.099
 synthes,doc12.txt,1,2.303
 Geographically Sydnei,doc6.txt,1,2.303
 drummer,doc12.txt,7,2.303
-46–61,doc6.txt,1,2.303
 EU,doc13.txt,2,doc14.txt,1,1.792
 Manhattan Project,doc14.txt,1,2.303
 344,doc11.txt,1,2.303
@@ -1841,6 +1844,7 @@ messag,doc13.txt,2,doc6.txt,1,1.792
 2004[151],doc5.txt,1,2.303
 323,doc11.txt,1,2.303
 Commercial Pallazo,doc6.txt,1,2.303
+Michael Perelman János Kornai,doc4.txt,1,2.303
 hungri,doc4.txt,2,2.303
 325,doc11.txt,2,2.303
 [17][18],doc6.txt,1,2.303
@@ -1848,6 +1852,7 @@ hungri,doc4.txt,2,2.303
 320,doc14.txt,1,doc5.txt,1,1.792
 Commonwealth Games Th,doc5.txt,1,2.303
 [180],doc11.txt,1,doc14.txt,1,doc4.txt,1,doc5.txt,1,1.386
+“a,doc8.txt,1,2.303
 [326],doc14.txt,1,2.303
 Sydney Se,doc6.txt,1,2.303
 Super Rang,doc11.txt,1,2.303
@@ -1859,8 +1864,10 @@ igneou,doc20.txt,1,doc6.txt,1,1.792
 [328],doc14.txt,1,2.303
 broadcast,doc14.txt,1,doc17.txt,1,doc5.txt,3,doc6.txt,4,1.386
 The Penguin Dictionari,doc4.txt,1,2.303
+properly—thu,doc11.txt,1,2.303
 adjectiv,doc14.txt,1,2.303
 har,doc4.txt,1,2.303
+character—such,doc14.txt,1,2.303
 hat,doc8.txt,1,2.303
 Global Innovation Ag,doc5.txt,1,2.303
 Victoria Australia,doc5.txt,1,doc6.txt,1,1.792
@@ -1874,6 +1881,7 @@ Australia[edit,doc5.txt,1,2.303
 PowerPC Reference Platform,doc10.txt,1,2.303
 States Environment,doc14.txt,1,2.303
 [181],doc11.txt,1,doc14.txt,1,doc4.txt,1,1.609
+Louis–St Charles–Farmington MO–IL MSA	Midwest,doc14.txt,1,2.303
 Monocle[135][136][137],doc6.txt,1,2.303
 had,doc1.txt,1,doc10.txt,2,doc11.txt,15,doc12.txt,8,doc13.txt,4,doc14.txt,28,doc17.txt,1,doc18.txt,1,doc2.txt,1,doc20.txt,1,doc3.txt,2,doc4.txt,24,doc5.txt,9,doc6.txt,9,doc7.txt,1,doc8.txt,4,0.0
 rebut,doc4.txt,1,2.303
@@ -1915,7 +1923,6 @@ knowledg,doc4.txt,3,2.303
 As,doc10.txt,1,doc11.txt,12,doc12.txt,3,doc13.txt,2,doc14.txt,9,doc16.txt,1,doc17.txt,1,doc18.txt,1,doc20.txt,1,doc3.txt,3,doc4.txt,8,doc5.txt,3,doc6.txt,5,doc8.txt,3,0.0
 kettl,doc3.txt,2,2.303
 1607,doc14.txt,1,2.303
-Petersburg–Clearwater FL MSA	South,doc14.txt,1,2.303
 enact,doc4.txt,2,2.303
 1605,doc4.txt,1,2.303
 London Boston,doc5.txt,1,2.303
@@ -1932,15 +1939,15 @@ BC,doc4.txt,3,2.303
 pilot,doc11.txt,6,doc8.txt,2,1.792
 spoil,doc17.txt,1,doc8.txt,1,1.792
 stubborn,doc8.txt,1,2.303
-An,doc1.txt,3,doc11.txt,2,doc12.txt,1,doc13.txt,4,doc2.txt,1,doc3.txt,2,doc5.txt,1,doc8.txt,1,0.693
+An,doc1.txt,3,doc11.txt,2,doc12.txt,1,doc13.txt,4,doc2.txt,1,doc3.txt,2,doc5.txt,1,doc6.txt,1,doc8.txt,1,0.693
 Promoter Group,doc13.txt,1,2.303
 [183],doc14.txt,2,doc4.txt,1,doc5.txt,1,1.609
 music,doc12.txt,14,doc14.txt,10,doc17.txt,2,doc5.txt,5,doc6.txt,6,doc8.txt,1,0.693
 By,doc1.txt,2,doc11.txt,7,doc13.txt,1,doc14.txt,10,doc4.txt,2,doc5.txt,1,0.693
-/ˈmɛlbən,doc5.txt,1,2.303
 Big Macs[24],doc3.txt,1,2.303
 trauma,doc4.txt,1,2.303
 CT,doc14.txt,1,2.303
+fat—er,doc8.txt,1,2.303
 set-theoret,doc1.txt,1,2.303
 Richard Nixon,doc14.txt,1,2.303
 central-west,doc6.txt,1,2.303
@@ -1954,7 +1961,6 @@ there,doc1.txt,1,doc10.txt,1,doc13.txt,4,doc14.txt,7,doc17.txt,1,doc20.txt,2,doc
 Haitian Creole Louisiana Creol,doc14.txt,1,2.303
 viewer,doc14.txt,2,doc8.txt,1,1.792
 [184],doc14.txt,1,doc4.txt,1,doc5.txt,1,1.609
-tributaries—Moone,doc5.txt,1,2.303
 govern,doc11.txt,1,doc14.txt,40,doc4.txt,4,doc5.txt,24,doc6.txt,21,1.099
 Lonely Planet,doc5.txt,1,2.303
 somehow,doc4.txt,1,2.303
@@ -2034,6 +2040,7 @@ Jackie McLean Abbey Lincoln Betty Cart,doc12.txt,1,2.303
 Hei,doc8.txt,1,2.303
 accidents[edit,doc11.txt,1,2.303
 star,doc14.txt,1,doc17.txt,3,doc9.txt,1,1.609
+1920–1924,doc4.txt,1,2.303
 OS,doc10.txt,1,2.303
 void,doc14.txt,1,doc8.txt,1,1.792
 pretax,doc11.txt,1,2.303
@@ -2050,7 +2057,6 @@ Isabelle Adjani Lucy Weston[edit,doc17.txt,1,2.303
 downstream,doc13.txt,1,2.303
 sulfur,doc14.txt,1,doc9.txt,2,1.792
 Proclaim,doc14.txt,1,2.303
-Karen Spärck Jon,doc1.txt,1,2.303
 Of,doc14.txt,2,doc6.txt,2,1.792
 workforc,doc5.txt,1,2.303
 1630,doc14.txt,1,2.303
@@ -2079,7 +2085,6 @@ hit,doc17.txt,1,doc6.txt,1,1.792
 teas,doc8.txt,1,2.303
 tear,doc4.txt,3,2.303
 self-awar,doc4.txt,1,2.303
-–8X,doc11.txt,1,2.303
 Asset,doc14.txt,1,2.303
 art-laden,doc5.txt,1,2.303
 unitari,doc18.txt,1,2.303
@@ -2120,7 +2125,7 @@ Sydney FC,doc6.txt,1,2.303
 inflect,doc8.txt,1,2.303
 peninsula,doc20.txt,2,doc3.txt,1,1.792
 Tokyo International Airport,doc11.txt,1,2.303
-In,doc1.txt,7,doc10.txt,3,doc11.txt,16,doc12.txt,12,doc13.txt,6,doc14.txt,59,doc17.txt,9,doc19.txt,1,doc2.txt,1,doc20.txt,1,doc3.txt,2,doc4.txt,64,doc5.txt,19,doc6.txt,20,doc7.txt,2,doc8.txt,15,doc9.txt,5,0.0
+In,doc1.txt,7,doc10.txt,3,doc11.txt,16,doc12.txt,12,doc13.txt,6,doc14.txt,59,doc17.txt,9,doc19.txt,1,doc2.txt,1,doc20.txt,1,doc3.txt,2,doc4.txt,65,doc5.txt,19,doc6.txt,21,doc7.txt,2,doc8.txt,15,doc9.txt,5,0.0
 north-south,doc5.txt,1,2.303
 ambush,doc17.txt,1,2.303
 pathet,doc8.txt,1,2.303
@@ -2172,7 +2177,6 @@ Up,doc13.txt,1,doc5.txt,2,1.792
 hardship,doc14.txt,2,doc8.txt,1,1.792
 swirl,doc11.txt,1,2.303
 nice,doc8.txt,2,2.303
-40–54,doc6.txt,1,2.303
 1580,doc14.txt,1,2.303
 Parental Revenge Corp,doc8.txt,1,2.303
 estim,doc11.txt,3,doc14.txt,7,doc20.txt,1,doc3.txt,1,doc4.txt,2,doc5.txt,2,doc6.txt,4,0.693
@@ -2243,7 +2247,7 @@ satisfact,doc4.txt,1,2.303
 exhibit,doc14.txt,2,doc5.txt,1,doc6.txt,2,doc8.txt,1,1.386
 Militari,doc14.txt,1,2.303
 Comprehensive Environmental Response Compens,doc20.txt,1,2.303
-power–,doc11.txt,1,2.303
+16	Minneapolis–St,doc14.txt,1,2.303
 micro-world,doc4.txt,1,2.303
 optimist,doc4.txt,1,2.303
 A340,doc11.txt,2,2.303
@@ -2340,6 +2344,7 @@ latest,doc10.txt,1,2.303
 Marvel Com,doc17.txt,1,2.303
 wear,doc11.txt,1,doc13.txt,4,doc4.txt,4,doc8.txt,1,1.386
 rejoin,doc12.txt,1,2.303
+548	Dallas–Fort,doc14.txt,1,2.303
 Front,doc11.txt,3,2.303
 quarter-centuri,doc14.txt,1,2.303
 segreg,doc14.txt,1,doc5.txt,1,1.792
@@ -2380,10 +2385,10 @@ simul,doc11.txt,1,2.303
 Quaternari,doc5.txt,1,2.303
 Mehr,doc4.txt,1,2.303
 alcohol,doc14.txt,1,2.303
-In Žižek,doc4.txt,1,2.303
 warmest,doc6.txt,2,2.303
 legaci,doc10.txt,2,doc13.txt,1,1.792
 Oracle Solari,doc10.txt,1,2.303
+Australia’,doc5.txt,1,2.303
 truncat,doc11.txt,1,2.303
 block,doc13.txt,2,doc9.txt,1,1.792
 [330],doc14.txt,1,2.303
@@ -2394,6 +2399,7 @@ Environmental Qu,doc20.txt,1,2.303
 [188],doc14.txt,1,doc4.txt,1,doc5.txt,1,1.609
 contriv,doc4.txt,1,2.303
 suddenli,doc4.txt,1,2.303
+Félix Guattari Thi,doc4.txt,1,2.303
 Vietnamese	0,doc14.txt,1,2.303
 transport,doc11.txt,1,doc14.txt,4,doc18.txt,1,doc5.txt,20,doc6.txt,13,1.099
 and/or,doc3.txt,1,doc5.txt,1,1.792
@@ -2414,7 +2420,6 @@ The Melbourne Metro Project,doc5.txt,1,2.303
 Latin America,doc14.txt,2,2.303
 Orson Wel,doc14.txt,1,doc17.txt,1,1.792
 Melbourne Town Hall St Paul,doc5.txt,1,2.303
-Statistical Machine�?,doc1.txt,1,2.303
 [2],doc1.txt,1,doc10.txt,1,doc12.txt,4,doc13.txt,1,doc19.txt,1,doc20.txt,1,doc4.txt,1,doc5.txt,1,doc7.txt,1,doc9.txt,1,0.0
 arteri,doc14.txt,1,doc5.txt,1,1.792
 gun,doc14.txt,2,2.303
@@ -2422,6 +2427,7 @@ Papua New Guinea Surinam,doc14.txt,1,2.303
 SCG ANZ Stadium,doc6.txt,1,2.303
 Critic,doc4.txt,2,2.303
 Scientific Inform,doc1.txt,1,2.303
+1837–39,doc4.txt,1,2.303
 Anatolia,doc4.txt,1,2.303
 ^n,doc1.txt,2,2.303
 Werribe,doc5.txt,1,2.303
@@ -2474,6 +2480,7 @@ jump,doc16.txt,1,2.303
 Karen Sparck-Jon,doc7.txt,1,2.303
 Southwest Mediterranean,doc14.txt,1,2.303
 374,doc5.txt,1,2.303
+“more,doc12.txt,1,2.303
 1st,doc5.txt,1,2.303
 latenc,doc13.txt,2,2.303
 longer-rang,doc11.txt,5,2.303
@@ -2488,12 +2495,12 @@ Abercrombi,doc12.txt,3,2.303
 General Post Offic,doc6.txt,1,2.303
 off-yellow,doc3.txt,1,2.303
 north,doc14.txt,4,doc18.txt,1,doc20.txt,3,doc5.txt,6,doc6.txt,5,1.099
+“hi,doc12.txt,1,2.303
 [i,doc4.txt,2,2.303
 Vietnam,doc16.txt,1,2.303
 erotic,doc17.txt,1,2.303
 complement,doc11.txt,1,2.303
 Wyoming The Bible Belt,doc14.txt,1,2.303
-Köppen,doc5.txt,1,2.303
 Fujitsu Siemens[19] A,doc10.txt,1,2.303
 PS/2,doc13.txt,3,2.303
 trader,doc14.txt,1,2.303
@@ -2547,6 +2554,8 @@ Conserv,doc14.txt,1,doc20.txt,2,1.792
 deer,doc20.txt,1,2.303
 TOKEN,doc13.txt,5,2.303
 In New York C,doc4.txt,1,2.303
+“to,doc12.txt,1,2.303
+secession—which,doc14.txt,1,2.303
 205,doc5.txt,1,2.303
 enforc,doc13.txt,1,doc14.txt,8,doc4.txt,1,doc8.txt,1,1.386
 200,doc11.txt,2,doc5.txt,1,doc6.txt,2,doc8.txt,1,1.386
@@ -2561,6 +2570,7 @@ pasta,doc14.txt,1,2.303
 tradit,doc1.txt,1,doc11.txt,1,doc12.txt,1,doc13.txt,1,doc14.txt,7,doc4.txt,7,doc5.txt,1,doc6.txt,2,0.693
 hours	279,doc5.txt,1,2.303
 confess,doc17.txt,1,doc4.txt,1,1.792
+−100X,doc11.txt,1,2.303
 ha,doc1.txt,3,doc10.txt,9,doc11.txt,20,doc12.txt,4,doc13.txt,11,doc14.txt,62,doc17.txt,12,doc18.txt,1,doc19.txt,2,doc2.txt,1,doc20.txt,6,doc3.txt,8,doc4.txt,37,doc5.txt,47,doc6.txt,46,doc8.txt,20,doc9.txt,1,0.0
 Reconstruction Era Start,doc14.txt,1,2.303
 magic,doc4.txt,3,2.303
@@ -2590,7 +2600,6 @@ servant,doc14.txt,1,2.303
 South Park Colorado,doc8.txt,1,2.303
 deploy,doc14.txt,1,doc16.txt,1,1.792
 scallop,doc20.txt,1,2.303
-20–25,doc11.txt,1,2.303
 Whittlesea Th,doc5.txt,1,2.303
 mystic,doc4.txt,1,2.303
 de,doc11.txt,1,doc14.txt,2,1.792
@@ -2693,7 +2702,6 @@ Educat,doc14.txt,4,doc5.txt,2,doc6.txt,3,1.609
 Ku Klux Klan Thes,doc4.txt,1,2.303
 Primari,doc14.txt,1,2.303
 basketbal,doc14.txt,2,doc5.txt,1,doc8.txt,1,1.609
-25–54,doc6.txt,1,2.303
 non-Christian,doc14.txt,1,2.303
 egret,doc20.txt,1,2.303
 Syncret,doc14.txt,1,2.303
@@ -2723,6 +2731,7 @@ restraint,doc12.txt,1,2.303
 Sydney Festival Australia,doc6.txt,1,2.303
 sacr,doc4.txt,2,2.303
 RB3025,doc11.txt,1,2.303
+Iran–Contra,doc14.txt,1,2.303
 Esco Marin,doc16.txt,1,2.303
 altitud,doc11.txt,1,doc14.txt,2,doc20.txt,1,1.609
 Dr Abraham Van Helsing Luci,doc17.txt,1,2.303
@@ -2748,7 +2757,6 @@ al,doc1.txt,1,2.303
 urban,doc14.txt,2,doc5.txt,21,doc6.txt,9,1.609
 notat,doc11.txt,1,2.303
 [316],doc14.txt,1,2.303
-properly—thu,doc11.txt,1,2.303
 judg,doc14.txt,2,doc4.txt,2,1.792
 [194],doc4.txt,1,doc5.txt,1,1.792
 color,doc13.txt,3,doc3.txt,4,doc8.txt,1,doc9.txt,1,1.386
@@ -2782,7 +2790,6 @@ prosper,doc14.txt,1,doc4.txt,1,doc6.txt,1,1.609
 on,doc1.txt,31,doc10.txt,36,doc11.txt,76,doc12.txt,27,doc13.txt,67,doc14.txt,87,doc16.txt,5,doc17.txt,11,doc18.txt,1,doc19.txt,1,doc2.txt,5,doc20.txt,13,doc3.txt,9,doc4.txt,101,doc5.txt,57,doc6.txt,52,doc7.txt,3,doc8.txt,42,doc9.txt,4,0.0
 tuition,doc14.txt,1,2.303
 congest,doc6.txt,1,2.303
-—mai,doc14.txt,1,2.303
 perceiv,doc4.txt,3,doc5.txt,2,1.792
 Master,doc7.txt,1,2.303
 Applicat,doc10.txt,3,2.303
@@ -2790,6 +2797,7 @@ deni,doc4.txt,2,doc8.txt,1,1.792
 Cornel,doc1.txt,1,doc7.txt,1,1.792
 dell,doc4.txt,1,2.303
 John Barth Thomas Pynchon,doc14.txt,1,2.303
+125	Miami–Fort,doc14.txt,1,2.303
 or,doc1.txt,16,doc10.txt,13,doc11.txt,10,doc12.txt,1,doc13.txt,45,doc14.txt,65,doc17.txt,1,doc2.txt,7,doc3.txt,15,doc4.txt,208,doc5.txt,9,doc6.txt,9,doc7.txt,1,doc8.txt,12,doc9.txt,2,0.0
 cliff,doc6.txt,1,2.303
 done,doc11.txt,1,doc12.txt,1,doc13.txt,2,doc4.txt,2,1.386
@@ -2901,9 +2909,9 @@ love,doc17.txt,2,doc4.txt,2,1.792
 Lockheed Dialog,doc1.txt,1,2.303
 JDS,doc10.txt,1,2.303
 kg,doc11.txt,6,doc3.txt,1,1.792
+Lloyd’,doc12.txt,2,2.303
 trail,doc16.txt,1,2.303
 Sheila Fitzpatrick,doc4.txt,1,2.303
-façad,doc4.txt,2,2.303
 train,doc14.txt,1,doc4.txt,2,doc5.txt,3,doc6.txt,4,1.386
 billionair,doc14.txt,2,2.303
 A Standard-B,doc13.txt,1,2.303
@@ -2929,7 +2937,8 @@ Bolte Bridge Eastlink,doc5.txt,1,2.303
 perpetu,doc4.txt,2,2.303
 lb,doc11.txt,6,2.303
 Australian Drag Racing N,doc6.txt,1,2.303
-which—th,doc5.txt,1,2.303
+division—of,doc5.txt,1,2.303
+Lukács[edit,doc4.txt,1,2.303
 lost,doc14.txt,6,doc17.txt,2,doc4.txt,1,1.609
 loss,doc11.txt,3,doc13.txt,1,doc14.txt,2,doc5.txt,1,doc6.txt,1,doc9.txt,1,0.693
 Yet,doc4.txt,4,2.303
@@ -2966,8 +2975,6 @@ seabass,doc20.txt,1,2.303
 divorc,doc14.txt,1,2.303
 unurbanis,doc6.txt,1,2.303
 lose,doc14.txt,1,doc4.txt,1,doc5.txt,1,doc8.txt,1,1.386
-laws—such,doc14.txt,1,2.303
-2001–2011,doc14.txt,1,2.303
 blue,doc13.txt,1,doc14.txt,3,doc20.txt,5,doc9.txt,1,1.386
 kJ,doc3.txt,1,2.303
 continent,doc14.txt,3,doc4.txt,1,doc5.txt,1,1.609
@@ -2977,11 +2984,13 @@ Graeme Murphi,doc6.txt,1,2.303
 Lucy Weston In,doc17.txt,2,2.303
 Lucy Westerman,doc17.txt,1,2.303
 crayfish,doc20.txt,1,2.303
+Karen Spärck Jon,doc1.txt,1,2.303
 smart,doc13.txt,1,2.303
 hull-loss,doc11.txt,4,2.303
 New Orlean,doc14.txt,1,2.303
 Affluenc,doc14.txt,1,2.303
 greater,doc1.txt,1,doc11.txt,5,doc13.txt,1,doc14.txt,4,doc3.txt,2,doc4.txt,1,doc5.txt,4,doc6.txt,1,0.693
+”[10],doc12.txt,1,2.303
 metropolitan,doc14.txt,1,doc5.txt,12,doc6.txt,16,1.609
 Sydney Bus,doc6.txt,2,2.303
 knew,doc3.txt,1,doc4.txt,2,1.792
@@ -3033,10 +3042,10 @@ load,doc10.txt,1,doc11.txt,3,doc13.txt,2,doc6.txt,1,1.386
 wa,doc1.txt,9,doc10.txt,25,doc11.txt,68,doc12.txt,25,doc13.txt,23,doc14.txt,74,doc16.txt,12,doc17.txt,15,doc18.txt,2,doc19.txt,6,doc2.txt,1,doc20.txt,6,doc3.txt,11,doc4.txt,62,doc5.txt,55,doc6.txt,37,doc7.txt,9,doc8.txt,13,doc9.txt,1,0.0
 cuisin,doc14.txt,3,doc5.txt,1,1.792
 homophob,doc8.txt,1,2.303
-“the,doc12.txt,2,2.303
 hop,doc14.txt,1,2.303
 1492,doc14.txt,1,2.303
 we,doc1.txt,1,doc12.txt,1,doc4.txt,4,doc8.txt,2,1.386
+population—31,doc14.txt,1,2.303
 Mississippian,doc14.txt,1,2.303
 underestim,doc4.txt,1,2.303
 busiest,doc14.txt,2,doc5.txt,10,1.792
@@ -3083,6 +3092,7 @@ Amtrak,doc14.txt,1,2.303
 tramwai,doc5.txt,1,doc6.txt,1,1.792
 American Civil War West Virginia,doc14.txt,1,2.303
 A URL,doc2.txt,1,2.303
+capital—almost,doc5.txt,1,2.303
 atroc,doc4.txt,1,2.303
 voluntarili,doc14.txt,1,doc4.txt,3,1.792
 weapon,doc14.txt,3,doc16.txt,2,1.792
@@ -3116,6 +3126,7 @@ exemplifi,doc14.txt,1,doc4.txt,1,1.792
 MD MSA	Northeast,doc14.txt,1,2.303
 knit,doc8.txt,1,2.303
 U S Supreme Court,doc14.txt,1,2.303
+history—from,doc14.txt,1,2.303
 less-than-cruci,doc17.txt,1,2.303
 text,doc1.txt,7,doc10.txt,2,doc13.txt,1,doc14.txt,1,doc4.txt,4,doc7.txt,1,0.693
 submit,doc1.txt,1,doc4.txt,3,1.792
@@ -3129,6 +3140,7 @@ Saudad,doc12.txt,1,2.303
 Georgina Reynaldi,doc17.txt,1,2.303
 The Common Desktop Environment CDE,doc10.txt,1,2.303
 current[cit,doc13.txt,1,2.303
+Francisco–Oakland–Fremont CA MSA	West,doc14.txt,1,2.303
 input,doc11.txt,3,2.303
 palati,doc5.txt,1,2.303
 Linux Appl,doc10.txt,1,2.303
@@ -3184,7 +3196,6 @@ Chief Justic,doc14.txt,1,2.303
 London Heathrow Airport Th,doc11.txt,1,2.303
 Great Depression Aft,doc14.txt,1,2.303
 school,doc14.txt,7,doc18.txt,5,doc3.txt,1,doc4.txt,1,doc5.txt,2,doc6.txt,8,doc8.txt,3,0.693
-000–8,doc6.txt,1,2.303
 [351][352][353],doc14.txt,1,2.303
 deliv,doc11.txt,12,doc5.txt,1,doc6.txt,1,1.609
 Protestantism In,doc14.txt,1,2.303
@@ -3225,14 +3236,13 @@ wastewat,doc6.txt,1,2.303
 clarifi,doc10.txt,1,doc3.txt,1,1.792
 [199],doc14.txt,1,doc4.txt,1,doc5.txt,1,1.609
 principl,doc14.txt,1,doc4.txt,8,1.792
-DeJohnette’,doc12.txt,6,2.303
 so-and-so,doc4.txt,1,2.303
 [105][106],doc6.txt,1,2.303
 medium-s,doc3.txt,1,2.303
 273,doc14.txt,1,2.303
-2	D−	White	Data,doc13.txt,1,2.303
 endpoint_numb,doc13.txt,1,2.303
 warfar,doc14.txt,2,2.303
+Lauderdale–Pompano Beach FL MSA	South,doc14.txt,1,2.303
 extinguish,doc11.txt,1,2.303
 Gothic,doc5.txt,1,doc6.txt,1,1.792
 viewpoint,doc1.txt,1,doc14.txt,1,doc4.txt,2,1.609
@@ -3298,6 +3308,7 @@ Great Appalachian Vallei,doc20.txt,1,2.303
 propel,doc11.txt,1,2.303
 Infrastructur,doc14.txt,1,doc5.txt,1,doc6.txt,1,1.609
 Texa,doc14.txt,1,doc3.txt,1,1.792
+”[14],doc12.txt,5,2.303
 Variants[edit,doc11.txt,1,2.303
 240,doc11.txt,1,doc5.txt,1,1.792
 [322],doc14.txt,1,2.303
@@ -3318,7 +3329,6 @@ Housing Commiss,doc5.txt,2,2.303
 [97],doc11.txt,1,doc14.txt,1,doc4.txt,1,doc5.txt,1,doc6.txt,1,1.099
 opin,doc4.txt,1,2.303
 Journal,doc1.txt,1,doc7.txt,1,1.792
-population—31,doc14.txt,1,2.303
 Genesis Adam,doc4.txt,1,2.303
 777-200,doc11.txt,10,2.303
 243,doc11.txt,1,2.303
@@ -3347,12 +3357,15 @@ Freud],doc4.txt,1,2.303
 plantat,doc14.txt,1,2.303
 236,doc20.txt,1,2.303
 235,doc11.txt,2,doc6.txt,1,1.792
+Statistical Machine”,doc1.txt,1,2.303
 bearer,doc4.txt,12,2.303
 263,doc14.txt,1,2.303
 KC-777,doc11.txt,1,2.303
 [320],doc14.txt,1,2.303
 yard,doc5.txt,1,2.303
 \int_0^1,doc1.txt,1,2.303
+”[16],doc12.txt,1,2.303
+“beyond,doc12.txt,1,2.303
 Saxon,doc18.txt,1,2.303
 escal,doc14.txt,2,doc5.txt,1,1.792
 object,doc1.txt,8,doc10.txt,1,doc4.txt,9,1.609
@@ -3393,7 +3406,6 @@ secret,doc4.txt,1,2.303
 0Fh	Interface	Person,doc13.txt,1,2.303
 Additional USB,doc13.txt,1,2.303
 Final Solut,doc8.txt,1,2.303
-371–287,doc4.txt,1,2.303
 disappear,doc9.txt,1,2.303
 000th,doc11.txt,2,2.303
 Of American,doc14.txt,1,2.303
@@ -3445,13 +3457,13 @@ purportedli,doc17.txt,1,2.303
 Auto-encod,doc1.txt,1,2.303
 US$400,doc11.txt,1,2.303
 Poverti,doc14.txt,1,2.303
-000–40,doc4.txt,1,2.303
 Password,doc2.txt,1,2.303
 Stone,doc8.txt,15,2.303
 made,doc10.txt,1,doc11.txt,7,doc13.txt,5,doc14.txt,6,doc16.txt,2,doc17.txt,2,doc2.txt,1,doc4.txt,6,doc5.txt,3,doc6.txt,4,doc8.txt,1,0.0
 tollwai,doc5.txt,2,2.303
 Power Handling Capabilities A,doc13.txt,1,2.303
 Jacques Copeau,doc4.txt,1,2.303
+niqāb,doc4.txt,1,2.303
 megadivers,doc14.txt,1,2.303
 Haug,doc4.txt,1,2.303
 accommod,doc11.txt,4,doc18.txt,1,doc5.txt,1,doc6.txt,1,1.386
@@ -3496,7 +3508,6 @@ rate	63,doc14.txt,1,2.303
 Avg,doc5.txt,1,doc6.txt,1,1.792
 985,doc14.txt,1,2.303
 984,doc14.txt,1,doc5.txt,1,1.792
-The El Niño–Southern Oscil,doc6.txt,1,2.303
 Bennelong Point,doc6.txt,1,2.303
 7th,doc6.txt,1,2.303
 The DCG,doc1.txt,1,2.303
@@ -3521,7 +3532,6 @@ Pro Tool,doc8.txt,1,2.303
 far,doc12.txt,1,doc14.txt,3,doc20.txt,3,doc4.txt,3,doc5.txt,2,doc6.txt,1,doc8.txt,1,0.693
 label,doc12.txt,3,doc6.txt,1,1.792
 competit,doc11.txt,4,doc14.txt,1,doc4.txt,2,doc5.txt,6,doc6.txt,9,1.099
-125	Miami–Fort,doc14.txt,1,2.303
 USB-IF,doc13.txt,1,2.303
 insecur,doc14.txt,1,doc4.txt,1,doc8.txt,1,1.609
 972,doc5.txt,1,2.303
@@ -3609,6 +3619,7 @@ devot,doc12.txt,1,doc14.txt,1,doc8.txt,1,1.609
 nomine,doc14.txt,1,2.303
 Melbourne Cup,doc5.txt,3,2.303
 10-inch,doc11.txt,1,2.303
+35–54,doc6.txt,1,2.303
 proudli,doc8.txt,1,2.303
 Balmain,doc6.txt,1,2.303
 guitarist,doc12.txt,2,2.303
@@ -3639,11 +3650,9 @@ The Sydney Opera Hous,doc6.txt,1,2.303
 99%,doc14.txt,1,2.303
 Set-theoret,doc1.txt,1,2.303
 Architecture[edit,doc5.txt,1,2.303
-�?,doc1.txt,1,doc12.txt,1,1.792
 UCS,doc13.txt,1,2.303
 penetr,doc4.txt,1,doc9.txt,2,1.792
 Tax,doc14.txt,1,2.303
-“into,doc12.txt,1,2.303
 fourth,doc13.txt,1,doc14.txt,4,doc4.txt,1,doc5.txt,2,doc8.txt,2,1.099
 Melbourne Lan,doc5.txt,1,2.303
 festiv,doc4.txt,1,doc5.txt,2,doc6.txt,5,1.609
@@ -3660,6 +3669,7 @@ meridian,doc14.txt,2,2.303
 Single Unix Specification Solari,doc10.txt,1,2.303
 assumpt,doc1.txt,2,doc4.txt,6,1.792
 999,doc14.txt,1,2.303
+Žižek,doc4.txt,8,2.303
 lifetim,doc12.txt,1,doc13.txt,1,doc14.txt,3,doc4.txt,2,1.386
 [348],doc14.txt,1,2.303
 Seven,doc6.txt,1,2.303
@@ -3695,6 +3705,7 @@ Oak Ridge Observatori,doc19.txt,2,2.303
 U S Census Bureau[195] Language Main,doc14.txt,1,2.303
 Googl,doc2.txt,1,2.303
 Henceforth,doc17.txt,1,2.303
+device—chosen,doc13.txt,1,2.303
 urbanis,doc5.txt,1,doc6.txt,1,1.792
 Mark Twain,doc14.txt,2,2.303
 Best New Age Album,doc12.txt,1,2.303
@@ -3788,6 +3799,7 @@ backlog,doc11.txt,1,2.303
 preview,doc10.txt,2,2.303
 liabil,doc14.txt,1,2.303
 BCF,doc11.txt,1,2.303
+Bernandino–Riverside–Ontario CA MSA	West,doc14.txt,1,2.303
 extant,doc6.txt,1,2.303
 Victoria Within,doc5.txt,1,2.303
 South Wharf Accord,doc5.txt,1,2.303
@@ -3812,6 +3824,7 @@ Pacific Th,doc14.txt,1,2.303
 strike,doc14.txt,2,2.303
 twinjet,doc11.txt,12,2.303
 rail-bas,doc5.txt,1,2.303
+2001–2011,doc14.txt,1,2.303
 Sydney Promin,doc6.txt,1,2.303
 written,doc11.txt,2,doc14.txt,2,doc2.txt,1,doc4.txt,2,doc8.txt,1,1.099
 Signific,doc4.txt,2,doc5.txt,1,1.792
@@ -3852,14 +3865,12 @@ Bible Belt The First Amend,doc14.txt,1,2.303
 perform,doc1.txt,4,doc11.txt,5,doc12.txt,2,doc13.txt,2,doc17.txt,1,doc2.txt,1,doc4.txt,11,doc5.txt,2,doc6.txt,5,doc8.txt,3,0.0
 approxim,doc11.txt,3,doc13.txt,4,doc14.txt,5,doc3.txt,1,doc4.txt,1,doc5.txt,3,doc6.txt,4,0.693
 deviat,doc17.txt,1,doc20.txt,1,doc4.txt,1,1.609
-“percussionist,doc12.txt,1,2.303
 [52][53],doc14.txt,1,2.303
 palac,doc5.txt,1,2.303
 Midwestern United St,doc3.txt,1,2.303
 requir,doc1.txt,1,doc10.txt,3,doc11.txt,9,doc12.txt,1,doc13.txt,12,doc14.txt,2,doc2.txt,2,doc3.txt,1,doc4.txt,19,doc5.txt,1,doc9.txt,1,0.0
 unhappi,doc10.txt,1,doc8.txt,1,1.792
 Hence Marx,doc4.txt,1,2.303
-65–79,doc6.txt,1,2.303
 Maryland Shipbuild,doc16.txt,1,2.303
 La Florida,doc14.txt,1,2.303
 purpose-built,doc5.txt,1,doc6.txt,1,1.792
@@ -3906,7 +3917,6 @@ Beaver,doc5.txt,1,2.303
 Greatest TV Charact,doc8.txt,1,2.303
 question,doc4.txt,4,doc6.txt,2,doc8.txt,1,1.609
 [171][172],doc11.txt,1,2.303
-832	Detroit–Warren–Livonia,doc14.txt,1,2.303
 The Trail,doc14.txt,1,2.303
 Ecologi,doc20.txt,1,2.303
 Quarter,doc11.txt,1,2.303
@@ -3920,13 +3930,13 @@ Amidst,doc14.txt,1,2.303
 La Trobe University RMIT University Swinburne Univers,doc5.txt,1,2.303
 5	Houston	6,doc14.txt,1,2.303
 effect,doc1.txt,3,doc10.txt,1,doc13.txt,3,doc14.txt,3,doc4.txt,19,doc5.txt,3,doc6.txt,1,doc8.txt,1,doc9.txt,4,0.693
+Springs–Marietta GA MSA	South,doc14.txt,1,2.303
 [354],doc14.txt,2,2.303
-orbit�?,doc12.txt,1,2.303
 American Indian,doc14.txt,2,2.303
 tornado,doc14.txt,1,2.303
 illustr,doc1.txt,1,doc11.txt,1,doc4.txt,3,1.609
 -base,doc14.txt,1,2.303
-“atmospher,doc12.txt,1,2.303
+PA–NJ–DE–MD MSA	Northeast,doc14.txt,1,2.303
 TFR,doc14.txt,1,2.303
 beckon,doc17.txt,1,2.303
 Some,doc1.txt,1,doc13.txt,1,doc14.txt,3,doc2.txt,1,doc3.txt,4,doc4.txt,3,doc5.txt,1,0.693
@@ -3949,6 +3959,7 @@ sheriff,doc14.txt,1,2.303
 IR-model,doc1.txt,1,2.303
 [44],doc11.txt,1,doc13.txt,1,doc4.txt,1,doc5.txt,1,doc6.txt,1,doc8.txt,1,0.693
 connectors[edit,doc13.txt,4,2.303
+20–25,doc11.txt,1,2.303
 fuzzi,doc4.txt,1,2.303
 Souda Bay Cret,doc16.txt,1,2.303
 11th,doc14.txt,1,2.303
@@ -3960,6 +3971,7 @@ Song,doc3.txt,1,2.303
 elm,doc20.txt,1,2.303
 [126],doc11.txt,1,doc14.txt,1,doc4.txt,1,doc5.txt,1,doc6.txt,1,1.099
 temporarili,doc11.txt,1,doc13.txt,2,doc4.txt,3,doc8.txt,1,1.386
+state—Hawaii—achiev,doc14.txt,1,2.303
 describ,doc1.txt,2,doc10.txt,1,doc12.txt,1,doc13.txt,1,doc14.txt,5,doc2.txt,1,doc4.txt,5,doc5.txt,1,doc6.txt,1,doc8.txt,6,0.0
 again,doc10.txt,1,doc12.txt,3,doc16.txt,2,doc17.txt,1,doc4.txt,2,doc8.txt,1,0.693
 [271],doc14.txt,1,2.303
@@ -3968,7 +3980,7 @@ overhaul,doc16.txt,2,2.303
 weren,doc14.txt,1,2.303
 Venic,doc4.txt,1,2.303
 els,doc4.txt,6,2.303
-6–25,doc6.txt,1,2.303
+—mai,doc14.txt,1,2.303
 start,doc10.txt,1,doc11.txt,4,doc12.txt,2,doc13.txt,4,doc14.txt,3,doc16.txt,1,doc2.txt,2,doc4.txt,1,doc5.txt,1,doc6.txt,5,doc8.txt,4,0.0
 one-third,doc11.txt,1,doc14.txt,2,doc3.txt,1,1.609
 prize,doc14.txt,1,doc6.txt,1,1.792
@@ -3983,6 +3995,7 @@ Windows Phon,doc13.txt,2,2.303
 St Nichola,doc18.txt,1,2.303
 [454][clarif,doc14.txt,1,2.303
 Marine Corps Navi,doc14.txt,1,2.303
+cafés[85],doc5.txt,1,2.303
 Christmas Hil,doc5.txt,1,2.303
 harboursid,doc6.txt,1,2.303
 [272],doc14.txt,1,2.303
@@ -3997,6 +4010,7 @@ casual,doc8.txt,1,2.303
 Port Phillip Th,doc5.txt,1,2.303
 vallei,doc20.txt,2,doc5.txt,2,doc6.txt,3,1.609
 Sciences Washington DC,doc1.txt,1,2.303
+Stan Getz’,doc12.txt,1,2.303
 district,doc14.txt,5,doc5.txt,4,doc6.txt,12,1.609
 [46],doc11.txt,1,doc14.txt,1,doc4.txt,1,doc5.txt,1,1.386
 end,doc1.txt,1,doc13.txt,10,doc14.txt,17,doc16.txt,1,doc17.txt,2,doc3.txt,2,doc4.txt,5,doc5.txt,2,doc6.txt,4,doc8.txt,2,0.0
@@ -4011,6 +4025,7 @@ male,doc13.txt,4,doc14.txt,4,doc17.txt,1,doc5.txt,1,1.386
 GTK+,doc10.txt,1,2.303
 United Nations Headquarters It,doc14.txt,1,2.303
 Some Mathemat,doc1.txt,1,2.303
+Port Phillip Bay—the Port Phillip Channel Deepening Project It,doc5.txt,1,2.303
 Zune,doc13.txt,1,2.303
 Great Plain,doc14.txt,3,2.303
 \log_,doc1.txt,1,2.303
@@ -4032,6 +4047,7 @@ mask,doc4.txt,302,2.303
 beach,doc5.txt,5,doc6.txt,8,1.792
 All,doc1.txt,2,doc14.txt,3,doc2.txt,1,doc8.txt,2,1.386
 egg,doc3.txt,1,doc6.txt,1,1.792
+—includ,doc14.txt,1,2.303
 135%,doc6.txt,1,2.303
 broadli,doc14.txt,1,doc3.txt,1,1.792
 testing[edit,doc11.txt,1,2.303
@@ -4049,6 +4065,7 @@ tenth,doc12.txt,1,doc14.txt,1,1.792
 metadata,doc1.txt,3,2.303
 Bushrang,doc5.txt,1,2.303
 7	Washington,doc14.txt,1,2.303
+724	Tampa–St,doc14.txt,1,2.303
 onward,doc4.txt,1,2.303
 dream,doc4.txt,1,doc8.txt,1,1.792
 Nortel Th,doc13.txt,1,2.303
@@ -4155,14 +4172,12 @@ Hewlett-Packard,doc10.txt,1,2.303
 sociologist,doc4.txt,5,2.303
 The Simpson,doc8.txt,1,2.303
 132B,doc14.txt,1,2.303
-rating—up,doc13.txt,1,2.303
 Twain,doc14.txt,1,2.303
 824,doc14.txt,1,2.303
 ingrati,doc8.txt,1,2.303
 SPARC-base,doc10.txt,1,2.303
 822,doc6.txt,1,2.303
 823,doc11.txt,1,2.303
-2007–2008,doc14.txt,1,doc6.txt,1,1.792
 828,doc14.txt,1,2.303
 Time Slid,doc10.txt,1,2.303
 Drydock Company Baltimor,doc16.txt,1,2.303
@@ -4170,7 +4185,6 @@ Drydock Company Baltimor,doc16.txt,1,2.303
 screw,doc13.txt,1,2.303
 wealthi,doc14.txt,2,doc17.txt,2,doc5.txt,1,doc6.txt,1,1.386
 Type-A,doc13.txt,1,2.303
-2012–2013,doc5.txt,1,2.303
 The Elephant Sleeps But Still Rememb,doc12.txt,1,2.303
 82%,doc14.txt,1,2.303
 0	120,doc5.txt,1,2.303
@@ -4234,6 +4248,7 @@ placard,doc4.txt,1,2.303
 facto,doc14.txt,1,2.303
 Sydney Harbour Bridge Oth,doc6.txt,1,2.303
 Media[edit,doc5.txt,1,doc6.txt,1,1.792
+Although György Lukác,doc4.txt,1,2.303
 [26],doc10.txt,1,doc11.txt,1,doc14.txt,1,doc20.txt,1,doc3.txt,1,doc5.txt,1,doc6.txt,1,0.693
 upsid,doc13.txt,3,2.303
 Build,doc6.txt,1,2.303
@@ -4242,7 +4257,6 @@ demagogi,doc8.txt,1,2.303
 opinion,doc4.txt,3,doc8.txt,2,1.792
 disengag,doc3.txt,1,2.303
 circa,doc4.txt,3,2.303
-Étienne Balibar Althuss,doc4.txt,1,2.303
 Mineral Virginia,doc20.txt,1,2.303
 [433][434],doc14.txt,1,2.303
 renown,doc6.txt,1,2.303
@@ -4253,7 +4267,6 @@ get,doc1.txt,1,doc12.txt,2,doc13.txt,1,doc4.txt,9,doc8.txt,4,1.099
 postal,doc5.txt,1,doc6.txt,1,1.792
 catchment,doc18.txt,1,doc5.txt,1,doc6.txt,2,1.609
 onlin,doc1.txt,1,doc8.txt,1,1.792
-Lauderdale–Pompano Beach FL MSA	South,doc14.txt,1,2.303
 833,doc14.txt,1,2.303
 136th,doc14.txt,1,2.303
 Tram,doc5.txt,2,2.303
@@ -4283,7 +4296,6 @@ okapi,doc1.txt,1,2.303
 intersubject,doc4.txt,1,2.303
 former,doc17.txt,1,doc19.txt,1,doc4.txt,1,doc6.txt,2,doc8.txt,1,1.099
 866,doc6.txt,1,2.303
-−200LR[87],doc11.txt,1,2.303
 Singapore Airlin,doc11.txt,2,2.303
 [88][107],doc11.txt,1,2.303
 [23],doc10.txt,1,doc11.txt,1,doc20.txt,1,doc3.txt,1,doc5.txt,2,doc6.txt,1,doc8.txt,1,0.693
@@ -4348,7 +4360,6 @@ Shiva,doc4.txt,1,2.303
 By Jun,doc11.txt,1,2.303
 import,doc1.txt,2,doc12.txt,1,doc13.txt,2,doc14.txt,10,doc3.txt,2,doc4.txt,8,doc5.txt,5,doc6.txt,6,0.693
 [8][41],doc8.txt,1,2.303
-724	Tampa–St,doc14.txt,1,2.303
 central,doc10.txt,2,doc14.txt,4,doc20.txt,1,doc4.txt,1,doc5.txt,5,doc6.txt,6,doc8.txt,1,0.693
 Postmodern,doc4.txt,1,2.303
 facil,doc10.txt,1,doc14.txt,1,doc5.txt,7,doc6.txt,3,1.386
@@ -4367,8 +4378,6 @@ Sydney Topography[edit,doc6.txt,1,2.303
 innat,doc4.txt,1,2.303
 5000-seat,doc5.txt,1,2.303
 gar,doc20.txt,1,2.303
-Worth–Arlington TX MSA	South,doc14.txt,1,2.303
-–a,doc11.txt,1,2.303
 traffic,doc13.txt,2,doc14.txt,1,doc5.txt,1,doc6.txt,4,doc9.txt,1,1.099
 prima,doc4.txt,1,2.303
 unrat,doc13.txt,1,2.303
@@ -4400,6 +4409,7 @@ closet,doc10.txt,2,2.303
 protect,doc11.txt,1,doc13.txt,3,doc14.txt,8,doc17.txt,1,doc20.txt,1,doc4.txt,2,0.693
 abov,doc11.txt,2,doc14.txt,2,doc20.txt,1,doc4.txt,2,doc5.txt,2,doc6.txt,3,0.693
 closer,doc4.txt,1,2.303
+14–15%,doc3.txt,1,2.303
 unresolv,doc17.txt,1,2.303
 variant,doc10.txt,1,doc11.txt,20,doc13.txt,1,1.609
 Anglican Cathedr,doc6.txt,1,2.303
@@ -4456,6 +4466,7 @@ Nitro,doc16.txt,12,2.303
 aros,doc14.txt,1,doc4.txt,1,1.792
 birthright,doc14.txt,1,2.303
 interoper,doc13.txt,1,2.303
+2012–2013,doc5.txt,1,2.303
 Third World,doc14.txt,1,2.303
 Charg,doc13.txt,1,2.303
 dusk,doc6.txt,1,2.303
@@ -4497,7 +4508,6 @@ driver,doc11.txt,1,doc13.txt,4,doc14.txt,1,doc6.txt,2,1.386
 subsequ,doc11.txt,2,doc14.txt,3,doc16.txt,1,doc4.txt,4,doc5.txt,1,doc6.txt,1,doc9.txt,1,0.693
 Carbohydrates	78,doc3.txt,1,2.303
 standard,doc10.txt,3,doc11.txt,5,doc12.txt,1,doc13.txt,26,doc14.txt,5,doc5.txt,1,0.693
-Midwest The Mississippi–Missouri Riv,doc14.txt,1,2.303
 [335],doc14.txt,1,2.303
 taxiwai,doc11.txt,1,2.303
 illeg,doc14.txt,2,2.303
@@ -4559,9 +4569,11 @@ Lilyfield,doc6.txt,1,2.303
 breakfast,doc14.txt,1,doc18.txt,1,doc3.txt,2,1.609
 next,doc12.txt,8,doc14.txt,5,doc17.txt,2,doc20.txt,3,doc5.txt,1,doc6.txt,1,doc8.txt,1,0.693
 Three,doc1.txt,1,doc5.txt,1,1.792
+world’,doc5.txt,1,2.303
 [343],doc14.txt,1,2.303
 AC/DC Bliss,doc6.txt,1,2.303
 Forensic Mental Health A,doc6.txt,1,2.303
+“A,doc12.txt,1,2.303
 object-ori,doc4.txt,1,2.303
 Paddington,doc6.txt,1,2.303
 Christianis,doc6.txt,1,2.303
@@ -4577,7 +4589,6 @@ Wyong,doc6.txt,1,2.303
 terpen,doc9.txt,1,2.303
 Bobby McFerrin Chick Corea,doc12.txt,1,2.303
 Liability Act CERCLA,doc20.txt,1,2.303
-110	Baltimore–Towson,doc14.txt,1,2.303
 Ernest Hemingwai,doc14.txt,1,2.303
 penal,doc1.txt,1,doc6.txt,1,1.792
 x86,doc10.txt,7,2.303
@@ -4585,10 +4596,10 @@ vulgar,doc4.txt,2,2.303
 familiar,doc13.txt,2,doc3.txt,1,doc4.txt,1,doc5.txt,1,1.386
 Oxford Street,doc6.txt,1,2.303
 lung,doc14.txt,1,2.303
-state—Hawaii—achiev,doc14.txt,1,2.303
 Gladiat,doc8.txt,1,2.303
 [130],doc11.txt,1,doc14.txt,1,doc4.txt,1,doc5.txt,1,1.386
 767-300ER,doc11.txt,1,2.303
+Jørn Utzon,doc6.txt,1,2.303
 reclaim,doc17.txt,1,2.303
 provok,doc8.txt,1,2.303
 fring,doc5.txt,1,2.303
@@ -4604,6 +4615,7 @@ Indigenous Mani,doc5.txt,1,2.303
 inner,doc19.txt,1,doc4.txt,9,doc5.txt,15,doc6.txt,7,1.386
 reinforc,doc11.txt,1,2.303
 present[edit,doc12.txt,1,2.303
+Slavoj,doc4.txt,2,2.303
 hostag,doc14.txt,1,2.303
 [341],doc14.txt,1,2.303
 Soviet Union A,doc14.txt,1,2.303
@@ -4707,7 +4719,6 @@ Hiroshima,doc14.txt,1,2.303
 distinct,doc13.txt,2,doc14.txt,5,doc20.txt,1,doc4.txt,6,doc8.txt,1,1.099
 Selwyn,doc5.txt,1,2.303
 power[53],doc4.txt,1,2.303
-capital—almost,doc5.txt,1,2.303
 Staff The United States Depart,doc14.txt,1,2.303
 Anthropologist,doc4.txt,1,2.303
 file,doc10.txt,2,doc13.txt,5,doc14.txt,1,doc2.txt,5,doc4.txt,1,1.099
@@ -4734,7 +4745,6 @@ dreari,doc5.txt,1,2.303
 provid,doc1.txt,2,doc10.txt,7,doc11.txt,4,doc13.txt,8,doc14.txt,5,doc18.txt,1,doc2.txt,2,doc4.txt,5,doc5.txt,18,doc6.txt,12,0.0
 Development OECD,doc14.txt,1,2.303
 vit,doc3.txt,2,2.303
-Jürgen Ritsert,doc4.txt,1,2.303
 USNS Neosho,doc16.txt,1,2.303
 CPI,doc14.txt,1,2.303
 North Shore Southern Sydney South-western Sydnei,doc6.txt,1,2.303
@@ -4817,7 +4827,6 @@ McDonnell Dougla,doc11.txt,1,2.303
 sector,doc14.txt,4,doc6.txt,2,1.792
 Scottish,doc5.txt,1,2.303
 grant,doc14.txt,4,doc8.txt,1,1.792
-Lukác,doc4.txt,4,2.303
 ICAO,doc11.txt,1,2.303
 [135],doc11.txt,1,doc4.txt,1,doc5.txt,1,1.609
 backwood,doc14.txt,1,2.303
@@ -4882,7 +4891,6 @@ gentl,doc6.txt,1,2.303
 flame,doc3.txt,1,2.303
 brute,doc4.txt,1,2.303
 fit,doc11.txt,4,doc13.txt,1,doc4.txt,2,1.609
-112	Boston–Cambridge–Quinci,doc14.txt,1,2.303
 State Librari,doc5.txt,1,2.303
 metropoli,doc5.txt,3,2.303
 von,doc14.txt,1,doc4.txt,1,1.792
@@ -4903,6 +4911,7 @@ profit,doc11.txt,1,doc14.txt,2,doc3.txt,2,doc4.txt,1,1.386
 [134],doc11.txt,1,doc4.txt,1,doc5.txt,2,doc6.txt,1,1.386
 safeti,doc11.txt,1,2.303
 rice,doc14.txt,1,doc3.txt,2,1.792
+–a,doc11.txt,1,2.303
 rich,doc14.txt,1,2.303
 fill,doc4.txt,1,doc5.txt,1,doc6.txt,1,1.609
 pronounc,doc14.txt,1,doc4.txt,1,doc5.txt,1,doc8.txt,1,1.386
@@ -4926,9 +4935,11 @@ claw,doc17.txt,1,2.303
 improb,doc8.txt,1,2.303
 Royal Botanic Garden,doc6.txt,1,2.303
 batch-retriev,doc1.txt,1,2.303
+corners—typ,doc13.txt,1,2.303
 volatil,doc14.txt,1,2.303
 hors,doc14.txt,1,doc5.txt,1,doc6.txt,1,1.609
 Favorite Littl,doc8.txt,1,2.303
+—after,doc14.txt,1,2.303
 hippi,doc8.txt,3,2.303
 On June,doc14.txt,1,2.303
 suitabl,doc1.txt,1,doc13.txt,1,1.792
@@ -4969,7 +4980,6 @@ abreast,doc11.txt,1,2.303
 locust,doc20.txt,1,2.303
 biodegrad,doc3.txt,1,2.303
 Advancement,doc12.txt,1,2.303
-world’,doc5.txt,1,2.303
 neutral,doc14.txt,2,doc4.txt,6,doc5.txt,1,doc6.txt,1,1.386
 extract,doc4.txt,1,2.303
 Colleg,doc14.txt,1,doc8.txt,2,1.792
@@ -5017,6 +5027,7 @@ precinct,doc5.txt,3,doc6.txt,1,1.792
 Alaska Native	0,doc14.txt,1,2.303
 bird,doc14.txt,2,2.303
 717,doc14.txt,2,2.303
+753	Chicago–Joliet–Napervil,doc14.txt,1,2.303
 F W Rueckheim,doc3.txt,1,2.303
 Mornington Peninsula SP AusNet,doc5.txt,1,2.303
 777-200LR[edit,doc11.txt,1,2.303
@@ -5049,7 +5060,6 @@ hook,doc13.txt,1,2.303
 vital,doc4.txt,2,doc5.txt,1,1.792
 Central Coast,doc6.txt,1,2.303
 long-dist,doc11.txt,1,2.303
-1912—ha,doc14.txt,1,2.303
 dai,doc10.txt,2,doc11.txt,3,doc14.txt,6,doc16.txt,2,doc17.txt,2,doc4.txt,2,doc5.txt,8,doc6.txt,4,doc9.txt,1,0.693
 Microsoft,doc13.txt,1,doc14.txt,1,1.792
 code,doc10.txt,6,doc13.txt,1,doc6.txt,1,doc9.txt,1,1.386
@@ -5108,7 +5118,6 @@ orient,doc10.txt,1,doc13.txt,1,doc14.txt,1,doc4.txt,2,1.386
 acid,doc9.txt,1,2.303
 A Tribut,doc12.txt,1,2.303
 widen,doc5.txt,1,2.303
-York–New Jersey–Connecticut–Pennsylvania NY–NJ–CT–PA MSA	Northeast,doc14.txt,1,2.303
 Consum,doc14.txt,1,2.303
 Information Sci,doc7.txt,1,2.303
 improv,doc11.txt,4,doc14.txt,3,doc3.txt,1,doc6.txt,1,1.386
@@ -5124,6 +5133,7 @@ RMIT,doc5.txt,1,2.303
 SBS Two,doc6.txt,1,2.303
 cue,doc14.txt,1,2.303
 Cornell Univers,doc7.txt,1,2.303
+cinema—th,doc8.txt,1,2.303
 Indian Sri Lankan,doc5.txt,1,2.303
 observ,doc14.txt,1,doc19.txt,1,doc4.txt,10,doc5.txt,3,doc8.txt,1,1.099
 given,doc1.txt,2,doc11.txt,2,doc12.txt,1,doc14.txt,2,doc19.txt,1,doc2.txt,4,doc4.txt,8,doc7.txt,1,doc8.txt,2,0.693
@@ -5181,7 +5191,6 @@ Multiraci,doc14.txt,1,2.303
 frequent,doc13.txt,2,doc14.txt,4,doc17.txt,1,doc20.txt,1,doc4.txt,1,doc8.txt,1,0.693
 Thespi,doc4.txt,1,2.303
 link],doc14.txt,1,2.303
-“to,doc12.txt,1,2.303
 Eurocentr,doc14.txt,1,2.303
 homo,doc4.txt,1,2.303
 pupil,doc18.txt,1,2.303
@@ -5224,6 +5233,7 @@ The Sydney Harbour Bridg,doc6.txt,1,2.303
 millet,doc3.txt,1,2.303
 772,doc11.txt,1,2.303
 773,doc11.txt,1,doc5.txt,1,1.792
+2001—encompass,doc14.txt,1,2.303
 777,doc11.txt,64,2.303
 774,doc20.txt,1,doc5.txt,1,1.792
 775,doc11.txt,1,2.303
@@ -5256,6 +5266,7 @@ outcom,doc2.txt,1,2.303
 properties[edit,doc13.txt,1,2.303
 767,doc11.txt,11,2.303
 Muhammad Thi,doc8.txt,1,2.303
+414	Philadelphia–Camden–Wilmington,doc14.txt,1,2.303
 standard/embed,doc13.txt,1,2.303
 Jonathan Harker Sh,doc17.txt,1,2.303
 AveP,doc1.txt,5,2.303
@@ -5310,20 +5321,19 @@ acut,doc9.txt,1,2.303
 [376],doc14.txt,1,2.303
 Melbourne Port,doc5.txt,1,2.303
 June,doc10.txt,1,doc11.txt,7,doc16.txt,3,doc5.txt,4,doc6.txt,2,1.099
+Getz’,doc12.txt,1,2.303
 Incongruenc,doc4.txt,1,2.303
 Northern Europ,doc16.txt,1,2.303
 [259],doc4.txt,1,2.303
 contenti,doc14.txt,1,doc6.txt,1,1.792
 [28][29],doc14.txt,1,doc3.txt,1,1.792
 Parramatta Tourism[edit,doc6.txt,1,2.303
-cathedrals—St,doc5.txt,1,2.303
 [108][109],doc11.txt,1,2.303
 Trey Parker Cartman,doc8.txt,1,2.303
 conscious,doc4.txt,23,2.303
 White	72,doc14.txt,1,2.303
 professor,doc8.txt,2,2.303
 swear,doc17.txt,1,2.303
-−300ER,doc11.txt,18,2.303
 blade,doc10.txt,2,doc11.txt,1,1.792
 packet,doc13.txt,13,doc4.txt,1,1.792
 Jack Tenorman,doc8.txt,1,2.303
@@ -5346,24 +5356,24 @@ DMG,doc5.txt,1,2.303
 com/path/to/nam,doc2.txt,1,2.303
 President Theodore Roosevelt,doc14.txt,1,2.303
 incarn,doc17.txt,1,2.303
-−200,doc11.txt,11,2.303
 puppet,doc4.txt,2,2.303
 Broadway Theater District On,doc14.txt,1,2.303
 publish,doc1.txt,15,doc13.txt,1,doc14.txt,1,doc4.txt,7,doc5.txt,1,doc6.txt,2,doc7.txt,1,0.693
 recreat,doc6.txt,1,2.303
 Melbourne Ic,doc5.txt,1,2.303
-205	Atlanta–Sandi,doc14.txt,1,2.303
 preschool,doc5.txt,1,doc6.txt,1,1.792
 rankings[edit,doc6.txt,1,2.303
 Pilbara,doc5.txt,1,2.303
 Virginia Virginia,doc20.txt,1,2.303
 Independ,doc14.txt,7,doc4.txt,1,1.792
 [140],doc11.txt,1,doc4.txt,1,doc5.txt,1,doc6.txt,1,1.386
+Keith Jarrett’,doc12.txt,2,2.303
 SUPERSPEED+,doc13.txt,1,2.303
 Beautiful Lady Th,doc17.txt,1,2.303
 repres,doc1.txt,6,doc11.txt,1,doc13.txt,3,doc14.txt,5,doc18.txt,1,doc2.txt,1,doc3.txt,1,doc4.txt,14,doc5.txt,2,doc6.txt,4,doc7.txt,1,doc8.txt,3,0.0
 Variou,doc13.txt,1,doc4.txt,1,1.792
 insurrect,doc5.txt,1,2.303
+2007–2008,doc14.txt,1,doc6.txt,1,1.792
 Juli,doc1.txt,1,doc10.txt,1,doc11.txt,14,doc13.txt,2,doc14.txt,3,doc16.txt,1,doc5.txt,2,doc6.txt,5,0.693
 come,doc10.txt,1,doc12.txt,1,doc13.txt,2,doc14.txt,1,doc17.txt,6,doc19.txt,1,doc3.txt,1,doc4.txt,1,doc5.txt,1,0.693
 averag,doc1.txt,10,doc14.txt,14,doc5.txt,2,doc6.txt,8,1.386
@@ -5426,7 +5436,6 @@ restor,doc20.txt,1,doc9.txt,1,1.792
 Cfb,doc5.txt,1,2.303
 Award,doc1.txt,1,doc12.txt,1,doc7.txt,1,1.609
 trilater,doc14.txt,1,2.303
-“hi,doc12.txt,1,2.303
 ventur,doc12.txt,1,2.303
 Philosophy You Know I Learned Something Todai,doc8.txt,1,2.303
 [256],doc14.txt,2,doc4.txt,1,1.792
@@ -5462,7 +5471,6 @@ MTP Human,doc13.txt,1,2.303
 cry,doc8.txt,1,2.303
 English,doc14.txt,13,doc17.txt,1,doc3.txt,1,doc4.txt,4,doc5.txt,3,doc6.txt,1,0.693
 exploit,doc12.txt,1,doc13.txt,1,doc4.txt,3,doc8.txt,2,1.386
-plug—which,doc13.txt,1,2.303
 crater,doc20.txt,1,2.303
 unit,doc11.txt,1,doc13.txt,4,doc14.txt,2,doc20.txt,1,doc3.txt,1,doc4.txt,3,doc6.txt,2,doc9.txt,1,0.693
 The ANZAC Bridg,doc6.txt,1,2.303
@@ -5485,7 +5493,6 @@ tier,doc13.txt,2,doc6.txt,2,1.792
 Times Higher Education Suppl,doc5.txt,1,2.303
 SCLA,doc10.txt,1,2.303
 modest,doc14.txt,1,2.303
-division—of,doc5.txt,1,2.303
 age-adjust,doc14.txt,1,2.303
 avoid,doc14.txt,2,doc3.txt,1,1.792
 $553,doc14.txt,1,2.303
@@ -5534,6 +5541,7 @@ Unix,doc10.txt,6,2.303
 indirectli,doc1.txt,1,doc4.txt,1,1.792
 convent,doc11.txt,1,doc14.txt,2,doc4.txt,2,doc5.txt,1,doc6.txt,1,1.099
 [66],doc11.txt,5,doc4.txt,1,doc5.txt,1,doc6.txt,1,doc8.txt,1,1.099
+Paul–Bloomington MN–WI MSA	Midwest,doc14.txt,1,2.303
 south-east,doc5.txt,3,doc6.txt,1,1.792
 Melbourne Ac,doc5.txt,1,2.303
 Cityrail,doc6.txt,1,2.303
@@ -5582,6 +5590,7 @@ radio,doc14.txt,1,doc17.txt,1,doc5.txt,1,doc6.txt,6,doc8.txt,1,1.099
 Rail,doc5.txt,1,2.303
 Japan,doc14.txt,2,doc16.txt,1,1.792
 freckl,doc8.txt,1,2.303
+/ˈmɛlbən,doc5.txt,1,2.303
 phone,doc13.txt,4,doc14.txt,1,doc5.txt,1,1.609
 Paediatric Servic,doc6.txt,1,2.303
 conceal/rev,doc4.txt,1,2.303
@@ -5644,7 +5653,6 @@ bandwidth,doc13.txt,3,2.303
 [373],doc14.txt,1,2.303
 John Scofield,doc12.txt,2,2.303
 affair,doc14.txt,2,doc4.txt,1,1.792
-Martin Waldseemül,doc14.txt,1,2.303
 Powered USB,doc13.txt,1,2.303
 Australian New Wav,doc5.txt,1,2.303
 polym,doc11.txt,1,doc3.txt,1,1.792
@@ -5693,20 +5701,17 @@ Wilhelm Grimm,doc4.txt,1,2.303
 full-duplex,doc13.txt,1,2.303
 Judaism,doc14.txt,1,2.303
 606,doc5.txt,1,2.303
-PA–NJ–DE–MD MSA	Northeast,doc14.txt,1,2.303
 slow,doc11.txt,2,2.303
 Melbourne Town Hal,doc5.txt,1,2.303
 602,doc11.txt,1,2.303
 choke,doc3.txt,1,2.303
 hurrican,doc14.txt,1,2.303
 forward-fac,doc11.txt,1,2.303
-production—an,doc5.txt,1,2.303
 Atlantic Monthli,doc1.txt,1,2.303
 \mbox,doc1.txt,13,2.303
 Parker,doc8.txt,24,2.303
 3	D+	Green	Data,doc13.txt,2,2.303
 incompat,doc10.txt,1,doc13.txt,4,doc4.txt,1,1.609
-hub—built,doc13.txt,1,2.303
 Silurian,doc5.txt,1,2.303
 withstand,doc3.txt,1,doc4.txt,1,1.792
 ingeni,doc4.txt,1,2.303
@@ -5740,6 +5745,7 @@ Fuselag,doc11.txt,1,2.303
 Buddhism,doc14.txt,1,2.303
 credenti,doc2.txt,1,doc4.txt,1,1.792
 France Germany Canada Australia,doc14.txt,1,2.303
+USS Nitro AE–23,doc16.txt,1,2.303
 Environmental Quality DEQ Cont,doc20.txt,1,2.303
 The CBD,doc5.txt,1,2.303
 Mel Brook,doc17.txt,1,2.303
@@ -5767,10 +5773,10 @@ The Piedmont,doc20.txt,1,2.303
 mechanism[edit,doc3.txt,1,2.303
 Eora,doc6.txt,4,2.303
 starvat,doc14.txt,1,2.303
-Archie Bunker�? Thes,doc8.txt,1,2.303
 Baudrillard,doc4.txt,1,2.303
 would,doc10.txt,2,doc11.txt,10,doc12.txt,7,doc13.txt,4,doc14.txt,5,doc2.txt,2,doc4.txt,19,doc5.txt,3,doc6.txt,3,doc8.txt,2,0.0
 Kurnel,doc6.txt,1,2.303
+unit—,doc14.txt,1,2.303
 patriarch,doc4.txt,1,doc5.txt,1,doc8.txt,1,1.609
 high-ris,doc5.txt,3,doc6.txt,1,1.792
 squalid,doc5.txt,1,2.303
@@ -5812,6 +5818,7 @@ sketch,doc8.txt,1,2.303
 [468],doc14.txt,1,2.303
 Critical Theori,doc4.txt,1,2.303
 disappoint,doc1.txt,1,2.303
+individuals’,doc14.txt,1,2.303
 uniform,doc2.txt,2,2.303
 maker,doc3.txt,1,2.303
 ahead,doc14.txt,1,doc5.txt,1,1.792
@@ -5825,6 +5832,7 @@ Thousand,doc8.txt,1,2.303
 Havilland,doc11.txt,1,2.303
 versatil,doc13.txt,1,2.303
 SuperSpe,doc13.txt,9,2.303
+4	Dallas–Fort,doc14.txt,1,2.303
 Sydney The Great Synagogu,doc6.txt,1,2.303
 mistak,doc4.txt,2,2.303
 nonlinear,doc1.txt,1,2.303
@@ -5836,6 +5844,7 @@ two-parti,doc14.txt,1,2.303
 Gallup,doc14.txt,1,2.303
 socialist,doc14.txt,1,doc4.txt,1,1.792
 street,doc14.txt,1,doc3.txt,2,doc5.txt,3,1.609
+“abstract,doc12.txt,1,2.303
 Theodor Adorno,doc4.txt,1,2.303
 peregrin,doc20.txt,1,2.303
 9929,doc19.txt,2,2.303
@@ -5868,6 +5877,7 @@ packag,doc10.txt,2,doc11.txt,1,doc13.txt,2,doc3.txt,3,doc5.txt,1,doc8.txt,1,0.69
 Cold War,doc14.txt,6,2.303
 670,doc14.txt,1,2.303
 minimis,doc5.txt,1,2.303
+“into,doc12.txt,1,2.303
 solut,doc1.txt,1,doc13.txt,1,doc4.txt,2,doc5.txt,1,1.386
 corros,doc4.txt,1,2.303
 stimul,doc14.txt,1,doc4.txt,1,doc5.txt,1,1.609
@@ -5875,7 +5885,6 @@ Alaska Purchas,doc14.txt,1,2.303
 Solaris Contain,doc10.txt,1,2.303
 eleven,doc11.txt,1,2.303
 Entre,doc17.txt,1,2.303
-Jochen Hörisch,doc4.txt,2,2.303
 across,doc10.txt,1,doc11.txt,2,doc14.txt,5,doc19.txt,1,doc4.txt,2,doc5.txt,3,doc6.txt,3,doc8.txt,1,0.693
 Engine,doc11.txt,1,2.303
 chicken,doc14.txt,1,2.303
@@ -5903,6 +5912,7 @@ summarized[111],doc4.txt,1,2.303
 lard,doc3.txt,1,2.303
 Georgia,doc14.txt,1,2.303
 The Sydnei,doc6.txt,1,2.303
+festival—Moomba,doc5.txt,1,2.303
 German,doc1.txt,2,doc14.txt,1,doc17.txt,1,doc4.txt,9,doc8.txt,2,1.099
 insert,doc13.txt,11,2.303
 dismiss,doc4.txt,2,2.303
@@ -5912,13 +5922,12 @@ Harker,doc17.txt,1,2.303
 Mount McKinlei,doc14.txt,1,2.303
 X Sun,doc10.txt,1,2.303
 2013[1][187][188],doc11.txt,1,2.303
-1793–95,doc4.txt,1,2.303
 last,doc10.txt,2,doc11.txt,1,doc13.txt,1,doc14.txt,8,doc17.txt,4,doc4.txt,2,doc6.txt,4,doc7.txt,1,0.693
-corners—typ,doc13.txt,1,2.303
 VH1,doc8.txt,1,2.303
 Proust Questionnair,doc8.txt,1,2.303
 terror,doc8.txt,2,2.303
 649,doc5.txt,1,2.303
+1950–53,doc14.txt,1,2.303
 643,doc14.txt,1,2.303
 upcom,doc11.txt,2,doc6.txt,1,1.792
 electr,doc11.txt,2,doc12.txt,1,doc13.txt,6,doc14.txt,1,doc5.txt,2,doc6.txt,1,0.693
@@ -5933,6 +5942,7 @@ New South Wal,doc5.txt,2,doc6.txt,13,1.792
 64%,doc14.txt,2,2.303
 Sustainable Water Manag,doc5.txt,1,2.303
 The New York City Police Department NYPD,doc14.txt,1,2.303
+“percussionist,doc12.txt,1,2.303
 Sydney Tower Sydney CBD,doc6.txt,1,2.303
 Baptist,doc14.txt,1,2.303
 ration,doc3.txt,1,doc4.txt,8,1.792
@@ -5959,8 +5969,6 @@ late,doc1.txt,3,doc10.txt,1,doc11.txt,6,doc14.txt,7,doc17.txt,1,doc18.txt,1,doc3
 The British,doc14.txt,1,doc4.txt,1,doc6.txt,1,1.609
 Denmark Most,doc14.txt,1,2.303
 eastern,doc14.txt,2,doc18.txt,1,doc20.txt,3,doc5.txt,8,doc6.txt,8,1.099
-–,doc11.txt,2,doc13.txt,3,doc14.txt,1,doc4.txt,76,doc5.txt,1,doc6.txt,1,doc8.txt,1,0.693
-—,doc3.txt,2,doc4.txt,2,doc6.txt,1,1.609
 OPEN LOOK,doc10.txt,2,2.303
 VIP,doc11.txt,1,2.303
 jack,doc13.txt,1,2.303
@@ -6025,6 +6033,7 @@ Mornington Peninsula National Park Port Phillip Heads Marine National Park,doc5.
 Baltimor,doc20.txt,1,2.303
 Philip,doc13.txt,1,2.303
 option,doc10.txt,1,doc11.txt,9,doc13.txt,2,doc2.txt,3,doc4.txt,1,doc5.txt,1,doc6.txt,1,doc8.txt,1,0.693
+production—an,doc5.txt,1,2.303
 Standard Mini,doc13.txt,1,2.303
 [471],doc14.txt,1,2.303
 bicamer,doc14.txt,1,2.303
@@ -6063,7 +6072,7 @@ spring,doc16.txt,1,doc5.txt,2,doc6.txt,1,1.609
 Paul	3,doc14.txt,1,2.303
 Recall[edit,doc1.txt,1,2.303
 wildli,doc8.txt,1,2.303
-The,doc1.txt,16,doc10.txt,5,doc11.txt,97,doc12.txt,5,doc13.txt,44,doc14.txt,108,doc16.txt,1,doc17.txt,7,doc18.txt,3,doc19.txt,1,doc2.txt,14,doc20.txt,15,doc3.txt,9,doc4.txt,134,doc5.txt,48,doc6.txt,50,doc7.txt,1,doc8.txt,8,doc9.txt,1,0.0
+The,doc1.txt,16,doc10.txt,5,doc11.txt,97,doc12.txt,5,doc13.txt,44,doc14.txt,108,doc16.txt,1,doc17.txt,7,doc18.txt,3,doc19.txt,1,doc2.txt,14,doc20.txt,15,doc3.txt,10,doc4.txt,134,doc5.txt,48,doc6.txt,50,doc7.txt,1,doc8.txt,8,doc9.txt,1,0.0
 risen,doc14.txt,1,doc17.txt,1,doc5.txt,1,doc6.txt,1,1.386
 Micro-AB,doc13.txt,2,2.303
 widow,doc14.txt,1,2.303
@@ -6085,7 +6094,6 @@ Summer Olymp,doc5.txt,1,doc6.txt,1,1.792
 everta,doc3.txt,2,2.303
 Discographi,doc12.txt,1,2.303
 Smooth,doc6.txt,1,2.303
-–8XL,doc11.txt,1,2.303
 Great Lak,doc14.txt,2,2.303
 [150],doc11.txt,1,doc4.txt,1,doc5.txt,1,1.609
 surplu,doc4.txt,1,2.303
@@ -6108,7 +6116,6 @@ dog,doc14.txt,1,2.303
 Face,doc4.txt,2,2.303
 respect,doc1.txt,1,doc10.txt,1,doc11.txt,1,doc13.txt,1,doc14.txt,4,doc17.txt,1,doc4.txt,1,doc5.txt,2,doc6.txt,1,doc9.txt,1,0.0
 However DeJohnett,doc12.txt,1,2.303
-’,doc12.txt,1,2.303
 Royal Melbourne Institut,doc5.txt,1,2.303
 Food Main,doc14.txt,1,2.303
 attend,doc14.txt,5,doc18.txt,1,doc8.txt,1,1.609
@@ -6129,6 +6136,7 @@ inlet,doc6.txt,2,2.303
 News Radio,doc5.txt,1,2.303
 Lebanon	54,doc6.txt,1,2.303
 hand-drawn,doc8.txt,1,2.303
+façad,doc4.txt,2,2.303
 Civil War Charles Sanders Peirc,doc14.txt,1,2.303
 Legislative Th,doc14.txt,1,2.303
 width,doc13.txt,2,2.303
@@ -6251,6 +6259,7 @@ obtain,doc1.txt,3,doc14.txt,1,doc4.txt,1,1.609
 nDCG_,doc1.txt,1,2.303
 Vector Space Model,doc7.txt,1,2.303
 In Januari,doc10.txt,1,doc11.txt,1,1.792
+/ˈsɪdni/[3],doc6.txt,1,2.303
 boost,doc1.txt,1,doc5.txt,1,1.792
 impair,doc9.txt,1,2.303
 ascend,doc11.txt,3,doc8.txt,1,1.792
@@ -6323,10 +6332,9 @@ Reconstruction Jim Crow,doc14.txt,1,2.303
 What,doc4.txt,5,2.303
 $615,doc5.txt,1,2.303
 Infrared IR,doc9.txt,1,2.303
-Slavoj Žižek,doc4.txt,2,2.303
-“A,doc12.txt,1,2.303
 tea,doc14.txt,1,2.303
 Monash Univers,doc5.txt,2,2.303
+1940s–1950,doc1.txt,1,2.303
 best-sel,doc11.txt,2,2.303
 impact,doc1.txt,1,doc11.txt,1,doc14.txt,6,doc20.txt,1,doc4.txt,1,doc5.txt,1,doc6.txt,1,doc8.txt,1,0.693
 shire,doc5.txt,1,2.303
@@ -6341,17 +6349,16 @@ circuitri,doc13.txt,1,2.303
 repair,doc11.txt,1,doc16.txt,2,1.792
 colourist,doc12.txt,1,2.303
 magic[edit,doc4.txt,1,2.303
-RMIT University[139]—which,doc6.txt,1,2.303
 Timeline[edit,doc1.txt,1,2.303
 Olympics CityRail,doc6.txt,1,2.303
 [57],doc11.txt,1,doc14.txt,1,doc4.txt,1,doc6.txt,1,1.386
 The US,doc1.txt,1,doc14.txt,5,1.792
 La Trobe Street Melbourn,doc5.txt,1,2.303
-“a,doc8.txt,1,2.303
 German Cartman,doc8.txt,1,2.303
 Sydney Harbour,doc6.txt,4,2.303
 lack,doc14.txt,1,doc4.txt,8,doc5.txt,2,doc6.txt,2,doc8.txt,1,1.099
 The Constitut,doc14.txt,1,2.303
+thinker”,doc12.txt,1,2.303
 himself,doc12.txt,5,doc4.txt,7,doc8.txt,2,1.609
 [261],doc4.txt,1,2.303
 anyon,doc14.txt,1,doc4.txt,1,doc8.txt,1,1.609
@@ -6368,10 +6375,9 @@ Great Falls Park,doc20.txt,1,2.303
 German	0,doc14.txt,1,2.303
 unair,doc8.txt,1,2.303
 treat,doc1.txt,2,doc12.txt,1,doc14.txt,2,doc2.txt,1,doc4.txt,1,doc5.txt,1,doc6.txt,1,0.693
-−300,doc11.txt,16,2.303
 [56],doc14.txt,1,doc4.txt,1,doc6.txt,1,doc8.txt,1,1.386
 other,doc1.txt,6,doc10.txt,4,doc11.txt,10,doc12.txt,5,doc13.txt,12,doc14.txt,45,doc16.txt,2,doc17.txt,3,doc3.txt,5,doc4.txt,60,doc5.txt,20,doc6.txt,15,doc8.txt,18,doc9.txt,3,0.0
-Plenty River—to,doc5.txt,1,2.303
+40–54,doc6.txt,1,2.303
 schedul,doc13.txt,1,doc6.txt,2,1.792
 monetari,doc8.txt,1,2.303
 777-X,doc11.txt,1,2.303
@@ -6403,7 +6409,6 @@ thi,doc1.txt,3,doc10.txt,3,doc11.txt,3,doc12.txt,7,doc13.txt,9,doc14.txt,11,doc1
 aggressor,doc4.txt,1,2.303
 CD-RW,doc13.txt,1,2.303
 settl,doc14.txt,2,2.303
-controller—i,doc13.txt,1,2.303
 riski,doc14.txt,1,2.303
 DeJohnett,doc12.txt,29,2.303
 beaver,doc20.txt,1,2.303
@@ -6434,6 +6439,7 @@ imper,doc14.txt,1,2.303
 Dracula Luci,doc17.txt,1,2.303
 Earthquak,doc20.txt,1,2.303
 asset,doc14.txt,1,doc5.txt,1,1.792
+Florencia Benítez,doc17.txt,1,2.303
 told,doc17.txt,1,doc4.txt,1,1.792
 somebodi,doc4.txt,2,2.303
 qualiti,doc14.txt,1,doc17.txt,1,doc3.txt,2,doc4.txt,3,1.386
@@ -6468,7 +6474,6 @@ case-insensit,doc2.txt,1,2.303
 Norman,doc18.txt,1,2.303
 TAFE Western Sydney Institut,doc6.txt,1,2.303
 tone,doc17.txt,1,doc8.txt,1,1.792
-Port Phillip Bay—the Port Phillip Channel Deepening Project It,doc5.txt,1,2.303
 bison,doc14.txt,1,2.303
 Intel Itanium,doc10.txt,1,2.303
 [395],doc14.txt,1,2.303
@@ -6501,6 +6506,7 @@ World War II Sydnei,doc6.txt,1,2.303
 Sydney Town Hal,doc6.txt,1,2.303
 Seasid,doc6.txt,1,2.303
 anti-human,doc4.txt,1,2.303
+RMIT University[139]—which,doc6.txt,1,2.303
 nightmar,doc4.txt,1,2.303
 tool,doc1.txt,2,doc4.txt,5,1.792
 energy-effici,doc13.txt,2,2.303
@@ -6522,6 +6528,7 @@ motion,doc14.txt,2,doc3.txt,1,doc8.txt,3,1.609
 The New South Wales Govern,doc6.txt,1,2.303
 Thereaft,doc5.txt,1,2.303
 Financi,doc14.txt,1,2.303
+“loos,doc12.txt,1,2.303
 two-counti,doc20.txt,1,2.303
 station,doc16.txt,1,doc4.txt,1,doc5.txt,16,doc6.txt,5,1.386
 prioriti,doc11.txt,1,doc14.txt,1,doc17.txt,1,1.609
@@ -6549,6 +6556,7 @@ grab,doc4.txt,1,2.303
 aerospac,doc11.txt,1,2.303
 connect,doc10.txt,1,doc11.txt,3,doc13.txt,52,doc14.txt,1,doc2.txt,5,doc3.txt,1,doc4.txt,4,doc5.txt,1,0.693
 masking[edit,doc4.txt,1,2.303
+orbit”,doc12.txt,1,2.303
 [392],doc14.txt,1,2.303
 Playhous,doc5.txt,1,2.303
 Preliminari,doc11.txt,1,2.303
@@ -6564,15 +6572,12 @@ Low Speed Full Speed High Spe,doc13.txt,1,2.303
 Ludwig Feuerbach,doc4.txt,1,2.303
 Nativ,doc14.txt,2,2.303
 supplement,doc11.txt,1,doc14.txt,1,1.792
-continent’,doc14.txt,2,2.303
 United States The Statu,doc14.txt,1,2.303
 gram,doc3.txt,1,2.303
 Lesbian Mardi Gra,doc6.txt,1,2.303
 dictat,doc4.txt,1,2.303
--bərn/[3],doc5.txt,1,2.303
 grai,doc20.txt,2,2.303
 2	12,doc6.txt,1,2.303
-platform�?,doc12.txt,1,2.303
 Georgetown Tasmania,doc5.txt,1,2.303
 manag,doc10.txt,5,doc13.txt,1,doc14.txt,2,doc17.txt,2,doc4.txt,7,doc5.txt,4,doc6.txt,2,0.693
 New,doc11.txt,1,doc13.txt,1,doc14.txt,1,doc4.txt,2,doc5.txt,1,1.099
@@ -6619,7 +6624,6 @@ Convert,doc13.txt,1,2.303
 unoffici,doc6.txt,1,2.303
 Angeles	12,doc14.txt,1,2.303
 Casei,doc5.txt,1,2.303
-He’d,doc12.txt,1,2.303
 WNBL,doc5.txt,1,2.303
 element,doc1.txt,1,doc11.txt,1,doc12.txt,1,doc14.txt,1,doc3.txt,1,doc4.txt,1,doc6.txt,1,doc8.txt,1,0.693
 elect,doc14.txt,25,doc5.txt,2,doc6.txt,3,doc7.txt,1,1.386
@@ -6658,7 +6662,6 @@ Pablo Nacach,doc4.txt,1,2.303
 endless,doc4.txt,1,2.303
 easili,doc1.txt,1,doc11.txt,1,doc4.txt,4,1.609
 browser,doc13.txt,1,doc2.txt,4,1.792
-president—Georg,doc14.txt,1,2.303
 Commonwealth Bank Westpac,doc6.txt,1,2.303
 [231],doc14.txt,1,doc4.txt,1,1.792
 low-wat,doc20.txt,1,2.303
@@ -6672,12 +6675,10 @@ divid,doc14.txt,2,doc20.txt,3,doc5.txt,1,doc6.txt,3,doc7.txt,1,1.099
 premis,doc1.txt,1,2.303
 Labor,doc14.txt,1,2.303
 Feature-bas,doc1.txt,1,2.303
-36°,doc20.txt,1,2.303
 Vietnam War,doc14.txt,1,2.303
 offic,doc10.txt,1,doc14.txt,9,doc4.txt,1,doc5.txt,4,1.386
 Major Boobage Cartman,doc8.txt,1,2.303
 Susan Penhaligon,doc17.txt,1,2.303
-—includ,doc14.txt,1,2.303
 freed,doc14.txt,1,doc4.txt,1,1.792
 Empire,doc14.txt,1,2.303
 strengthen,doc11.txt,2,doc14.txt,1,doc6.txt,2,1.609
@@ -6694,6 +6695,7 @@ sewag,doc6.txt,1,2.303
 The Port,doc5.txt,1,2.303
 forsak,doc12.txt,1,2.303
 disk,doc10.txt,1,doc13.txt,5,1.792
+year’,doc16.txt,1,2.303
 A Malaysia Airlin,doc11.txt,1,2.303
 Class I Feder,doc9.txt,1,2.303
 osprei,doc20.txt,1,2.303
@@ -6714,7 +6716,6 @@ politi,doc4.txt,1,2.303
 younger,doc14.txt,2,doc8.txt,1,1.792
 Convent,doc2.txt,1,2.303
 Desktop,doc10.txt,2,2.303
-1789–1814,doc4.txt,1,2.303
 BBC One,doc17.txt,1,2.303
 joint,doc1.txt,1,2.303
 decad,doc14.txt,5,doc6.txt,2,1.792
@@ -6730,6 +6731,7 @@ eccentr,doc8.txt,1,2.303
 wharv,doc6.txt,1,2.303
 Melbourne La Trobe Reading Room,doc5.txt,1,2.303
 decai,doc17.txt,1,2.303
+110	Baltimore–Towson,doc14.txt,1,2.303
 trunk,doc11.txt,1,doc6.txt,1,1.792
 hypnot,doc17.txt,1,2.303
 philosophi,doc14.txt,6,doc4.txt,9,doc8.txt,1,1.609
@@ -6759,8 +6761,8 @@ Environmental Protection Agency EPA,doc14.txt,1,2.303
 South Park Cartman Get,doc8.txt,1,2.303
 Depend,doc1.txt,1,doc3.txt,1,1.792
 offer,doc10.txt,1,doc11.txt,9,doc12.txt,2,doc13.txt,2,doc14.txt,2,doc4.txt,5,doc5.txt,2,doc8.txt,1,0.693
+rating—up,doc13.txt,1,2.303
 Pakenham,doc5.txt,1,2.303
-Australia’,doc5.txt,1,2.303
 rim,doc13.txt,1,2.303
 [399],doc14.txt,1,2.303
 ria,doc6.txt,2,2.303
@@ -6816,6 +6818,7 @@ Super Rugbi,doc5.txt,1,2.303
 England Cricket,doc6.txt,1,2.303
 Polem,doc4.txt,1,2.303
 false-consci,doc4.txt,1,2.303
+laws—such,doc14.txt,1,2.303
 tournament,doc5.txt,1,2.303
 [226],doc14.txt,1,doc4.txt,1,1.792
 November Nitro,doc16.txt,1,2.303
@@ -6865,7 +6868,6 @@ Maoist,doc4.txt,1,2.303
 insult,doc8.txt,2,2.303
 series[189],doc4.txt,1,2.303
 historian,doc19.txt,1,doc4.txt,2,1.792
-Although György Lukác,doc4.txt,1,2.303
 world,doc11.txt,8,doc12.txt,1,doc13.txt,1,doc14.txt,57,doc3.txt,2,doc4.txt,23,doc5.txt,27,doc6.txt,18,doc8.txt,1,0.693
 OpenSolari,doc10.txt,9,2.303
 OMTP/GSMA,doc13.txt,1,2.303
@@ -6906,6 +6908,7 @@ agnost,doc14.txt,1,2.303
 The Dust Bowl,doc14.txt,2,2.303
 medal,doc14.txt,1,2.303
 air-pop,doc3.txt,1,2.303
+−,doc13.txt,4,2.303
 After Virtu,doc4.txt,1,2.303
 femal,doc13.txt,3,doc5.txt,1,doc8.txt,1,1.609
 attempt,doc14.txt,1,doc4.txt,3,doc5.txt,1,doc8.txt,5,1.386
@@ -6914,8 +6917,8 @@ insurg,doc14.txt,1,2.303
 Maritime Administr,doc16.txt,1,2.303
 Los Angeles K,doc8.txt,1,2.303
 overbrand,doc10.txt,1,2.303
-“abstract,doc12.txt,1,2.303
 accessori,doc13.txt,2,2.303
+which—th,doc5.txt,1,2.303
 circular[132],doc11.txt,1,2.303
 discretionari,doc14.txt,1,2.303
 workstat,doc10.txt,5,2.303
@@ -6942,7 +6945,6 @@ Mushroom,doc3.txt,3,2.303
 San Francisco International Airport,doc11.txt,1,2.303
 sever,doc1.txt,3,doc10.txt,1,doc11.txt,2,doc12.txt,1,doc13.txt,6,doc14.txt,5,doc17.txt,2,doc18.txt,1,doc2.txt,1,doc4.txt,2,doc5.txt,12,doc6.txt,9,doc8.txt,3,0.0
 ecolog,doc14.txt,1,2.303
-Žižek,doc4.txt,5,2.303
 [76][121],doc5.txt,1,2.303
 seven,doc13.txt,1,doc14.txt,6,doc16.txt,1,doc20.txt,1,doc6.txt,1,1.099
 disdain,doc8.txt,1,2.303
@@ -6958,14 +6960,13 @@ AT&T Corpor,doc10.txt,1,2.303
 HID Keyboard,doc13.txt,1,2.303
 sai,doc12.txt,2,doc13.txt,1,doc17.txt,2,doc2.txt,1,doc4.txt,4,doc8.txt,3,0.693
 headquart,doc5.txt,7,doc6.txt,9,1.792
-states—,doc14.txt,1,2.303
+1789–1814,doc4.txt,1,2.303
 Bourdieu,doc4.txt,1,2.303
 After,doc10.txt,2,doc11.txt,2,doc13.txt,1,doc14.txt,4,doc16.txt,1,doc5.txt,2,0.693
 physiolog,doc4.txt,1,2.303
 stock,doc14.txt,1,doc4.txt,3,doc5.txt,1,1.609
 reform,doc14.txt,6,2.303
 carbon,doc20.txt,2,doc5.txt,2,doc6.txt,1,1.609
-jalapeño,doc3.txt,1,2.303
 Australian Idol,doc6.txt,1,2.303
 impli,doc17.txt,1,doc4.txt,3,1.792
 Flinders Street St,doc5.txt,2,2.303
@@ -6973,6 +6974,7 @@ pine,doc20.txt,3,2.303
 monthli,doc10.txt,1,doc5.txt,1,doc6.txt,1,1.609
 topic,doc4.txt,3,doc5.txt,1,1.792
 Sports Main,doc14.txt,1,2.303
+Žižek[edit,doc4.txt,1,2.303
 Anglo-Saxon Western Marxist,doc4.txt,1,2.303
 Furedi,doc4.txt,1,2.303
 Japanese American,doc14.txt,1,2.303
@@ -6987,6 +6989,7 @@ Cook,doc3.txt,2,doc6.txt,1,1.792
 shortleaf,doc20.txt,1,2.303
 ACM Transact,doc7.txt,1,2.303
 Coon,doc8.txt,2,2.303
+country—I,doc8.txt,1,2.303
 bi-direct,doc13.txt,2,2.303
 Max Adler,doc4.txt,1,2.303
 link,doc1.txt,1,doc10.txt,1,doc11.txt,1,doc12.txt,2,doc13.txt,3,doc14.txt,1,doc2.txt,1,doc20.txt,1,doc3.txt,1,doc4.txt,3,doc5.txt,6,doc6.txt,2,doc8.txt,1,doc9.txt,1,0.0
@@ -6994,6 +6997,7 @@ line,doc11.txt,4,doc12.txt,1,doc13.txt,7,doc14.txt,1,doc16.txt,1,doc20.txt,2,doc
 therefor,doc13.txt,2,doc3.txt,1,doc4.txt,14,doc9.txt,1,1.386
 co-exist,doc4.txt,3,2.303
 Southern Cross Station Melbourn,doc5.txt,1,2.303
+30′,doc20.txt,1,2.303
 Indian War British,doc14.txt,1,2.303
 constantli,doc4.txt,6,doc8.txt,1,1.792
 Hoddle Grid,doc5.txt,2,2.303
@@ -7012,6 +7016,7 @@ U S Militari,doc14.txt,1,2.303
 COSE,doc10.txt,1,2.303
 broken,doc14.txt,1,doc8.txt,1,1.792
 seat-mil,doc11.txt,1,2.303
+Dracula’,doc17.txt,1,2.303
 [138][139][140],doc14.txt,1,2.303
 Playwright Eugene O Neil,doc14.txt,1,2.303
 terrestri,doc5.txt,1,doc6.txt,1,doc9.txt,1,1.609
@@ -7024,7 +7029,6 @@ first-gener,doc11.txt,1,2.303
 habitu,doc4.txt,2,2.303
 Vladimir Ashkenazi,doc6.txt,1,2.303
 Osama,doc14.txt,1,2.303
-538	Houston–Th,doc14.txt,1,2.303
 Blue Mountains Hawkesbury Gosford,doc6.txt,1,2.303
 remark,doc4.txt,1,2.303
 Butters Stotch,doc8.txt,1,2.303
@@ -7075,9 +7079,9 @@ British Colonial Offic,doc5.txt,1,2.303
 Gener,doc1.txt,1,doc4.txt,1,1.792
 Carlos Delgado,doc8.txt,1,2.303
 resourc,doc1.txt,2,doc14.txt,3,doc2.txt,10,doc20.txt,1,doc4.txt,3,doc5.txt,1,doc6.txt,1,0.693
+1–2,doc11.txt,1,2.303
 -shape,doc3.txt,2,2.303
 deform,doc4.txt,1,2.303
-densities�?,doc12.txt,1,2.303
 femin,doc14.txt,2,2.303
 toolkit,doc10.txt,1,2.303
 Congression,doc14.txt,1,2.303
@@ -7132,6 +7136,7 @@ nineteenth,doc5.txt,2,2.303
 antipathi,doc8.txt,1,2.303
 Radio In Dracula[edit,doc17.txt,1,2.303
 death,doc11.txt,1,doc14.txt,6,doc17.txt,7,1.609
+Jochen Hörisch,doc4.txt,2,2.303
 bankruptci,doc14.txt,3,2.303
 Mississippi,doc14.txt,2,2.303
 [383],doc14.txt,1,2.303
@@ -7142,7 +7147,6 @@ F Scott Fitzgerald,doc14.txt,1,2.303
 growth	1,doc14.txt,1,2.303
 Picnic,doc5.txt,1,2.303
 Transport,doc14.txt,2,doc5.txt,2,doc6.txt,2,1.609
-The Spanish–American War,doc14.txt,1,2.303
 Ralf Dahrendorf,doc4.txt,1,2.303
 view,doc1.txt,1,doc11.txt,14,doc13.txt,2,doc14.txt,5,doc4.txt,13,doc5.txt,4,doc6.txt,3,doc8.txt,3,doc9.txt,1,0.693
 explain,doc17.txt,1,doc4.txt,9,doc5.txt,1,1.609
@@ -7166,7 +7170,6 @@ ocean,doc11.txt,1,doc14.txt,1,doc5.txt,4,doc6.txt,3,1.386
 downfal,doc17.txt,1,2.303
 acclaim,doc12.txt,1,doc14.txt,1,doc5.txt,1,1.609
 Latent Dirichlet,doc1.txt,1,2.303
-illegal—and,doc14.txt,1,2.303
 Residenti,doc5.txt,1,doc6.txt,1,1.792
 six,doc11.txt,3,doc13.txt,1,doc14.txt,3,doc16.txt,1,doc3.txt,1,doc4.txt,1,doc5.txt,2,doc6.txt,2,0.693
 Hornsby Plateau,doc6.txt,1,2.303
@@ -7190,7 +7193,6 @@ conform,doc4.txt,2,2.303
 endeavor,doc12.txt,2,2.303
 sunset,doc9.txt,2,2.303
 sin,doc4.txt,2,2.303
-USS Nitro AE–23,doc16.txt,1,2.303
 deepen,doc4.txt,1,doc5.txt,1,1.792
 engag,doc14.txt,1,doc16.txt,1,doc17.txt,1,doc4.txt,2,doc8.txt,1,1.099
 Australia Everi,doc5.txt,1,2.303
@@ -7203,6 +7205,7 @@ instanti,doc1.txt,1,2.303
 chipmunk,doc20.txt,1,2.303
 Weberian,doc4.txt,1,2.303
 The Sydney CBD,doc6.txt,1,2.303
+46–61,doc6.txt,1,2.303
 In Marx,doc4.txt,1,2.303
 Sydney Orbital Network Accord,doc6.txt,1,2.303
 Extended Rang,doc11.txt,2,2.303
@@ -7230,7 +7233,6 @@ New Left,doc4.txt,2,2.303
 Aesthetics Hegel,doc4.txt,1,2.303
 As Boe,doc11.txt,1,2.303
 Precision[edit,doc1.txt,1,2.303
-753	Chicago–Joliet–Napervil,doc14.txt,1,2.303
 Atlantic Ocean,doc20.txt,1,2.303
 Sophia Myl,doc17.txt,1,2.303
 Roy Hayn,doc12.txt,1,2.303
@@ -7247,11 +7249,13 @@ shrill,doc3.txt,1,2.303
 [241],doc14.txt,1,doc4.txt,1,1.792
 Appalachian Plateau,doc20.txt,1,2.303
 plural,doc14.txt,4,2.303
+He’d,doc12.txt,1,2.303
 Pediatr,doc3.txt,1,2.303
 Linux Sun,doc10.txt,1,2.303
 Boeing Yellowston,doc11.txt,1,2.303
 Promin,doc6.txt,1,doc8.txt,1,1.792
 pignut,doc20.txt,1,2.303
+north–south,doc14.txt,1,2.303
 Technic,doc6.txt,1,2.303
 so-cal,doc4.txt,2,2.303
 Family Gui,doc8.txt,1,2.303
@@ -7296,6 +7300,7 @@ concern,doc1.txt,1,doc11.txt,1,doc14.txt,3,doc4.txt,5,doc8.txt,2,1.099
 score,doc1.txt,5,doc7.txt,1,doc8.txt,1,1.609
 Blue Mountain,doc6.txt,3,2.303
 persist,doc14.txt,1,doc4.txt,2,doc5.txt,1,1.609
+The Spanish–American War,doc14.txt,1,2.303
 bigotri,doc8.txt,1,2.303
 Citipow,doc5.txt,1,2.303
 actor,doc14.txt,1,doc4.txt,20,doc5.txt,1,1.609
@@ -7311,8 +7316,10 @@ masquerad,doc4.txt,3,2.303
 Retrieval John W Sammon Jr,doc1.txt,1,2.303
 Glebe,doc6.txt,1,2.303
 twelfth,doc14.txt,1,2.303
+’,doc12.txt,1,2.303
 church,doc14.txt,3,doc18.txt,1,doc8.txt,1,1.609
 Kurz,doc4.txt,2,2.303
+”,doc1.txt,1,doc12.txt,1,1.792
 counteract,doc4.txt,1,2.303
 remov,doc13.txt,4,doc14.txt,3,doc17.txt,1,doc20.txt,1,doc3.txt,1,doc4.txt,1,doc6.txt,2,doc8.txt,1,0.693
 Piedmont The Appalachian Mountain,doc14.txt,1,2.303
@@ -7322,8 +7329,10 @@ son,doc17.txt,1,2.303
 heighten,doc11.txt,1,2.303
 avail,doc1.txt,1,doc10.txt,4,doc13.txt,6,doc14.txt,1,doc16.txt,1,doc3.txt,4,doc5.txt,3,doc6.txt,1,doc9.txt,1,0.693
 democraci,doc14.txt,3,doc4.txt,2,1.792
+–,doc11.txt,2,doc13.txt,3,doc14.txt,1,doc4.txt,76,doc5.txt,1,doc6.txt,1,doc8.txt,1,0.693
 raccoon,doc20.txt,1,2.303
 His Natural Lif,doc5.txt,1,2.303
+—,doc3.txt,2,doc4.txt,2,doc6.txt,1,1.609
 London Radio[edit,doc17.txt,1,2.303
 Asian,doc14.txt,1,doc6.txt,1,1.792
 [242],doc4.txt,1,2.303
@@ -7334,6 +7343,7 @@ Virgin,doc17.txt,1,2.303
 In Peru,doc3.txt,1,2.303
 Frank Lloyd Wright Philip Johnson,doc14.txt,1,2.303
 2008-2012,doc14.txt,1,2.303
+1848–49,doc14.txt,1,2.303
 agenc,doc14.txt,2,doc20.txt,1,doc4.txt,1,doc6.txt,4,1.386
 infrastructur,doc1.txt,1,doc14.txt,3,doc5.txt,3,doc6.txt,4,1.386
 descriptor,doc13.txt,2,2.303
@@ -7341,6 +7351,7 @@ subject,doc11.txt,1,doc14.txt,8,doc3.txt,1,doc4.txt,14,doc5.txt,2,doc6.txt,1,doc
 full-scal,doc14.txt,1,2.303
 Universal Serial Bus USB,doc13.txt,1,2.303
 Common,doc1.txt,1,2.303
+The El Niño–Southern Oscil,doc6.txt,1,2.303
 hammer,doc17.txt,1,doc3.txt,1,1.792
 Paris Aft,doc16.txt,1,2.303
 applic,doc1.txt,2,doc10.txt,13,doc13.txt,2,doc14.txt,1,doc3.txt,1,doc4.txt,4,0.693
@@ -7350,6 +7361,7 @@ Michael Schneid,doc4.txt,1,2.303
 William Penn,doc14.txt,1,2.303
 1	14,doc5.txt,1,2.303
 1	12,doc6.txt,1,2.303
+candidate—form,doc14.txt,1,2.303
 Santa,doc8.txt,2,2.303
 regen,doc5.txt,1,2.303
 satur,doc3.txt,1,2.303
@@ -7385,10 +7397,11 @@ gloves/mitten,doc8.txt,1,2.303
 psychoanalyst],doc4.txt,1,2.303
 Frisel,doc12.txt,1,2.303
 Versail,doc14.txt,1,2.303
-2010–2011,doc5.txt,1,2.303
+Parisian Théâtr,doc4.txt,1,2.303
 permit,doc10.txt,1,doc13.txt,3,doc4.txt,2,1.609
 Commun,doc13.txt,2,doc7.txt,1,1.792
 John C McConnell FRAS,doc19.txt,1,2.303
+−200,doc11.txt,11,2.303
 IBM A,doc10.txt,1,2.303
 Australia Sydnei,doc6.txt,4,2.303
 PBS,doc5.txt,1,2.303
@@ -7400,7 +7413,6 @@ Jewish Question Critic,doc4.txt,1,2.303
 parish,doc18.txt,1,2.303
 Canberra,doc5.txt,1,2.303
 Music,doc12.txt,2,doc14.txt,1,doc6.txt,2,1.609
-“more,doc12.txt,1,2.303
 deepli,doc14.txt,1,2.303
 [388],doc14.txt,1,2.303
 ratio	58,doc14.txt,1,2.303
@@ -7461,7 +7473,6 @@ minion,doc17.txt,1,2.303
 worst,doc4.txt,1,doc5.txt,1,doc8.txt,1,1.609
 Large-scal,doc1.txt,1,2.303
 premium,doc10.txt,1,2.303
-Dracula’,doc17.txt,1,2.303
 rear,doc11.txt,2,2.303
 taught,doc14.txt,3,doc7.txt,1,1.792
 Southeastern,doc20.txt,1,2.303
@@ -7496,7 +7507,6 @@ Media Transfer Protocol MTP,doc13.txt,1,2.303
 scheme,doc13.txt,2,doc2.txt,12,doc5.txt,1,doc8.txt,3,1.386
 The Miles Davi,doc12.txt,2,2.303
 Occupy Canada,doc4.txt,1,2.303
-548	Dallas–Fort,doc14.txt,1,2.303
 happen,doc4.txt,6,2.303
 Montgomeri,doc14.txt,1,2.303
 white-collar,doc6.txt,1,2.303
@@ -7542,7 +7552,6 @@ later,doc1.txt,1,doc10.txt,2,doc11.txt,6,doc12.txt,2,doc13.txt,1,doc14.txt,6,doc
 9	Atlanta	5,doc14.txt,1,2.303
 Jetstar Airwai,doc5.txt,1,2.303
 aftermath,doc5.txt,1,2.303
-2008–2009,doc5.txt,1,2.303
 Charaktermask,doc4.txt,9,2.303
 puzzl,doc4.txt,1,2.303
 October From,doc16.txt,1,2.303
@@ -7558,7 +7567,6 @@ abort,doc14.txt,4,2.303
 sentient,doc4.txt,1,2.303
 tertiari,doc6.txt,1,2.303
 HTTP,doc2.txt,4,2.303
-Getz’,doc12.txt,1,2.303
 album,doc12.txt,13,2.303
 America Colloqui,doc14.txt,1,2.303
 drought,doc5.txt,4,doc6.txt,1,1.792
@@ -7589,6 +7597,7 @@ NSW Waratah,doc6.txt,1,2.303
 horizon,doc9.txt,1,2.303
 Point Nepean National Park,doc5.txt,1,2.303
 Knowledg,doc1.txt,1,doc4.txt,1,1.792
+•,doc13.txt,2,2.303
 New Year,doc6.txt,1,2.303
 pearl,doc3.txt,3,2.303
 Melbourne Melbourne Style Victorian,doc5.txt,1,2.303
@@ -7679,9 +7688,9 @@ arcminut,doc20.txt,1,2.303
 wing,doc11.txt,12,doc3.txt,2,1.792
 Australian Olympian,doc5.txt,1,2.303
 juxtaposit,doc5.txt,1,2.303
-Springs–Marietta GA MSA	South,doc14.txt,1,2.303
 prevent,doc11.txt,1,doc13.txt,7,doc17.txt,1,doc9.txt,1,1.386
 [5][6],doc13.txt,1,doc3.txt,1,1.792
+216–244,doc1.txt,1,2.303
 lands[edit,doc20.txt,1,2.303
 B773	777-300 B77W	777-300ER Incident,doc11.txt,1,2.303
 intersexu,doc8.txt,1,2.303
@@ -7689,6 +7698,7 @@ parliament,doc18.txt,1,doc4.txt,1,doc5.txt,1,doc6.txt,1,1.386
 IHDI,doc14.txt,1,2.303
 soldier,doc14.txt,2,doc4.txt,1,1.792
 Print[edit,doc5.txt,1,2.303
+‘What,doc12.txt,1,2.303
 tax,doc14.txt,20,doc6.txt,1,1.792
 osmosi,doc6.txt,1,2.303
 self-valor,doc4.txt,1,2.303
@@ -7816,6 +7826,7 @@ coast,doc14.txt,4,doc16.txt,3,doc20.txt,4,doc3.txt,1,doc5.txt,1,doc6.txt,3,0.693
 Great American Novel,doc14.txt,1,2.303
 costum,doc4.txt,3,2.303
 ceremoni,doc11.txt,2,doc4.txt,2,doc5.txt,1,1.609
+express—through,doc8.txt,1,2.303
 isolation,doc14.txt,1,2.303
 voyag,doc14.txt,1,2.303
 vector,doc1.txt,10,doc7.txt,3,1.792
@@ -7838,7 +7849,6 @@ assassin,doc14.txt,2,doc4.txt,1,1.792
 premier,doc6.txt,3,2.303
 trillium,doc20.txt,1,2.303
 Mike Richmond,doc12.txt,1,2.303
-György Lukác,doc4.txt,2,2.303
 hermaphrodit,doc8.txt,2,2.303
 The Phenomenolog,doc4.txt,1,2.303
 Frank Gehry Times Squar,doc14.txt,1,2.303
@@ -7864,7 +7874,6 @@ The Suburban,doc6.txt,1,2.303
 The Marx-Studien,doc4.txt,1,2.303
 ill-pos,doc1.txt,1,2.303
 devices[43],doc13.txt,1,2.303
-Parisian Théâtr,doc4.txt,1,2.303
 ritual,doc4.txt,3,2.303
 accid,doc11.txt,8,doc14.txt,3,1.792
 conquer,doc14.txt,1,2.303
@@ -7876,6 +7885,7 @@ bit,doc4.txt,2,2.303
 shorten,doc11.txt,1,2.303
 Illinoi,doc3.txt,1,2.303
 foil,doc17.txt,1,2.303
+2010–2011,doc5.txt,1,2.303
 Red-tailed Hawk,doc20.txt,1,2.303
 bin,doc11.txt,2,doc14.txt,1,doc3.txt,2,1.609
 Stage,doc5.txt,1,2.303
@@ -7909,6 +7919,7 @@ Archibald Pr,doc6.txt,1,2.303
 Manag,doc6.txt,1,2.303
 seawat,doc6.txt,1,2.303
 [92][93][94],doc5.txt,1,2.303
+Worth–Arlington TX MSA	South,doc14.txt,1,2.303
 inher,doc14.txt,1,doc8.txt,1,1.792
 invest,doc10.txt,1,doc11.txt,1,doc14.txt,2,doc4.txt,1,doc5.txt,3,1.099
 Arthur Phillip,doc6.txt,2,2.303
@@ -7964,7 +7975,6 @@ United St,doc14.txt,102,doc3.txt,1,doc5.txt,1,doc9.txt,2,1.386
 Lauren Thompson,doc17.txt,1,2.303
 773ER,doc11.txt,1,2.303
 John Coltran,doc12.txt,1,2.303
-Dämmerung,doc4.txt,1,2.303
 [98][99][100],doc5.txt,1,2.303
 par,doc13.txt,1,2.303
 Sigma Pharmaceut,doc5.txt,1,2.303
@@ -7976,16 +7986,15 @@ invent,doc1.txt,3,doc14.txt,1,doc3.txt,5,doc4.txt,2,1.386
 name,doc1.txt,1,doc10.txt,4,doc11.txt,5,doc12.txt,1,doc13.txt,1,doc14.txt,8,doc17.txt,3,doc2.txt,19,doc4.txt,5,doc5.txt,6,doc6.txt,5,doc8.txt,4,0.0
 \ldot,doc1.txt,1,2.303
 built-in,doc11.txt,1,doc13.txt,2,1.792
-Jørn Utzon,doc6.txt,1,2.303
 Shenandoah Valley Thi,doc20.txt,1,2.303
 pre-war,doc5.txt,1,2.303
 New South Wales State Plan,doc6.txt,1,2.303
 panoram,doc5.txt,2,2.303
 taller,doc5.txt,1,2.303
+“fertil,doc12.txt,1,2.303
 shortli,doc14.txt,1,2.303
 sympathi,doc4.txt,1,2.303
 depend,doc11.txt,1,doc13.txt,2,doc14.txt,5,doc4.txt,5,doc5.txt,2,doc9.txt,1,0.693
-0–16,doc6.txt,1,2.303
 pai,doc4.txt,1,doc5.txt,2,1.792
 dissatisfact,doc4.txt,1,2.303
 [20],doc10.txt,1,doc11.txt,1,doc12.txt,1,doc13.txt,1,doc20.txt,1,doc3.txt,1,doc4.txt,1,doc5.txt,1,doc6.txt,1,doc8.txt,1,0.0
@@ -7996,7 +8005,6 @@ Victorian Heritage Register H0217,doc5.txt,1,2.303
 bop,doc12.txt,1,2.303
 [101],doc11.txt,1,doc14.txt,2,doc4.txt,1,doc5.txt,1,doc8.txt,1,1.099
 burrito,doc14.txt,1,2.303
-486	Minneapolis–St,doc14.txt,1,2.303
 structural-functionalist,doc4.txt,1,2.303
 nuclear,doc14.txt,10,2.303
 merchandis,doc14.txt,1,2.303
@@ -8010,6 +8018,7 @@ Hong Kong,doc11.txt,2,2.303
 $120,doc6.txt,1,2.303
 nullifi,doc5.txt,1,2.303
 nuclei,doc9.txt,1,2.303
+North–South Pipeline Wat,doc5.txt,1,2.303
 [36][37][38][8][39],doc8.txt,1,2.303
 Australian Grand Prix Formula One Melbourn,doc5.txt,1,2.303
 vibrant,doc5.txt,1,2.303
@@ -8028,7 +8037,6 @@ overhead,doc11.txt,3,2.303
 reagent,doc4.txt,1,2.303
 lobbi,doc4.txt,1,2.303
 confluenc,doc5.txt,1,2.303
-Lloyd’,doc12.txt,2,2.303
 blend,doc6.txt,1,2.303
 verifi,doc11.txt,2,2.303
 Manufactur,doc13.txt,1,2.303
@@ -8078,11 +8086,13 @@ butt,doc5.txt,1,2.303
 Western Sydney View,doc6.txt,1,2.303
 Woollahra Sydnei,doc6.txt,1,2.303
 kept,doc1.txt,2,doc3.txt,1,doc4.txt,2,doc5.txt,1,doc6.txt,1,1.099
+Anne-Marie Rocheblave-Spenlé,doc4.txt,1,2.303
 connect-disconnect,doc13.txt,1,2.303
 addit,doc10.txt,2,doc11.txt,12,doc13.txt,3,doc14.txt,4,doc2.txt,1,doc20.txt,2,doc3.txt,1,doc4.txt,3,doc5.txt,3,doc6.txt,5,doc8.txt,2,0.0
 No Dead Batteri,doc13.txt,1,2.303
 Gulf Coast,doc14.txt,2,2.303
 spaceflight,doc14.txt,1,2.303
+area—wa,doc6.txt,1,2.303
 blade-shap,doc11.txt,2,2.303
 exceed,doc11.txt,1,doc6.txt,1,1.792
 affluenc,doc14.txt,1,2.303
@@ -8102,7 +8112,6 @@ Ozploitat,doc5.txt,1,2.303
 Phillip,doc6.txt,3,doc8.txt,1,1.792
 Marvellous Melbourn,doc5.txt,1,2.303
 The Jungian,doc4.txt,1,2.303
-In Argentina Drácula,doc17.txt,1,2.303
 Within,doc5.txt,1,doc6.txt,1,1.792
 neighbor,doc14.txt,2,2.303
 4000,doc8.txt,1,2.303
@@ -8123,7 +8132,6 @@ bed,doc18.txt,1,doc20.txt,1,1.792
 Olivers Hill Mount Martha,doc5.txt,1,2.303
 meant,doc13.txt,1,doc14.txt,1,doc18.txt,1,doc4.txt,4,doc8.txt,1,1.099
 enter,doc1.txt,1,doc11.txt,9,doc13.txt,1,doc14.txt,2,doc17.txt,1,doc20.txt,1,doc4.txt,1,doc5.txt,1,0.693
-Bethlehem Steel Corporation’s Sparrows Point Shipyard Baltimore Maryland,doc16.txt,1,2.303
 Immigrat,doc14.txt,1,2.303
 bless,doc17.txt,1,2.303
 whole,doc1.txt,2,doc4.txt,12,doc6.txt,2,1.609
@@ -8148,9 +8156,11 @@ Anglican Both,doc5.txt,1,2.303
 Jarrett,doc12.txt,2,2.303
 federalist,doc14.txt,1,2.303
 econom,doc11.txt,1,doc14.txt,9,doc4.txt,26,doc5.txt,6,doc6.txt,4,1.099
+plug—which,doc13.txt,1,2.303
 bia,doc4.txt,1,2.303
 cruis,doc11.txt,2,doc5.txt,1,1.792
 bid,doc4.txt,1,doc5.txt,1,1.792
+Lukác,doc4.txt,4,2.303
 reloc,doc14.txt,2,doc5.txt,1,1.792
 denial,doc4.txt,2,doc8.txt,1,1.792
 198th,doc8.txt,1,2.303
@@ -8174,7 +8184,6 @@ plai,doc12.txt,20,doc13.txt,1,doc14.txt,6,doc17.txt,22,doc18.txt,1,doc4.txt,14,d
 American Northwest,doc14.txt,1,2.303
 Almost,doc14.txt,1,doc20.txt,1,doc6.txt,2,1.609
 [209],doc14.txt,1,doc4.txt,1,1.792
-414	Philadelphia–Camden–Wilmington,doc14.txt,1,2.303
 ORBIT Theodor Nelson,doc1.txt,1,2.303
 New South Wales Sir Richard Bourk,doc5.txt,1,2.303
 On October,doc11.txt,2,2.303
@@ -8182,6 +8191,7 @@ pop,doc14.txt,3,doc3.txt,35,1.792
 substitut,doc4.txt,4,2.303
 pot,doc14.txt,1,doc3.txt,1,1.792
 expir,doc10.txt,1,2.303
+1912—ha,doc14.txt,1,2.303
 Internationalized Resource Identifier IRI URL,doc2.txt,1,2.303
 meter,doc6.txt,1,2.303
 BM25,doc1.txt,1,2.303
@@ -8240,6 +8250,7 @@ site,doc11.txt,1,doc18.txt,1,doc20.txt,4,doc5.txt,4,doc6.txt,4,1.099
 repress,doc4.txt,4,doc8.txt,1,1.792
 Semantic Classif,doc1.txt,1,2.303
 dietari,doc3.txt,2,2.303
+“	But,doc1.txt,1,2.303
 proxi,doc14.txt,2,2.303
 4	150,doc5.txt,1,2.303
 nightspot,doc6.txt,2,2.303
@@ -8251,8 +8262,8 @@ phosphat,doc14.txt,1,2.303
 London England Contain,doc6.txt,1,2.303
 gave,doc1.txt,1,doc11.txt,1,doc12.txt,1,doc14.txt,3,doc4.txt,1,doc8.txt,2,0.693
 Technology Northern Sydney Institut,doc6.txt,1,2.303
+Pepe Cibrián,doc17.txt,1,2.303
 Limelight Depart,doc5.txt,1,2.303
-cafés[85],doc5.txt,1,2.303
 Ransom E Old,doc14.txt,1,2.303
 bulb,doc14.txt,1,2.303
 777F	127	50	77	5	19	15	22	16,doc11.txt,1,2.303
@@ -8324,12 +8335,10 @@ DCG To,doc1.txt,1,2.303
 can,doc1.txt,8,doc10.txt,22,doc11.txt,7,doc12.txt,1,doc13.txt,10,doc14.txt,3,doc17.txt,2,doc2.txt,3,doc3.txt,10,doc4.txt,85,doc5.txt,9,doc6.txt,1,doc8.txt,4,doc9.txt,2,0.0
 High Spe,doc13.txt,2,2.303
 cap,doc8.txt,1,2.303
-IL–IN–WI MSA	Midwest,doc14.txt,1,2.303
 children,doc14.txt,9,doc17.txt,2,doc18.txt,1,doc3.txt,1,doc8.txt,6,1.099
 My Future Self,doc8.txt,2,2.303
 Melbourne Park,doc5.txt,1,2.303
 conspicu,doc4.txt,1,2.303
-Evan’,doc12.txt,1,2.303
 Joseph Gabel Gilles Deleuz,doc4.txt,1,2.303
 micro,doc10.txt,1,doc13.txt,2,1.792
 surfer,doc6.txt,1,2.303
@@ -8371,7 +8380,6 @@ North Carolina,doc14.txt,1,doc20.txt,2,1.792
 The Port Phillip District,doc5.txt,1,2.303
 freight,doc5.txt,3,2.303
 well-endow,doc6.txt,1,2.303
-Pepe Cibrián,doc17.txt,1,2.303
 altruism,doc8.txt,1,2.303
 goos,doc20.txt,1,2.303
 somewhat,doc13.txt,2,doc4.txt,1,1.792
@@ -8381,7 +8389,6 @@ Capit,doc14.txt,1,doc4.txt,2,1.792
 Wharf Theatr,doc6.txt,1,2.303
 outlin,doc1.txt,1,doc14.txt,1,1.792
 Java Desktop System JDS,doc10.txt,1,2.303
-north–south,doc14.txt,1,2.303
 Life,doc14.txt,1,2.303
 indigen,doc14.txt,3,doc5.txt,1,doc6.txt,4,1.609
 Melbourne Cricket Ground,doc5.txt,3,2.303
@@ -8390,6 +8397,7 @@ desensit,doc4.txt,1,2.303
 [15],doc1.txt,1,doc10.txt,1,doc11.txt,6,doc12.txt,3,doc13.txt,2,doc14.txt,2,doc20.txt,1,doc3.txt,1,doc4.txt,1,doc6.txt,1,0.0
 beyond,doc4.txt,4,doc5.txt,3,1.792
 URN A URL,doc2.txt,1,2.303
+“special”,doc16.txt,1,2.303
 Jazz,doc14.txt,1,2.303
 sustain,doc11.txt,2,doc14.txt,3,doc4.txt,1,doc5.txt,2,1.386
 tongu,doc13.txt,1,2.303
@@ -8408,7 +8416,6 @@ plough,doc9.txt,1,2.303
 surfac,doc11.txt,2,doc4.txt,3,doc8.txt,1,1.609
 Arabic,doc6.txt,1,2.303
 gorg,doc6.txt,1,2.303
-“beyond,doc12.txt,1,2.303
 ruptur,doc3.txt,2,2.303
 Woodlands-Sugar Land MSA	South,doc14.txt,1,2.303
 0Eh	Interface	Video	Webcam,doc13.txt,1,2.303
@@ -8484,7 +8491,6 @@ Two-third,doc14.txt,1,2.303
 disenfranchis,doc14.txt,1,2.303
 September Sh,doc16.txt,1,2.303
 gate,doc11.txt,2,2.303
-requirements—standard,doc14.txt,1,2.303
 George Balanchin,doc14.txt,1,2.303
 Victoria Citipow,doc5.txt,1,2.303
 sinc,doc1.txt,1,doc10.txt,7,doc11.txt,2,doc13.txt,2,doc14.txt,14,doc17.txt,2,doc2.txt,1,doc20.txt,2,doc3.txt,2,doc4.txt,10,doc5.txt,7,doc6.txt,9,doc8.txt,4,0.0
@@ -8500,6 +8506,7 @@ r=1,doc1.txt,1,2.303
 Energi,doc14.txt,3,doc5.txt,1,1.792
 Barack Obama,doc14.txt,1,2.303
 anthropologists[5],doc4.txt,1,2.303
+IL–IN–WI MSA	Midwest,doc14.txt,1,2.303
 accru,doc4.txt,1,2.303
 reproduc,doc4.txt,2,2.303
 half-duplex,doc13.txt,1,2.303
@@ -8537,6 +8544,7 @@ statutori,doc6.txt,1,2.303
 Record,doc5.txt,1,doc6.txt,1,1.792
 Riboflavin,doc3.txt,1,2.303
 Pop,doc3.txt,3,2.303
+In Argentina Drácula,doc17.txt,1,2.303
 agre,doc11.txt,2,doc4.txt,1,doc5.txt,1,doc8.txt,1,doc9.txt,1,1.099
 Unix System V Releas,doc10.txt,1,2.303
 Asiana Airlines Flight,doc11.txt,2,2.303
@@ -8562,6 +8570,7 @@ Autom,doc1.txt,1,2.303
 storm,doc5.txt,1,doc6.txt,6,1.792
 make-up,doc4.txt,1,2.303
 Inner,doc6.txt,2,2.303
+continent’,doc14.txt,2,2.303
 Rugby World Cup,doc6.txt,1,2.303
 2012,doc10.txt,1,doc11.txt,14,doc12.txt,2,doc14.txt,15,doc17.txt,1,doc4.txt,1,doc5.txt,2,doc6.txt,4,0.693
 2011,doc10.txt,1,doc11.txt,6,doc14.txt,20,doc17.txt,3,doc20.txt,1,doc4.txt,2,doc5.txt,1,doc6.txt,3,0.693
@@ -8634,6 +8643,7 @@ Axel Honneth,doc4.txt,1,2.303
 favour,doc2.txt,1,doc6.txt,1,1.792
 comprehens,doc14.txt,1,doc4.txt,3,1.792
 sheer,doc4.txt,1,2.303
+6–25,doc6.txt,1,2.303
 individu,doc10.txt,2,doc11.txt,1,doc14.txt,5,doc4.txt,40,doc6.txt,1,doc8.txt,1,0.693
 bear,doc11.txt,1,doc13.txt,2,doc20.txt,2,doc4.txt,8,1.386
 stood,doc14.txt,1,2.303
@@ -8649,7 +8659,6 @@ Rijsbergen,doc1.txt,4,2.303
 [111],doc14.txt,1,doc5.txt,1,doc6.txt,1,1.609
 satisfi,doc11.txt,2,2.303
 casino,doc6.txt,1,2.303
-“loos,doc12.txt,1,2.303
 ago,doc14.txt,2,doc19.txt,1,doc3.txt,1,doc6.txt,1,1.386
 2001,doc10.txt,1,doc11.txt,1,doc12.txt,1,doc13.txt,1,doc14.txt,4,doc17.txt,1,doc18.txt,1,doc6.txt,1,doc8.txt,2,0.693
 2000,doc11.txt,8,doc13.txt,5,doc14.txt,6,doc16.txt,1,doc17.txt,3,doc5.txt,1,doc6.txt,4,doc8.txt,1,0.693
@@ -8694,6 +8703,7 @@ vsiacheskikh,doc4.txt,1,2.303
 [113],doc14.txt,1,doc4.txt,1,1.792
 thrive,doc10.txt,1,doc3.txt,1,doc4.txt,1,doc6.txt,1,doc8.txt,1,1.099
 phase,doc11.txt,2,doc4.txt,3,doc6.txt,1,1.609
+Angeles–Long Beach–Santa Ana CA MSA	West,doc14.txt,1,2.303
 Histori,doc1.txt,1,doc10.txt,1,doc13.txt,1,doc14.txt,3,doc2.txt,1,doc3.txt,1,doc5.txt,3,doc6.txt,2,0.693
 questionnair,doc11.txt,1,2.303
 gale,doc5.txt,2,2.303
@@ -8731,6 +8741,7 @@ secur,doc11.txt,1,doc14.txt,3,doc2.txt,2,doc4.txt,1,doc5.txt,1,1.099
 Rosa Park,doc14.txt,1,2.303
 racial,doc14.txt,3,2.303
 The Federal Coffee Palac,doc5.txt,1,2.303
+Paul Ricœur,doc4.txt,1,2.303
 UNITED STATES OF AMERICA,doc14.txt,1,2.303
 Liverpool Hospital Transport[edit,doc6.txt,1,2.303
 raini,doc5.txt,1,doc6.txt,1,1.792
@@ -8750,7 +8761,6 @@ thyself,doc4.txt,1,2.303
 First World Wide Web,doc1.txt,1,2.303
 idiom,doc14.txt,2,2.303
 simultan,doc11.txt,3,doc13.txt,1,doc4.txt,2,doc6.txt,1,1.386
-�?[10],doc12.txt,1,2.303
 abl,doc11.txt,2,doc14.txt,2,doc17.txt,2,doc3.txt,1,doc4.txt,10,doc8.txt,2,0.693
 Design[edit,doc11.txt,1,2.303
 mous,doc10.txt,1,doc13.txt,4,doc20.txt,1,1.609
@@ -8804,7 +8814,6 @@ near-univers,doc14.txt,1,2.303
 [224],doc14.txt,1,doc4.txt,1,1.792
 Vietnam War A,doc14.txt,1,2.303
 A-League Th,doc6.txt,1,2.303
-Paul Ricœur,doc4.txt,1,2.303
 [459][460],doc14.txt,1,2.303
 United States Se,doc14.txt,8,2.303
 Throughout,doc6.txt,1,2.303
@@ -8852,6 +8861,7 @@ stove,doc14.txt,1,2.303
 mort,doc17.txt,1,2.303
 scream,doc4.txt,1,2.303
 lavatori,doc11.txt,1,2.303
+−300ER,doc11.txt,18,2.303
 Cabl,doc13.txt,3,doc5.txt,1,1.792
 The Sydney Theatre Compani,doc6.txt,1,2.303
 Gulf,doc14.txt,1,2.303
@@ -8859,7 +8869,6 @@ levi,doc14.txt,1,2.303
 Mr Burn,doc8.txt,1,2.303
 occas,doc5.txt,3,doc6.txt,1,1.792
 interrog,doc4.txt,1,2.303
-1–2,doc11.txt,1,2.303
 Melbourne Derbyshire On,doc5.txt,1,2.303
 The National Transportation Safety Board NTSB,doc11.txt,1,2.303
 classes[edit,doc13.txt,1,2.303
@@ -8877,6 +8886,7 @@ add,doc10.txt,1,doc11.txt,1,doc13.txt,1,1.609
 Napoleon,doc4.txt,2,2.303
 self-crit,doc4.txt,1,2.303
 Melbourne The Bolte Bridg,doc5.txt,1,2.303
+112	Boston–Cambridge–Quinci,doc14.txt,1,2.303
 engrav,doc13.txt,1,doc14.txt,1,doc5.txt,1,doc6.txt,1,1.386
 2024,doc5.txt,1,2.303
 September Sydnei,doc6.txt,1,2.303
@@ -8920,6 +8930,7 @@ Late-2000,doc5.txt,1,2.303
 [219],doc14.txt,1,doc4.txt,1,1.792
 westward,doc14.txt,1,2.303
 donor,doc14.txt,1,2.303
+“atmospher,doc12.txt,1,2.303
 croaker,doc20.txt,1,2.303
 Cartman Get,doc8.txt,1,2.303
 battery-pow,doc13.txt,1,2.303
@@ -8930,7 +8941,6 @@ Neumann,doc14.txt,1,2.303
 suburban,doc14.txt,1,doc5.txt,12,doc6.txt,2,1.609
 non-USB,doc13.txt,1,2.303
 Balkan,doc3.txt,1,2.303
-naïv,doc4.txt,1,2.303
 nearbi,doc18.txt,1,2.303
 personag,doc4.txt,1,2.303
 stripe,doc20.txt,2,2.303
@@ -8944,6 +8954,7 @@ Viscount Melbourn,doc5.txt,2,2.303
 harm,doc8.txt,1,2.303
 thrice,doc5.txt,1,2.303
 mid-1920,doc5.txt,1,2.303
+15–44,doc14.txt,1,2.303
 Communications Research That,doc1.txt,1,2.303
 EXAMPLE ORG/,doc2.txt,1,2.303
 bodili,doc8.txt,1,2.303
@@ -8985,7 +8996,6 @@ Melbourne Transportation Plan,doc5.txt,1,2.303
 [34][35],doc14.txt,1,2.303
 North Sydnei,doc6.txt,1,2.303
 737NG,doc11.txt,1,2.303
-DC–VA–MD–WV MSA	Northeast,doc14.txt,1,2.303
 Category Compani,doc5.txt,1,2.303
 decid,doc10.txt,1,doc11.txt,2,doc12.txt,1,doc4.txt,2,doc5.txt,1,1.099
 Hume Freewai,doc5.txt,1,2.303
@@ -9017,6 +9027,7 @@ cancel,doc10.txt,1,doc11.txt,2,1.792
 increasingli,doc11.txt,2,doc14.txt,1,doc20.txt,1,doc4.txt,5,doc5.txt,1,1.099
 Bureau,doc6.txt,1,2.303
 Christian,doc14.txt,4,doc4.txt,2,doc5.txt,3,doc6.txt,1,1.386
+Plenty River—to,doc5.txt,1,2.303
 heritag,doc5.txt,4,doc6.txt,1,1.792
 master-serv,doc4.txt,1,2.303
 probabl,doc1.txt,3,doc4.txt,6,1.792
@@ -9029,6 +9040,7 @@ Southern Hemispher,doc5.txt,1,doc6.txt,1,1.792
 Irish Italian Polish German,doc14.txt,1,2.303
 versa,doc4.txt,1,2.303
 1-\mbox,doc1.txt,1,2.303
+2	D−	White,doc13.txt,1,2.303
 Salton,doc1.txt,2,doc7.txt,1,1.792
 composit,doc11.txt,3,doc12.txt,3,doc13.txt,3,doc14.txt,2,doc9.txt,1,1.099
 United States In,doc14.txt,1,2.303
@@ -9043,7 +9055,6 @@ Dreamscap,doc5.txt,1,2.303
 finish,doc1.txt,1,doc3.txt,1,1.792
 More,doc11.txt,1,doc14.txt,2,doc4.txt,2,doc5.txt,1,1.386
 homeless,doc14.txt,1,2.303
-Angeles–Long Beach–Santa Ana CA MSA	West,doc14.txt,1,2.303
 Christopher Le,doc17.txt,1,2.303
 [157][158],doc11.txt,1,2.303
 Coloni,doc14.txt,1,doc5.txt,2,1.792
@@ -9066,7 +9077,6 @@ OPEN LOOK OpenWindow,doc10.txt,1,2.303
 hand,doc13.txt,1,doc14.txt,2,doc6.txt,1,doc8.txt,1,1.386
 Worker,doc4.txt,1,2.303
 inclus,doc4.txt,1,doc8.txt,1,1.792
-“flat�?,doc12.txt,1,2.303
 versu,doc14.txt,3,doc4.txt,2,1.792
 Manli,doc6.txt,1,2.303
 shut,doc4.txt,1,2.303
@@ -9076,6 +9086,7 @@ adequ,doc4.txt,2,2.303
 redhead,doc8.txt,1,2.303
 Rugby World Cup Th,doc6.txt,1,2.303
 four,doc12.txt,2,doc13.txt,5,doc14.txt,12,doc17.txt,1,doc20.txt,1,doc3.txt,1,doc5.txt,6,doc6.txt,4,doc8.txt,2,0.693
+jalapeño,doc3.txt,1,2.303
 The OTG,doc13.txt,2,2.303
 drawn,doc13.txt,2,doc17.txt,1,doc4.txt,1,1.609
 [216],doc14.txt,1,doc4.txt,1,1.792
@@ -9105,7 +9116,7 @@ Victorian Bushrang,doc5.txt,1,2.303
 indefinit,doc10.txt,1,2.303
 grader,doc8.txt,1,2.303
 racism,doc8.txt,1,2.303
-Rainfal,doc5.txt,1,doc6.txt,1,1.792
+Rainfal,doc5.txt,1,doc6.txt,2,1.792
 Ben Caldwel,doc17.txt,1,2.303
 [217],doc14.txt,1,doc4.txt,1,1.792
 Royal Botanic Gardens Th,doc6.txt,1,2.303
@@ -9128,6 +9139,7 @@ circular,doc11.txt,2,doc19.txt,1,doc4.txt,1,doc8.txt,1,1.386
 B-type,doc13.txt,1,2.303
 billion-dollar,doc5.txt,1,2.303
 United States Fish,doc14.txt,1,2.303
+fiancé,doc17.txt,4,2.303
 relai,doc1.txt,1,2.303
 relat,doc1.txt,1,doc11.txt,1,doc13.txt,1,doc14.txt,9,doc17.txt,1,doc4.txt,46,doc5.txt,1,0.693
 mid-1980,doc1.txt,1,doc14.txt,1,1.792
@@ -9268,6 +9280,7 @@ UTF-16LE USB,doc13.txt,1,2.303
 folk,doc14.txt,2,doc4.txt,1,1.792
 electromagnet,doc13.txt,1,2.303
 John Dewei,doc14.txt,1,2.303
+president—Georg,doc14.txt,1,2.303
 fold,doc6.txt,1,2.303
 downstream-port,doc13.txt,1,2.303
 red-head,doc8.txt,1,2.303
@@ -9335,7 +9348,6 @@ neg,doc14.txt,1,doc4.txt,1,1.792
 039,doc14.txt,1,2.303
 Roles[edit,doc4.txt,1,2.303
 subjectiv,doc4.txt,1,2.303
-“special�?,doc16.txt,1,2.303
 apolog,doc17.txt,1,doc4.txt,1,doc8.txt,1,1.609
 The North Shor,doc6.txt,1,2.303
 035,doc6.txt,1,2.303
@@ -9354,7 +9366,6 @@ yesterdai,doc4.txt,1,2.303
 African-American,doc14.txt,2,2.303
 totalitarian,doc4.txt,2,2.303
 mention,doc14.txt,1,doc17.txt,2,doc2.txt,1,doc20.txt,1,doc4.txt,5,1.099
-systems—NLM,doc1.txt,1,2.303
 drag-and-drop,doc10.txt,1,2.303
 Wi-Fi,doc13.txt,1,2.303
 Feral Pigeon,doc5.txt,1,2.303
@@ -9381,17 +9392,18 @@ televis,doc14.txt,4,doc17.txt,1,doc4.txt,1,doc5.txt,9,doc6.txt,4,doc8.txt,11,0.6
 tabul,doc1.txt,2,2.303
 Russian	0,doc14.txt,1,2.303
 OECD,doc14.txt,7,2.303
+systems—NLM,doc1.txt,1,2.303
 Wealth,doc14.txt,1,2.303
 Freighter[edit,doc11.txt,1,2.303
 ballet,doc14.txt,1,2.303
 Korean Air,doc11.txt,1,2.303
-1861–63,doc4.txt,1,2.303
 Civil War Th,doc14.txt,1,2.303
 Approxim,doc14.txt,2,doc5.txt,1,1.792
 municip,doc14.txt,2,doc5.txt,4,doc6.txt,1,1.609
 Shoalhaven Schem,doc6.txt,1,2.303
 particularli,doc13.txt,2,doc14.txt,4,doc17.txt,1,doc2.txt,1,doc3.txt,1,doc4.txt,1,doc5.txt,8,doc9.txt,1,0.693
 Adelaide Major,doc5.txt,1,2.303
+Jürgen Ritsert,doc4.txt,1,2.303
 DC-10,doc11.txt,5,2.303
 root,doc11.txt,2,doc13.txt,1,doc4.txt,3,1.609
 colleagu,doc1.txt,1,2.303
@@ -9399,6 +9411,7 @@ trans-polar,doc11.txt,1,2.303
 substanti,doc11.txt,1,doc14.txt,2,doc5.txt,3,doc6.txt,2,doc8.txt,1,1.099
 Melbourne Symphony Orchestra Melbourn,doc5.txt,1,2.303
 017,doc11.txt,1,2.303
+538	Houston–Th,doc14.txt,1,2.303
 015,doc11.txt,1,doc14.txt,1,1.792
 Selective Service System,doc14.txt,1,2.303
 freewai,doc5.txt,3,doc6.txt,1,1.792
@@ -9415,6 +9428,7 @@ watch,doc13.txt,1,doc14.txt,1,doc4.txt,1,doc6.txt,1,doc8.txt,1,1.099
 popper,doc3.txt,1,2.303
 First Fleet,doc10.txt,1,doc6.txt,2,1.792
 contin,doc14.txt,2,doc5.txt,3,1.792
+DeJohnette’,doc12.txt,6,2.303
 synagogu,doc5.txt,1,doc8.txt,1,1.792
 Etihad Airwai,doc11.txt,1,2.303
 brownish,doc9.txt,1,2.303
@@ -9427,8 +9441,7 @@ Count Dracula,doc17.txt,3,2.303
 Tasmania,doc5.txt,3,2.303
 room,doc5.txt,1,2.303
 otherwis,doc1.txt,1,doc13.txt,1,doc14.txt,1,doc4.txt,1,1.386
-1994–1995,doc6.txt,1,2.303
-Iran–Contra,doc14.txt,1,2.303
+−200LR[87],doc11.txt,1,2.303
 distant,doc9.txt,1,2.303
 vis-a-vi,doc4.txt,1,2.303
 through,doc10.txt,3,doc11.txt,4,doc12.txt,1,doc13.txt,5,doc14.txt,10,doc16.txt,1,doc17.txt,2,doc3.txt,2,doc4.txt,15,doc5.txt,9,doc6.txt,9,doc8.txt,2,doc9.txt,1,0.0
@@ -9453,11 +9466,9 @@ game-theoret,doc4.txt,1,2.303
 Same-sex,doc14.txt,1,2.303
 New South Wales Macquarie Univers,doc6.txt,1,2.303
 [we,doc8.txt,1,2.303
-�?[22],doc12.txt,1,2.303
 vulgarli,doc4.txt,1,2.303
 Althusser,doc4.txt,3,2.303
 Wildlife Service Demographics Main,doc14.txt,1,2.303
-—Dr,doc1.txt,1,2.303
 appal,doc8.txt,1,2.303
 laboratori,doc14.txt,1,2.303
 rockfish,doc20.txt,1,2.303
@@ -9468,6 +9479,7 @@ hermeneut,doc4.txt,3,2.303
 Gulf War,doc4.txt,1,2.303
 Airbus A300,doc11.txt,1,2.303
 anaemia,doc17.txt,1,2.303
+don’t,doc12.txt,1,2.303
 Yarra,doc5.txt,2,2.303
 Gilded Ag,doc14.txt,1,2.303
 Slow-cook,doc14.txt,1,2.303
@@ -9477,7 +9489,6 @@ feral,doc8.txt,1,2.303
 By Januari,doc5.txt,1,2.303
 slogan,doc4.txt,2,2.303
 Sammon,doc1.txt,1,2.303
-1940s–1950,doc1.txt,1,2.303
 resel,doc10.txt,1,2.303
 rank,doc1.txt,15,doc11.txt,2,doc14.txt,18,doc4.txt,2,doc5.txt,10,doc6.txt,10,doc8.txt,2,0.693
 norm,doc4.txt,4,2.303
@@ -9521,7 +9532,6 @@ catalyst,doc17.txt,1,2.303
 Compatible USB,doc13.txt,1,2.303
 oxygen,doc11.txt,1,2.303
 broad,doc5.txt,1,2.303
-festival—Moomba,doc5.txt,1,2.303
 bicycl,doc5.txt,1,2.303
 denot,doc9.txt,1,2.303
 voter,doc8.txt,1,2.303
@@ -9538,6 +9548,7 @@ childlik,doc8.txt,1,2.303
 noth,doc17.txt,1,doc4.txt,5,1.792
 fiction,doc14.txt,1,doc17.txt,1,doc4.txt,2,doc5.txt,1,doc8.txt,3,1.099
 World Cup Qualifi,doc6.txt,1,2.303
+tributaries—Moone,doc5.txt,1,2.303
 squash,doc14.txt,1,2.303
 helpless,doc4.txt,1,2.303
 rape,doc17.txt,1,2.303
@@ -9550,6 +9561,7 @@ Rosehill Gardens Racecourse Larg,doc6.txt,1,2.303
 faith,doc17.txt,1,doc5.txt,2,1.792
 privat,doc14.txt,12,doc4.txt,3,doc5.txt,5,doc6.txt,4,1.386
 Alfred Meissner[edit,doc4.txt,1,2.303
+monument—th,doc5.txt,1,2.303
 unknown,doc14.txt,3,doc4.txt,2,1.792
 American Samoa,doc14.txt,2,2.303
 prais,doc17.txt,1,doc8.txt,3,1.792
@@ -9558,7 +9570,6 @@ days	12,doc6.txt,1,2.303
 omit,doc2.txt,2,2.303
 Bondi Junct,doc6.txt,1,2.303
 guitar,doc12.txt,3,2.303
-Keith Jarrett’,doc12.txt,2,2.303
 nose,doc11.txt,5,2.303
 SIGIR Award,doc7.txt,1,2.303
 patch,doc10.txt,1,2.303
@@ -9604,6 +9615,7 @@ rudder,doc11.txt,3,2.303
 rainbow,doc8.txt,1,2.303
 util,doc10.txt,1,doc11.txt,1,doc14.txt,1,doc4.txt,2,doc8.txt,1,1.099
 infam,doc16.txt,1,2.303
+he’,doc12.txt,1,2.303
 suprem,doc14.txt,1,doc4.txt,1,1.792
 marin,doc5.txt,1,2.303
 Das Kapital Engel,doc4.txt,1,2.303
@@ -9620,7 +9632,6 @@ Royal Mint,doc5.txt,1,2.303
 software-configur,doc11.txt,1,2.303
 Protect,doc20.txt,2,2.303
 Conquistador,doc14.txt,1,2.303
-cinema—th,doc8.txt,1,2.303
 Retrieval[6],doc1.txt,1,2.303
 Epping,doc6.txt,1,2.303
 Whitnei,doc11.txt,3,2.303
@@ -9633,7 +9644,6 @@ below,doc11.txt,1,doc14.txt,5,doc2.txt,1,doc20.txt,1,doc3.txt,1,doc4.txt,1,doc6.
 Tobacco,doc14.txt,1,2.303
 belov,doc17.txt,1,2.303
 747-8,doc11.txt,2,2.303
-−8X,doc11.txt,1,2.303
 caramel,doc3.txt,4,2.303
 superhero,doc14.txt,1,2.303
 087,doc6.txt,1,2.303
@@ -9659,7 +9669,6 @@ tender,doc3.txt,3,2.303
 daili,doc3.txt,1,doc5.txt,1,doc6.txt,2,1.609
 spread,doc11.txt,1,doc14.txt,3,doc5.txt,1,doc6.txt,4,1.386
 Historical Dictionari,doc4.txt,1,2.303
-−9X,doc11.txt,1,2.303
 faint,doc19.txt,1,2.303
 renaiss,doc5.txt,1,2.303
 Virginia Depart,doc20.txt,1,2.303
@@ -9693,6 +9702,7 @@ Licens,doc10.txt,1,2.303
 unanim,doc14.txt,2,2.303
 Shrine,doc5.txt,1,2.303
 \in,doc1.txt,1,2.303
+requirements—standard,doc14.txt,1,2.303
 bottom,doc14.txt,2,doc20.txt,1,1.792
 Glen Eira,doc5.txt,1,2.303
 Olympic Stand,doc5.txt,1,2.303
@@ -9726,6 +9736,7 @@ Freudian,doc4.txt,1,2.303
 ABS,doc5.txt,1,2.303
 citizen,doc14.txt,11,doc4.txt,5,doc8.txt,1,1.609
 buffalo,doc14.txt,2,2.303
+naïv,doc4.txt,1,2.303
 Northeast,doc14.txt,1,2.303
 Barn,doc20.txt,1,2.303
 borough,doc6.txt,1,2.303
@@ -9782,6 +9793,7 @@ Beach Th,doc5.txt,1,2.303
 Real GDP,doc14.txt,1,2.303
 quartet,doc12.txt,3,2.303
 quarter,doc11.txt,3,doc14.txt,3,doc5.txt,1,doc6.txt,1,1.386
+Sun’,doc10.txt,1,2.303
 advent,doc6.txt,1,2.303
 valid,doc2.txt,1,doc4.txt,4,1.792
 alongsid,doc11.txt,1,doc12.txt,1,doc5.txt,1,1.609
@@ -9815,7 +9827,6 @@ verg,doc14.txt,1,2.303
 veri,doc1.txt,2,doc14.txt,3,doc17.txt,2,doc19.txt,1,doc3.txt,2,doc4.txt,28,doc5.txt,7,doc6.txt,1,doc8.txt,1,0.693
 Stonnington Boroondara,doc5.txt,1,2.303
 starch,doc3.txt,5,2.303
-Lukács[edit,doc4.txt,1,2.303
 entrepreneur,doc4.txt,1,2.303
 myth,doc3.txt,1,2.303
 Dracula In Bram Stok,doc17.txt,1,2.303
@@ -9843,7 +9854,6 @@ Bram Stok,doc17.txt,2,2.303
 Peac,doc14.txt,1,2.303
 diffus,doc20.txt,1,2.303
 From Mai,doc16.txt,1,2.303
-�?[16],doc12.txt,1,2.303
 slowli,doc11.txt,1,doc17.txt,2,doc3.txt,3,doc5.txt,1,1.386
 milk,doc14.txt,1,doc3.txt,2,1.792
 largest-ev,doc5.txt,1,2.303
@@ -9865,12 +9875,12 @@ B-plug,doc13.txt,1,2.303
 teeth,doc17.txt,1,2.303
 United States Languag,doc14.txt,1,2.303
 endpoint,doc13.txt,16,2.303
+Centennial Park—also,doc6.txt,1,2.303
 industrialis,doc6.txt,1,2.303
 not,doc1.txt,6,doc10.txt,5,doc11.txt,3,doc12.txt,5,doc13.txt,19,doc14.txt,21,doc17.txt,6,doc2.txt,7,doc20.txt,3,doc3.txt,4,doc4.txt,115,doc5.txt,6,doc6.txt,6,doc8.txt,11,0.0
 nor,doc4.txt,2,2.303
 [24][27],doc8.txt,1,2.303
 now,doc10.txt,1,doc13.txt,4,doc14.txt,9,doc17.txt,7,doc18.txt,1,doc3.txt,3,doc4.txt,2,doc5.txt,9,doc6.txt,2,doc7.txt,2,doc8.txt,1,0.0
-°F Rainfal,doc6.txt,1,2.303
 Besid,doc20.txt,1,2.303
 [409],doc14.txt,1,2.303
 parochi,doc14.txt,1,doc5.txt,1,1.792
@@ -9881,7 +9891,6 @@ realli,doc4.txt,32,doc8.txt,3,1.792
 plead,doc8.txt,1,2.303
 Grand,doc5.txt,1,2.303
 successfulli,doc1.txt,1,doc11.txt,1,doc12.txt,1,doc14.txt,1,doc3.txt,1,doc4.txt,2,doc8.txt,1,0.693
-�?[14],doc12.txt,5,2.303
 Fortun,doc16.txt,1,2.303
 \alpha=\frac,doc1.txt,1,2.303
 [129][130][131][132],doc6.txt,1,2.303
@@ -9929,7 +9938,6 @@ belong,doc4.txt,1,2.303
 Tasman Sea In Jun,doc6.txt,1,2.303
 slate,doc11.txt,1,doc20.txt,1,1.792
 bacchanalia,doc4.txt,1,2.303
-“fertil,doc12.txt,1,2.303
 777-200ER,doc11.txt,15,2.303
 denomin,doc14.txt,4,doc6.txt,1,1.792
 Marburi,doc14.txt,1,2.303
@@ -9961,7 +9969,6 @@ A-market,doc11.txt,3,2.303
 known,doc1.txt,2,doc10.txt,2,doc11.txt,4,doc13.txt,1,doc14.txt,4,doc19.txt,1,doc2.txt,1,doc20.txt,3,doc3.txt,3,doc4.txt,10,doc5.txt,7,doc6.txt,9,doc7.txt,2,doc9.txt,2,0.0
 Ansel Adams Th,doc14.txt,1,2.303
 postmodernist,doc14.txt,1,2.303
-Louis–St Charles–Farmington MO–IL MSA	Midwest,doc14.txt,1,2.303
 Karina K,doc17.txt,1,2.303
 Thei,doc1.txt,1,doc13.txt,1,doc14.txt,1,doc17.txt,1,doc4.txt,12,doc8.txt,2,0.693
 slave,doc13.txt,2,doc14.txt,20,1.792
@@ -9980,12 +9987,13 @@ decidu,doc14.txt,1,2.303
 Max Horkheim,doc4.txt,1,2.303
 API,doc2.txt,1,2.303
 Background[edit,doc11.txt,1,2.303
+York–New Jersey–Connecticut–Pennsylvania NY–NJ–CT–PA MSA	Northeast,doc14.txt,1,2.303
 1	6,doc6.txt,1,2.303
 1	7,doc6.txt,1,2.303
 southeast,doc14.txt,1,doc20.txt,1,doc5.txt,1,1.609
+Evan’,doc12.txt,1,2.303
 [408],doc14.txt,1,2.303
 travers,doc4.txt,1,2.303
-Spanish–American War,doc14.txt,1,2.303
 Timelin,doc1.txt,1,doc14.txt,1,doc5.txt,1,1.609
 ANZ,doc5.txt,1,2.303
 centrepiec,doc4.txt,1,2.303
@@ -10150,6 +10158,7 @@ labour-tim,doc4.txt,1,2.303
 sale,doc11.txt,3,doc14.txt,2,doc3.txt,1,1.609
 12%,doc14.txt,3,doc5.txt,1,1.792
 counter-revolutionari,doc4.txt,1,2.303
+DC–VA–MD–WV MSA	Northeast,doc14.txt,1,2.303
 Auburn Th,doc6.txt,1,2.303
 Inversion[edit,doc4.txt,1,2.303
 Culture[edit,doc5.txt,1,doc6.txt,1,1.792
@@ -10222,6 +10231,7 @@ William Pitt,doc5.txt,2,2.303
 tanker,doc11.txt,3,2.303
 29%	836,doc14.txt,1,2.303
 cours,doc4.txt,2,doc8.txt,1,1.792
+Richard Speight—stil,doc5.txt,1,2.303
 court,doc14.txt,6,doc4.txt,1,doc6.txt,1,1.609
 Proprietari,doc13.txt,1,2.303
 cure,doc17.txt,1,2.303
@@ -10298,7 +10308,6 @@ United States Constitution Law,doc14.txt,1,2.303
 succe,doc4.txt,4,2.303
 harmon,doc1.txt,1,2.303
 drive[edit,doc13.txt,1,2.303
-15–44,doc14.txt,1,2.303
 Recognit,doc8.txt,1,2.303
 save,doc10.txt,2,doc17.txt,3,doc5.txt,1,doc8.txt,1,1.386
 count,doc14.txt,2,doc17.txt,1,doc4.txt,1,doc7.txt,1,1.386
@@ -10323,8 +10332,6 @@ Cathol,doc5.txt,1,2.303
 An Air India Bo,doc11.txt,1,2.303
 flint,doc3.txt,1,2.303
 Mrs Randolph McCall P,doc16.txt,1,2.303
-1950–53,doc14.txt,1,2.303
-216–244,doc1.txt,1,2.303
 Orang,doc13.txt,1,2.303
 Maryland,doc20.txt,2,2.303
 non-defens,doc14.txt,1,2.303
@@ -10334,7 +10341,6 @@ The Louisiana Purchas,doc14.txt,1,2.303
 B C,doc3.txt,1,2.303
 Black Thursdai,doc5.txt,1,2.303
 characterolog,doc4.txt,1,2.303
-Sun’,doc10.txt,1,2.303
 sauc,doc3.txt,1,2.303
 Melbourne International Arts Festival Melbourne International Film Festival Melbourne International Comedy Festiv,doc5.txt,1,2.303
 certainli,doc4.txt,1,2.303
@@ -10373,12 +10379,9 @@ discours,doc4.txt,1,2.303
 heavi,doc1.txt,1,doc20.txt,1,doc3.txt,1,doc4.txt,1,doc5.txt,4,1.099
 between,doc1.txt,5,doc11.txt,6,doc12.txt,1,doc13.txt,8,doc14.txt,17,doc19.txt,1,doc20.txt,1,doc4.txt,36,doc5.txt,6,doc6.txt,4,doc7.txt,2,doc8.txt,3,doc9.txt,1,0.0
 [12][438],doc14.txt,1,2.303
-−0,doc5.txt,1,2.303
 [12][436],doc14.txt,1,2.303
 Matt Karpman,doc8.txt,1,2.303
 containeris,doc5.txt,1,2.303
-−2,doc14.txt,1,doc5.txt,5,1.792
-−1,doc5.txt,1,2.303
 Mobil,doc13.txt,1,2.303
 intens,doc14.txt,1,doc5.txt,2,1.792
 [13][14][15],doc5.txt,1,2.303
@@ -10386,12 +10389,12 @@ unreconcil,doc4.txt,1,2.303
 recip,doc14.txt,1,doc3.txt,1,1.792
 intent,doc4.txt,6,doc8.txt,2,1.792
 AMD Opteron,doc10.txt,1,2.303
+000–40,doc4.txt,1,2.303
 masok,doc4.txt,1,2.303
 Shenendoah,doc20.txt,1,2.303
 hidden,doc4.txt,7,doc6.txt,1,doc8.txt,1,1.609
 Usually Charaktermask,doc4.txt,1,2.303
 similarli,doc5.txt,1,2.303
-–9X,doc11.txt,2,2.303
 leaf-spr,doc13.txt,1,2.303
 Dave Holland,doc12.txt,2,2.303
 intend,doc11.txt,1,doc13.txt,6,doc3.txt,2,doc4.txt,4,doc5.txt,1,doc6.txt,1,doc8.txt,1,0.693
@@ -10416,9 +10419,11 @@ Blue Ground USB,doc13.txt,1,2.303
 astronomi,doc19.txt,3,2.303
 American Revolutionary War Declar,doc14.txt,1,2.303
 mid-19th,doc4.txt,1,2.303
-16	Minneapolis–St,doc14.txt,1,2.303
 involv,doc1.txt,1,doc11.txt,4,doc12.txt,1,doc14.txt,5,doc4.txt,16,doc5.txt,1,doc6.txt,1,0.693
 kitchen,doc3.txt,1,2.303
+−2,doc14.txt,1,doc5.txt,5,1.792
+−1,doc5.txt,1,2.303
+−0,doc5.txt,1,2.303
 Mask,doc4.txt,17,2.303
 Battery Charging Specif,doc13.txt,2,2.303
 anticip,doc5.txt,2,2.303
@@ -10451,6 +10456,7 @@ promot,doc1.txt,1,doc14.txt,1,doc4.txt,1,doc5.txt,2,doc6.txt,1,doc8.txt,2,0.693
 Yellowstone National Park,doc14.txt,1,2.303
 possess,doc14.txt,2,doc4.txt,1,doc5.txt,2,doc8.txt,1,1.386
 DeJohnette-l,doc12.txt,1,2.303
+–22%,doc14.txt,1,2.303
 belli,doc11.txt,2,2.303
 invit,doc11.txt,1,doc4.txt,2,1.792
 intervent,doc14.txt,2,doc4.txt,1,1.792
@@ -10472,7 +10478,6 @@ Sigmund Freud,doc4.txt,1,2.303
 snack,doc3.txt,5,2.303
 US$50,doc11.txt,1,2.303
 Ship,doc5.txt,1,2.303
-Deutsches Wörterbuch,doc4.txt,1,2.303
 LHD,doc6.txt,1,2.303
 placehold,doc4.txt,1,2.303
 Cairo International Airport,doc11.txt,1,2.303
@@ -10524,15 +10529,18 @@ Bill C-309,doc4.txt,1,2.303
 simplifi,doc11.txt,2,doc13.txt,1,doc4.txt,1,1.609
 inform,doc1.txt,23,doc13.txt,1,doc14.txt,10,doc4.txt,9,doc5.txt,6,doc6.txt,3,doc7.txt,2,0.693
 i86pc,doc10.txt,1,2.303
+0–16,doc6.txt,1,2.303
 United States Separ,doc14.txt,1,2.303
 controversy[edit,doc4.txt,1,2.303
 magazin,doc12.txt,1,doc4.txt,1,1.792
 disembark,doc14.txt,1,doc5.txt,2,1.792
 foreign,doc14.txt,4,doc6.txt,3,doc8.txt,1,1.609
 [410],doc14.txt,1,2.303
+1861–63,doc4.txt,1,2.303
 UNICEF,doc14.txt,1,2.303
 raid,doc14.txt,1,2.303
 Operation Desert Storm,doc4.txt,1,2.303
+Petersburg–Clearwater FL MSA	South,doc14.txt,1,2.303
 777-300ER[edit,doc11.txt,1,2.303
 well,doc1.txt,3,doc10.txt,3,doc12.txt,4,doc13.txt,4,doc14.txt,8,doc19.txt,1,doc3.txt,3,doc4.txt,16,doc5.txt,15,doc6.txt,8,doc7.txt,2,doc8.txt,2,0.0
 National Librari,doc1.txt,1,2.303
@@ -10576,7 +10584,6 @@ Virginia Opossum,doc20.txt,1,2.303
 Nobel Pr,doc14.txt,2,2.303
 19th,doc14.txt,8,doc3.txt,1,doc5.txt,1,doc6.txt,1,doc8.txt,1,1.099
 notabl,doc5.txt,7,doc6.txt,6,1.792
-Florencia Benítez,doc17.txt,1,2.303
 languag,doc10.txt,1,doc14.txt,14,doc4.txt,4,doc5.txt,1,doc6.txt,5,doc8.txt,2,0.693
 Herbert Marcus,doc4.txt,1,2.303
 IDCG_p,doc1.txt,2,2.303
@@ -10588,7 +10595,6 @@ cover,doc11.txt,2,doc14.txt,1,doc20.txt,4,doc3.txt,1,doc4.txt,5,doc5.txt,1,doc6.
 Block Plac,doc5.txt,1,2.303
 fail,doc14.txt,1,doc3.txt,1,doc4.txt,3,doc8.txt,2,1.386
 Even,doc13.txt,1,doc17.txt,1,doc4.txt,5,1.609
-Marxism–Lenin,doc4.txt,3,2.303
 amalgams[edit,doc17.txt,1,2.303
 opt,doc11.txt,1,doc4.txt,1,1.792
 Getting Old,doc8.txt,1,2.303
@@ -10699,12 +10705,11 @@ E0h	Interface	Wireless Controller	Bluetooth,doc13.txt,1,2.303
 2	7,doc6.txt,2,2.303
 F-measure[edit,doc1.txt,1,2.303
 [23][24],doc13.txt,1,2.303
-he’,doc12.txt,1,2.303
 compani,doc10.txt,1,doc11.txt,5,doc13.txt,1,doc14.txt,3,doc3.txt,1,doc4.txt,1,doc5.txt,9,doc6.txt,6,doc8.txt,1,0.693
-global,doc11.txt,1,doc13.txt,1,doc14.txt,17,doc4.txt,2,doc6.txt,4,1.099
 New York City Los Angeles Chicago,doc14.txt,1,2.303
-Other Measures[edit,doc1.txt,1,2.303
+global,doc11.txt,1,doc13.txt,1,doc14.txt,17,doc4.txt,2,doc6.txt,4,1.099
 Bob Dylan,doc14.txt,1,2.303
+Other Measures[edit,doc1.txt,1,2.303
 embed,doc13.txt,1,doc2.txt,2,1.792
 throughput,doc13.txt,3,2.303
 Design,doc11.txt,4,2.303
@@ -10715,6 +10720,7 @@ Auburn Botanical Garden,doc6.txt,1,2.303
 World War I Great Depress,doc14.txt,3,2.303
 encompass,doc10.txt,1,doc20.txt,2,1.792
 disord,doc14.txt,1,2.303
+5–10,doc3.txt,1,2.303
 west,doc14.txt,5,doc18.txt,1,doc20.txt,5,doc5.txt,3,doc6.txt,6,1.099
 substant,doc4.txt,3,2.303
 alloc,doc1.txt,1,2.303
@@ -10738,8 +10744,8 @@ coffe,doc14.txt,1,doc5.txt,1,1.792
 minim,doc11.txt,1,doc13.txt,1,doc14.txt,1,doc3.txt,1,doc4.txt,1,doc5.txt,2,0.693
 Holmwood,doc17.txt,3,2.303
 View,doc11.txt,1,doc5.txt,1,1.792
+Deutsches Wörterbuch,doc4.txt,1,2.303
 impeach,doc14.txt,2,2.303
-Centennial Park—also,doc6.txt,1,2.303
 Lincoln,doc14.txt,1,2.303
 hypothesi,doc1.txt,1,2.303
 Mascot,doc6.txt,1,2.303
@@ -10751,8 +10757,8 @@ wheat,doc14.txt,1,2.303
 heavier-than-air,doc14.txt,1,2.303
 propuls,doc11.txt,1,2.303
 vampiress,doc17.txt,1,2.303
+236	Phoenix–Mesa–Glendal,doc14.txt,1,2.303
 particip,doc14.txt,2,doc4.txt,3,doc8.txt,2,1.609
-area—wa,doc6.txt,1,2.303
 SPARC,doc10.txt,4,2.303
 United States The Hollywood Sign,doc14.txt,1,2.303
 United Nations Security Council Th,doc14.txt,1,2.303
@@ -10779,7 +10785,6 @@ Grand Slam,doc5.txt,1,2.303
 bare,doc17.txt,1,doc4.txt,1,1.792
 Australian Football Leagu,doc6.txt,1,2.303
 metaphys,doc4.txt,2,2.303
-Richard Speight—stil,doc5.txt,1,2.303
 partli,doc4.txt,2,2.303
 Dreamlin,doc11.txt,1,2.303
 Triple Seven,doc11.txt,1,2.303
@@ -10798,7 +10803,6 @@ Discord,doc4.txt,1,2.303
 divers,doc11.txt,1,doc14.txt,4,doc20.txt,1,doc4.txt,1,doc5.txt,1,doc6.txt,1,0.693
 unfold,doc14.txt,1,2.303
 wealth,doc14.txt,5,doc4.txt,3,doc8.txt,1,1.609
-Žižek[edit,doc4.txt,1,2.303
 underground,doc5.txt,1,doc6.txt,1,1.792
 J C R Licklid,doc1.txt,1,2.303
 Midwest,doc14.txt,1,2.303
@@ -10814,7 +10818,6 @@ jargon,doc3.txt,1,2.303
 Usage,doc10.txt,4,2.303
 mixtur,doc13.txt,1,doc20.txt,1,doc3.txt,2,doc4.txt,1,1.386
 patient,doc4.txt,1,doc5.txt,1,1.792
-TV Guide’,doc8.txt,1,2.303
 [199][200],doc11.txt,1,2.303
 member,doc10.txt,1,doc11.txt,1,doc12.txt,6,doc14.txt,10,doc4.txt,3,doc5.txt,3,doc6.txt,1,doc8.txt,2,0.693
 auxiliari,doc11.txt,2,2.303
@@ -10850,6 +10853,7 @@ base,doc1.txt,5,doc10.txt,10,doc11.txt,5,doc13.txt,2,doc14.txt,8,doc17.txt,2,doc
 basi,doc1.txt,2,doc14.txt,2,doc4.txt,1,doc5.txt,1,doc8.txt,1,1.099
 Cartman,doc8.txt,102,2.303
 aborigin,doc5.txt,1,2.303
+8–9,doc11.txt,1,2.303
 client,doc10.txt,3,doc13.txt,1,doc4.txt,2,1.609
 precursor,doc8.txt,1,2.303
 7	145,doc5.txt,1,2.303
@@ -10883,6 +10887,7 @@ aliv,doc17.txt,2,2.303
 Sydney Uni Flam,doc6.txt,1,2.303
 mandatori,doc14.txt,1,2.303
 Alfred Stieglitz Edward Steichen,doc14.txt,1,2.303
+−300,doc11.txt,16,2.303
 seismic,doc20.txt,1,2.303
 fast,doc13.txt,1,doc14.txt,2,doc3.txt,1,1.609
 automot,doc5.txt,2,2.303
@@ -10913,9 +10918,7 @@ Attribut,doc5.txt,1,2.303
 talk,doc14.txt,2,doc17.txt,3,doc4.txt,2,doc5.txt,1,doc6.txt,1,doc8.txt,1,0.693
 law,doc14.txt,18,doc20.txt,1,doc4.txt,7,doc8.txt,3,1.386
 Massanutten Mountain,doc20.txt,1,2.303
-−100X,doc11.txt,1,2.303
 constant,doc17.txt,1,doc4.txt,2,1.792
-character—such,doc14.txt,1,2.303
 kite,doc20.txt,1,2.303
 books[168],doc4.txt,1,2.303
 Angel Mahler Lucy Paola Krum,doc17.txt,1,2.303
@@ -10937,7 +10940,6 @@ West Gate Bridg,doc5.txt,1,2.303
 restaur,doc5.txt,2,doc6.txt,2,1.792
 thermal,doc3.txt,1,2.303
 Incident,doc11.txt,1,doc14.txt,1,1.792
-history—from,doc14.txt,1,2.303
 carri,doc11.txt,7,doc13.txt,1,doc14.txt,3,doc4.txt,2,doc5.txt,2,doc6.txt,1,0.693
 National Park,doc9.txt,1,2.303
 stroke,doc14.txt,1,2.303
@@ -10947,11 +10949,10 @@ Nicholas Jardin,doc1.txt,1,2.303
 Sydney Ausgrid,doc6.txt,1,2.303
 Trust,doc4.txt,1,2.303
 20%	586,doc14.txt,1,2.303
+Bethlehem Steel Corporation’s Sparrows Point Shipyard Baltimore Maryland,doc16.txt,1,2.303
 The First ACM SIGIR,doc1.txt,1,2.303
 Refer,doc1.txt,1,doc10.txt,1,doc11.txt,1,doc12.txt,1,doc13.txt,1,doc14.txt,1,doc2.txt,1,doc20.txt,1,doc3.txt,1,doc5.txt,1,doc6.txt,1,doc8.txt,1,0.0
-1945–1964,doc6.txt,1,2.303
 Postcod,doc5.txt,1,2.303
-Stan Getz’,doc12.txt,1,2.303
 Mayflower Compact,doc14.txt,2,2.303
 wild,doc3.txt,1,2.303
 convei,doc4.txt,1,2.303
@@ -10967,11 +10968,13 @@ http,doc2.txt,15,2.303
 IR The National Bureau,doc1.txt,1,2.303
 Thai Airways Intern,doc11.txt,1,2.303
 will,doc1.txt,1,doc10.txt,2,doc11.txt,1,doc13.txt,2,doc14.txt,1,doc16.txt,1,doc17.txt,5,doc2.txt,5,doc3.txt,5,doc4.txt,6,doc5.txt,8,doc6.txt,4,doc8.txt,6,0.0
-candidate—form,doc14.txt,1,2.303
 Everi,doc4.txt,1,2.303
+big-boned—cartooni,doc8.txt,1,2.303
 shore,doc20.txt,1,doc5.txt,2,1.792
 virtual,doc11.txt,1,doc14.txt,1,doc5.txt,1,1.609
 functionari,doc4.txt,1,2.303
+UN–sanctioned Gulf War,doc14.txt,1,2.303
+−9X,doc11.txt,1,2.303
 \Delta,doc1.txt,2,2.303
 England,doc14.txt,1,doc5.txt,2,doc6.txt,1,1.609
 Adoption,doc14.txt,1,2.303
@@ -10992,11 +10995,13 @@ Europe Writ,doc14.txt,1,2.303
 insul,doc13.txt,1,2.303
 apport,doc14.txt,2,2.303
 100th,doc14.txt,2,2.303
+illegal—and,doc14.txt,1,2.303
 okai,doc8.txt,1,2.303
 sociolog,doc4.txt,11,2.303
 Modern,doc2.txt,2,doc4.txt,1,1.792
 restart,doc13.txt,1,2.303
 Adulteri,doc14.txt,1,2.303
+−8X,doc11.txt,1,2.303
 despit,doc14.txt,1,doc4.txt,1,doc8.txt,4,1.609
 despis,doc8.txt,1,2.303
 master,doc1.txt,1,doc4.txt,1,1.792
@@ -11047,7 +11052,6 @@ receptacl,doc13.txt,44,2.303
 Forest District Greater Western Sydnei,doc6.txt,1,2.303
 condemn,doc4.txt,3,2.303
 strong,doc14.txt,2,doc3.txt,1,doc5.txt,5,1.609
-1848–49,doc14.txt,1,2.303
 aircraft,doc11.txt,69,doc14.txt,3,doc5.txt,1,doc6.txt,1,1.386
 Uruguai,doc6.txt,1,2.303
 Gateway Trio,doc12.txt,1,2.303
@@ -11058,7 +11062,6 @@ False Face Society In,doc4.txt,1,2.303
 Sydney The Sydney Harbour Bridg,doc6.txt,1,2.303
 Lohoff,doc4.txt,1,2.303
 rabbit,doc20.txt,2,2.303
-“	But,doc1.txt,1,2.303
 kilomet,doc9.txt,1,2.303
 Michael Meathead Stiv,doc8.txt,1,2.303
 Katie McGrath Lucy Westerman[edit,doc17.txt,1,2.303
@@ -11090,10 +11093,10 @@ redevelop,doc5.txt,4,doc6.txt,1,1.792
 blueprint,doc5.txt,1,2.303
 MAC,doc10.txt,1,2.303
 also,doc1.txt,5,doc10.txt,7,doc11.txt,16,doc12.txt,14,doc13.txt,16,doc14.txt,39,doc17.txt,3,doc18.txt,3,doc19.txt,1,doc2.txt,6,doc20.txt,4,doc3.txt,10,doc4.txt,50,doc5.txt,37,doc6.txt,28,doc7.txt,2,doc8.txt,9,doc9.txt,2,0.0
-individuals’,doc14.txt,1,2.303
 Roman Empir,doc4.txt,1,2.303
 wildflow,doc20.txt,1,2.303
 Model,doc1.txt,5,2.303
+205	Atlanta–Sandi,doc14.txt,1,2.303
 mosqu,doc5.txt,2,2.303
 Foster],doc12.txt,1,2.303
 e-mail,doc10.txt,1,doc2.txt,1,1.792
@@ -11137,6 +11140,7 @@ low,doc11.txt,1,doc13.txt,3,doc14.txt,5,doc20.txt,1,doc3.txt,1,doc5.txt,9,doc6.t
 world[edit,doc4.txt,1,2.303
 compil,doc10.txt,1,doc4.txt,1,1.792
 taxi,doc11.txt,1,doc5.txt,4,1.792
+486	Minneapolis–St,doc14.txt,1,2.303
 lengthi,doc16.txt,1,doc4.txt,1,1.792
 babi,doc8.txt,1,2.303
 captain,doc6.txt,1,2.303
@@ -11145,9 +11149,11 @@ territori,doc14.txt,17,doc5.txt,1,doc6.txt,2,1.609
 South Yarra Vari,doc5.txt,1,2.303
 sect,doc14.txt,1,2.303
 French English Spanish,doc4.txt,1,2.303
+Dämmerung,doc4.txt,1,2.303
 exercis,doc14.txt,1,doc16.txt,2,doc6.txt,1,1.609
 [57][77],doc14.txt,1,2.303
 usabl,doc10.txt,1,doc13.txt,2,1.792
+371–287,doc4.txt,1,2.303
 Right,doc14.txt,4,2.303
 snowboard,doc14.txt,1,2.303
 Seen,doc9.txt,1,2.303
@@ -11190,6 +11196,7 @@ multicultur,doc14.txt,3,2.303
 utilis,doc6.txt,1,2.303
 Handshak,doc13.txt,1,2.303
 Ashfield Auburn Bankstown Blacktown Botany Bay Burwood Camden Campbelltown Canada Bay Canterbury Fairfield The Hills Holroyd Hornsby Hunt,doc6.txt,1,2.303
+—be,doc13.txt,1,2.303
 Bledisloe Cup Tri N,doc6.txt,1,2.303
 Quaker,doc14.txt,1,2.303
 Latent,doc1.txt,1,2.303
@@ -11199,12 +11206,10 @@ select,doc10.txt,4,doc11.txt,3,doc4.txt,1,doc5.txt,1,doc6.txt,2,doc8.txt,1,doc9.
 Print,doc5.txt,1,2.303
 render,doc10.txt,1,doc4.txt,1,1.792
 CATIA,doc11.txt,2,2.303
-026	Seattle–Tacoma–Bellevu,doc14.txt,1,2.303
 sound,doc13.txt,1,doc14.txt,1,doc4.txt,1,doc6.txt,1,doc8.txt,1,1.099
 $461B,doc14.txt,1,2.303
 whom,doc12.txt,2,doc14.txt,1,doc17.txt,1,doc8.txt,4,1.386
 EPS Memorandum,doc13.txt,1,2.303
-4	Dallas–Fort,doc14.txt,1,2.303
 777F,doc11.txt,10,2.303
 21%	604,doc14.txt,1,2.303
 Human,doc13.txt,1,doc4.txt,6,1.792
@@ -11267,11 +11272,8 @@ Soviet Union[edit,doc4.txt,1,2.303
 pour,doc3.txt,2,doc5.txt,1,1.792
 north-east,doc5.txt,1,2.303
 focus,doc11.txt,1,doc6.txt,1,1.792
-‘What,doc12.txt,1,2.303
 musician,doc12.txt,2,2.303
 Biographi,doc12.txt,1,2.303
-Anne-Marie Rocheblave-Spenlé,doc4.txt,1,2.303
-18	Tampa–St,doc14.txt,1,2.303
 extra,doc11.txt,1,2.303
 Little Riv,doc5.txt,1,2.303
 Australia Lik,doc5.txt,1,2.303
@@ -11298,8 +11300,6 @@ Airlin,doc11.txt,6,2.303
 Latenc,doc13.txt,1,2.303
 Irving Berlin Cole Port,doc14.txt,1,2.303
 self,doc12.txt,1,doc4.txt,17,1.792
-Opera Australia—th,doc6.txt,1,2.303
-MA–NH MSA	Northeast,doc14.txt,1,2.303
 remorseless,doc8.txt,1,2.303
 Close,doc11.txt,1,2.303
 777-300[edit,doc11.txt,1,2.303
@@ -11308,7 +11308,6 @@ sell,doc14.txt,1,doc3.txt,1,doc4.txt,3,doc6.txt,2,1.386
 smallpox,doc14.txt,1,doc5.txt,1,1.792
 Francis Greenwai,doc6.txt,1,2.303
 The Australian Ballet,doc5.txt,1,2.303
-cycles—significantli,doc13.txt,1,2.303
 selv,doc4.txt,1,2.303
 skunk,doc20.txt,2,2.303
 Parallel Realities CD,doc12.txt,1,2.303
@@ -11360,13 +11359,13 @@ James Brown,doc14.txt,1,2.303
 New York C,doc12.txt,1,doc14.txt,6,doc5.txt,1,1.609
 uplift,doc6.txt,1,2.303
 Emanuel Goldberg,doc1.txt,1,2.303
+St Joseph’,doc6.txt,1,2.303
 The Second Great Awaken,doc14.txt,1,2.303
 statut,doc14.txt,2,doc4.txt,1,1.792
 herald,doc14.txt,1,2.303
 South Australia Numer,doc6.txt,1,2.303
 wingtip,doc11.txt,5,2.303
 tram,doc5.txt,16,doc6.txt,3,1.792
-UN–sanctioned Gulf War,doc14.txt,1,2.303
 trap,doc4.txt,3,2.303
 MSC,doc13.txt,2,2.303
 wavelength,doc9.txt,2,2.303
@@ -11429,6 +11428,7 @@ de-certifi,doc13.txt,1,2.303
 first,doc1.txt,6,doc10.txt,1,doc11.txt,42,doc12.txt,10,doc13.txt,8,doc14.txt,33,doc16.txt,1,doc17.txt,8,doc20.txt,1,doc3.txt,5,doc4.txt,12,doc5.txt,20,doc6.txt,12,doc7.txt,1,doc8.txt,8,0.0
 threat,doc9.txt,1,2.303
 pseudo,doc4.txt,2,2.303
+–8XL,doc11.txt,1,2.303
 challeng,doc1.txt,1,doc11.txt,1,doc12.txt,2,doc4.txt,4,1.386
 Polit,doc14.txt,5,2.303
 symposium,doc1.txt,1,2.303
@@ -11446,11 +11446,9 @@ Blastwav,doc10.txt,3,2.303
 sleep,doc13.txt,3,2.303
 amid,doc11.txt,1,doc14.txt,2,doc5.txt,1,1.609
 well-known,doc4.txt,1,doc6.txt,1,1.792
-fiancé,doc17.txt,4,2.303
 Jackson Pollock,doc14.txt,1,2.303
 \cdot,doc1.txt,5,2.303
 headscarv,doc4.txt,1,2.303
-/ˈsɪdni/[3],doc6.txt,1,2.303
 Patrick,doc5.txt,1,2.303
 Duke Ellington,doc14.txt,1,2.303
 Lockheed L-1011 TriStar,doc11.txt,1,2.303
@@ -11494,6 +11492,7 @@ unimpress,doc11.txt,1,2.303
 NAB,doc5.txt,1,2.303
 Meanwhil,doc14.txt,1,2.303
 what,doc1.txt,1,doc10.txt,1,doc11.txt,1,doc12.txt,2,doc14.txt,3,doc17.txt,3,doc2.txt,1,doc3.txt,2,doc4.txt,68,doc5.txt,3,doc8.txt,6,0.0
+controller—i,doc13.txt,1,2.303
 GE90-110B1,doc11.txt,1,2.303
 successor,doc11.txt,2,doc14.txt,2,1.792
 fiscal,doc14.txt,2,2.303
@@ -11517,7 +11516,6 @@ ultra-long-rang,doc11.txt,1,2.303
 Multinet Gas Envestra,doc5.txt,1,2.303
 American Academi,doc3.txt,1,2.303
 learn,doc1.txt,1,doc13.txt,1,doc14.txt,1,doc3.txt,1,doc4.txt,3,doc8.txt,5,0.693
-D− USB,doc13.txt,1,2.303
 machin,doc1.txt,2,doc10.txt,1,doc11.txt,1,doc13.txt,1,doc3.txt,5,1.099
 NSW In,doc6.txt,1,2.303
 Mainstream American,doc14.txt,2,2.303
@@ -11529,9 +11527,9 @@ internet,doc14.txt,1,doc5.txt,1,doc8.txt,1,1.609
 intoler,doc4.txt,1,doc8.txt,1,1.792
 Pacific Kingdom,doc14.txt,1,2.303
 portabl,doc13.txt,6,2.303
-monument—th,doc5.txt,1,2.303
 Madison,doc14.txt,1,2.303
 outrag,doc8.txt,1,2.303
+D− USB,doc13.txt,1,2.303
 chosen,doc11.txt,1,doc17.txt,1,doc4.txt,3,1.609
 Singh Is Kinng Bachna Ae Haseeno Chak De India Heyy Babyy A,doc6.txt,1,2.303
 installation[edit,doc10.txt,2,2.303
@@ -11587,9 +11585,9 @@ burnt,doc9.txt,1,2.303
 City2urf,doc6.txt,1,2.303
 contested[169],doc4.txt,1,2.303
 genr,doc14.txt,2,doc5.txt,1,doc6.txt,1,1.609
+uncommon—th,doc14.txt,1,2.303
 match-up,doc8.txt,1,2.303
 Unicode ECN Releas,doc13.txt,1,2.303
-fat—er,doc8.txt,1,2.303
 charact,doc17.txt,16,doc2.txt,2,doc4.txt,143,doc8.txt,35,1.386
 theorem,doc1.txt,2,2.303
 NSW Super Leagu,doc6.txt,1,2.303
@@ -11613,7 +11611,6 @@ Ethernet,doc13.txt,1,2.303
 negoti,doc5.txt,1,2.303
 Defense Depart,doc14.txt,1,2.303
 NHL,doc8.txt,1,2.303
-Argentina´,doc17.txt,1,2.303
 Eight,doc11.txt,1,2.303
 Toronto,doc11.txt,1,2.303
 quarantin,doc16.txt,1,2.303
@@ -11643,7 +11640,6 @@ culture[edit,doc5.txt,1,2.303
 social-psycholog,doc4.txt,2,2.303
 Thessaloniki Melbourn,doc5.txt,1,2.303
 NBL,doc5.txt,1,2.303
-Francisco–Oakland–Fremont CA MSA	West,doc14.txt,1,2.303
 [200][201],doc5.txt,1,2.303
 peripher,doc13.txt,7,2.303
 3-3-3,doc11.txt,1,2.303
@@ -11663,8 +11659,6 @@ credit,doc12.txt,1,doc14.txt,1,doc17.txt,1,doc4.txt,1,1.386
 live,doc12.txt,4,doc14.txt,13,doc3.txt,1,doc4.txt,10,doc5.txt,4,doc6.txt,8,doc8.txt,1,0.693
 Man,doc4.txt,1,2.303
 volcan,doc14.txt,2,doc5.txt,1,doc6.txt,1,doc9.txt,1,1.386
-−,doc13.txt,4,2.303
-—be,doc13.txt,1,2.303
 Mar,doc19.txt,1,2.303
 Map,doc14.txt,1,doc5.txt,1,1.792
 scientif,doc1.txt,2,doc14.txt,3,doc4.txt,12,1.609
@@ -11697,7 +11691,6 @@ shroud,doc9.txt,1,2.303
 transitwai,doc6.txt,1,2.303
 Nicholas J Belkin Robert N Oddi,doc1.txt,1,2.303
 Port Phillip District,doc5.txt,1,2.303
-236	Phoenix–Mesa–Glendal,doc14.txt,1,2.303
 suspect,doc14.txt,1,2.303
 identity-form,doc4.txt,1,2.303
 Diabet,doc14.txt,1,2.303
@@ -11722,8 +11715,10 @@ Black American	12,doc14.txt,1,2.303
 MTV Movie Award,doc8.txt,1,2.303
 influx,doc14.txt,1,doc5.txt,2,1.792
 Cranbourne Melbourn,doc5.txt,1,2.303
+cathedrals—St,doc5.txt,1,2.303
 transgend,doc14.txt,1,2.303
 Native American,doc12.txt,1,doc14.txt,12,doc3.txt,1,1.609
+65–79,doc6.txt,1,2.303
 17th,doc14.txt,1,doc3.txt,1,doc4.txt,1,1.609
 1970,doc1.txt,4,doc11.txt,1,doc12.txt,3,doc14.txt,3,doc17.txt,1,doc4.txt,2,doc5.txt,4,doc6.txt,3,doc8.txt,1,0.693
 George Herbert Mead Ralph Linton Talcott Parsons Theodore R Sarbin,doc4.txt,1,2.303
@@ -11756,7 +11751,6 @@ waterwai,doc6.txt,1,2.303
 [118][119],doc5.txt,1,2.303
 Hartsfield-Jackson Atlanta International Airport,doc14.txt,1,2.303
 Vitamin C,doc17.txt,1,2.303
-secession—which,doc14.txt,1,2.303
 1982,doc1.txt,1,doc10.txt,1,doc19.txt,3,1.609
 Nova,doc5.txt,1,doc6.txt,1,1.792
 1983,doc1.txt,1,doc12.txt,1,doc7.txt,1,1.609
@@ -11769,7 +11763,6 @@ metric,doc1.txt,1,2.303
 1984,doc10.txt,1,2.303
 rhythmic,doc14.txt,1,2.303
 1985,doc1.txt,1,doc12.txt,1,doc2.txt,1,1.609
-°C °F,doc5.txt,4,doc6.txt,4,1.792
 Jamestown,doc14.txt,1,2.303
 conflict,doc14.txt,8,doc4.txt,13,doc6.txt,1,1.609
 1988,doc11.txt,1,doc6.txt,2,1.792
@@ -11841,12 +11834,14 @@ Adelaid,doc5.txt,2,2.303
 OpenCSW,doc10.txt,1,2.303
 desper,doc8.txt,1,2.303
 THES,doc5.txt,1,2.303
+Opera Australia—th,doc6.txt,1,2.303
 [82][83],doc5.txt,1,2.303
+Archie Bunker” Thes,doc8.txt,1,2.303
 follow,doc1.txt,1,doc10.txt,1,doc11.txt,6,doc12.txt,1,doc13.txt,2,doc14.txt,9,doc17.txt,2,doc2.txt,4,doc20.txt,2,doc4.txt,4,doc5.txt,4,doc6.txt,4,doc8.txt,1,0.0
 adjac,doc11.txt,1,doc13.txt,3,doc5.txt,1,doc6.txt,1,1.386
 Sacred Heart Hospic,doc6.txt,1,2.303
 earner,doc14.txt,1,2.303
-Diego–Carlsbad–San Marcos CA MSA	West,doc14.txt,1,2.303
+—Dr,doc1.txt,1,2.303
 Bulleen Boom,doc5.txt,1,2.303
 mock-up,doc11.txt,2,2.303
 Toll Prior,doc5.txt,1,2.303
@@ -11863,7 +11858,7 @@ Golden Triangl,doc14.txt,1,2.303
 NeWS,doc10.txt,3,2.303
 convincingli,doc4.txt,1,2.303
 ToolTalk Thi,doc10.txt,1,2.303
-Drácula Siglo XXI,doc17.txt,1,2.303
+Argentina´,doc17.txt,1,2.303
 [74][75],doc11.txt,1,doc14.txt,1,1.792
 Nauru Hous,doc5.txt,1,2.303
 withhold,doc4.txt,1,2.303
@@ -11873,6 +11868,7 @@ longest,doc11.txt,6,doc14.txt,3,doc5.txt,2,1.609
 Freud Wilhelm Reich,doc4.txt,1,2.303
 44%	1,doc14.txt,2,2.303
 Settlements Th,doc14.txt,1,2.303
+000–8,doc6.txt,1,2.303
 Northern Suburb,doc6.txt,1,2.303
 dispatch,doc11.txt,1,2.303
 Jew In,doc8.txt,1,2.303
@@ -11881,19 +11877,19 @@ Sydney The Ashes Seri,doc6.txt,1,2.303
 globe,doc11.txt,1,doc14.txt,1,1.792
 cent,doc3.txt,1,doc6.txt,2,1.792
 Kawasaki Heavy Industri,doc11.txt,1,2.303
-uncommon—th,doc14.txt,1,2.303
 theoriz,doc4.txt,6,2.303
 Greater Western Sydney Giants Th,doc6.txt,1,2.303
 pragmat,doc14.txt,1,2.303
 oversaw,doc14.txt,1,2.303
 Stephen Sondheim,doc14.txt,1,2.303
+Spanish–American War,doc14.txt,1,2.303
 Scientific Information Washington DC,doc1.txt,1,2.303
+−200LR,doc11.txt,12,2.303
 Hegel,doc4.txt,3,2.303
 figurehead,doc14.txt,1,2.303
 Facebook YouTube Wikipedia Blogg,doc14.txt,1,2.303
 Jacob Grimm,doc4.txt,1,2.303
 Simon,doc17.txt,1,2.303
-year’,doc16.txt,1,2.303
 success,doc11.txt,4,doc12.txt,1,doc14.txt,5,doc4.txt,2,doc5.txt,1,doc8.txt,1,0.693
 Statistical Area	Region[194] New York City New York City Los Angeles Los Angeles Chicago Chicago,doc14.txt,1,2.303
 improvis,doc12.txt,2,2.303
@@ -11905,7 +11901,6 @@ Portsea,doc5.txt,2,2.303
 Education Index,doc14.txt,1,2.303
 Marx Consci,doc4.txt,1,2.303
 Jean-Paul Sartr,doc4.txt,1,2.303
-Félix Guattari Thi,doc4.txt,1,2.303
 Huckleberry Finn,doc14.txt,1,2.303
 Romina Groppo,doc17.txt,1,2.303
 payload,doc11.txt,5,doc13.txt,1,1.792
@@ -11921,6 +11916,7 @@ burden,doc14.txt,1,doc4.txt,1,1.792
 Nation,doc14.txt,3,2.303
 undergo,doc14.txt,1,doc6.txt,1,1.792
 Capital Volume III,doc4.txt,2,2.303
+−200ER,doc11.txt,16,2.303
 editor-in-chief,doc7.txt,1,2.303
 consensu,doc4.txt,1,2.303
 Physic,doc13.txt,2,2.303
@@ -11980,6 +11976,7 @@ kind,doc13.txt,4,doc17.txt,1,doc3.txt,1,doc4.txt,16,doc8.txt,1,1.099
 version,doc1.txt,2,doc10.txt,3,doc11.txt,17,doc13.txt,8,doc14.txt,2,doc17.txt,18,doc3.txt,2,doc4.txt,3,doc8.txt,3,0.693
 Analysi,doc1.txt,1,2.303
 epic,doc5.txt,1,2.303
+György Lukác,doc4.txt,2,2.303
 Sydneysid,doc6.txt,2,2.303
 Kurnell Peninsula It,doc6.txt,1,2.303
 endosperm,doc3.txt,1,2.303
@@ -12018,10 +12015,10 @@ device_address,doc13.txt,1,2.303
 mid,doc6.txt,1,2.303
 aerosol,doc9.txt,3,2.303
 Moreover Marxist,doc4.txt,1,2.303
-•,doc13.txt,2,2.303
 Sudanes,doc5.txt,1,2.303
 1936,doc14.txt,1,2.303
 1935,doc20.txt,1,2.303
+2	D−	White	Data,doc13.txt,1,2.303
 A340-600,doc11.txt,3,2.303
 Sydney Also,doc6.txt,1,2.303
 1939,doc14.txt,1,2.303
@@ -12130,9 +12127,7 @@ William Faulkn,doc14.txt,1,2.303
 shock,doc14.txt,1,2.303
 777-200ER	422		422	4	3	0	3	4	3	19	23	13	22	29	41	55	42	63	50	48,doc11.txt,1,2.303
 1960,doc1.txt,6,doc12.txt,1,doc14.txt,2,doc16.txt,1,doc4.txt,3,doc5.txt,1,doc6.txt,1,doc8.txt,1,0.693
-Bernandino–Riverside–Ontario CA MSA	West,doc14.txt,1,2.303
 justic,doc14.txt,1,doc4.txt,1,1.792
-Paul–Bloomington MN–WI MSA	Midwest,doc14.txt,1,2.303
 Term Import,doc1.txt,1,2.303
 cyclic,doc13.txt,1,2.303
 [155][156],doc11.txt,1,2.303
