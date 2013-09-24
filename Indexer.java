@@ -72,7 +72,6 @@ class Indexer {
 				String fileName = files[i].getName();
 				if (fileName.endsWith(".txt") || fileName.endsWith(".TXT"))
 				{
-					System.out.println(fileName);
 					textFiles.add(files[i]);
 				}
 			}
@@ -209,14 +208,6 @@ class Indexer {
 		ArrayList<File> corpusTextFiles = textFilesInDirectory(collection_dir);
 		int numbDocuments = 0;	
 		ArrayList<HashMap<String,Integer>> docTokenFreqs = new ArrayList<HashMap<String,Integer>>();
-		Tokenizer tokenizer1 = new Tokenizer();
-		if (stopwords_file != null)
-		{
-			HashSet<String> stopwords = new HashSet<String>();
-			stopwords.addAll(readStopwordFile(stopwords_file));
-			tokenizer1.setStopwordList(stopwords);
-		}
-		
 		
 		
 		Iterator<File> it = corpusTextFiles.iterator();
@@ -227,6 +218,14 @@ class Indexer {
 			if (fileLines.size() > 0)
 			{
 				numbDocuments += 1;
+				
+				Tokenizer tokenizer1 = new Tokenizer();
+				if (stopwords_file != null)
+				{
+					HashSet<String> stopwords = new HashSet<String>();
+					stopwords.addAll(readStopwordFile(stopwords_file));
+					tokenizer1.setStopwordList(stopwords);
+				}
 
 				HashMap<String, Integer> tokens = tokenizer1.tokenize(fileLines);
 

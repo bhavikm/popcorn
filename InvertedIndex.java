@@ -2,6 +2,8 @@ import java.util.Map;
 import java.util.HashMap;
 import java.io.*;
 import java.util.Scanner;
+import java.util.HashSet;
+
 
 class InvertedIndex {
 
@@ -12,6 +14,9 @@ class InvertedIndex {
 	// docName -> vectorNorm value (pre-computed to use in cosine similarity calculations)
 	// Note !!! this will be pre-computed without taking the square-root (thus its the Norm Squared)
 	public HashMap<String, Double> docVectorNormsSquared;
+	// set of all documents
+	public HashSet<String> corpusDocs;
+	
 	
 	private static String indexFileName = "index.txt";
   	
@@ -20,6 +25,7 @@ class InvertedIndex {
 		invertedIndexTFs = new HashMap<String, HashMap<String, Integer>>();
 		termIDFs = new HashMap<String, Double>();
 		docVectorNormsSquared =  new HashMap<String, Double>();
+		corpusDocs = new HashSet<String>();
 	}
 	
 	// Expects file with structure:
@@ -68,8 +74,12 @@ class InvertedIndex {
 						HashMap<String, Integer> docTFs = new HashMap<String, Integer>();
 						for (int i = 1; i < parts.length - 1; i += 2)
 						{
+							String docName = parts[i];
 							int termFreq = Integer.parseInt(parts[i+1]);
-							docTFs.put(parts[i],termFreq);	
+							docTFs.put(docName,termFreq);
+							
+							//build up non-duplicate set of corpus doc names
+							corpusDocs.add(docName);
 							
 							//add to document vector norm calculation
 							double tfIDFSquared = (termFreq*idf)*(termFreq*idf);
@@ -83,6 +93,10 @@ class InvertedIndex {
 						invertedIndexTFs.put(token, docTFs);
 					}
                 }
+				
+				//Print vocab size
+				//System.out.println("Size of vocabulary: "+ invertedIndexTFs.size());
+				//System.out.println("Number of docs: "+ corpusDocs.size());
             }
             finally
             {
