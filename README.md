@@ -9,14 +9,11 @@ cosine similarities between the query vector and document vectors.
 To use:
 
 Compile: 
-
 javac *.java
 
 Index a collection of text documents: 
-
 java popcorn index collection_dir index_dir stopwords.txt
 
 Search over a created index:
-
 java popcorn search index_dir num_docs keyword_list
 
